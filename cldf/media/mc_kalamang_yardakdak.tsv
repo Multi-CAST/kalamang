@@ -1,0 +1,351 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	yardakdak	0001	#	#	#nc	#nc				
+kalamang	yardakdak	0001	mier	3DU	nc_pro.h	nc_pro	h		601	new
+kalamang	yardakdak	0001	bo-re	go-NFIN	nc	nc				
+kalamang	yardakdak	0001	kelak	mountain	nc	nc				
+kalamang	yardakdak	0001	=ka	=LAT	nc	nc				
+kalamang	yardakdak	0001	#	#	##	##				
+kalamang	yardakdak	0001	mier	3DU	pro.h:s	pro	h	s	601	
+kalamang	yardakdak	0001	kelak	mountain	np:obl	np		obl		
+kalamang	yardakdak	0001	=ka	=LAT	=rn	=rn				
+kalamang	yardakdak	0001	marmar	walk	lv	lv				
+kalamang	yardakdak	0001	bara	descend	v:pred	v		pred		
+kalamang	yardakdak	0001	oskeit	on/at_beach	np:g	np		g		
+kalamang	yardakdak	0001	=ko	=LOC	=rn	=rn				
+kalamang	yardakdak	0001	#	#	##	##				
+kalamang	yardakdak	0001	ZERO	ZERO	0.h:a	0	h	a	601	
+kalamang	yardakdak	0001	war	coconut	np:p	np		p	602	new
+kalamang	yardakdak	0001	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0001	sara-n	climb-N	lv	lv				
+kalamang	yardakdak	0001	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0001	koyet	finish	v:pred	v		pred		
+kalamang	yardakdak	0002	#	#	##	##				
+kalamang	yardakdak	0002	war	coconut	np:p	np		p	603	bridging
+kalamang	yardakdak	0002	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	601	
+kalamang	yardakdak	0002	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0002	ma	3SG	pro.h:a	pro	h	a	604	bridging
+kalamang	yardakdak	0002	di=	CAUS=	=lv	=lv				
+kalamang	yardakdak	0002	bara	descend	lv	lv				
+kalamang	yardakdak	0002	kiem	basket	np:l	np		l	605	new
+kalamang	yardakdak	0002	neko	inside	other:pred	other		pred		
+kalamang	yardakdak	0003	#	#	##	##				
+kalamang	yardakdak	0003	ZERO	ZERO	0.h:a	0	h	a	604	
+kalamang	yardakdak	0003	ZERO	ZERO	0:p	0		p	603	
+kalamang	yardakdak	0003	kiem	basket	np:l	np		l	605	
+kalamang	yardakdak	0003	neko-ra	inside-NFIN	other:pred	other		pred		
+kalamang	yardakdak	0003	#	#	##	##				
+kalamang	yardakdak	0003	mier	3DU	pro.h:s	pro	h	s	601	
+kalamang	yardakdak	0003	se	IAM	other	other				
+kalamang	yardakdak	0003	ecie-n	return-N	lv	lv				
+kalamang	yardakdak	0003	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0003	kelak	mountain	lv	lv				
+kalamang	yardakdak	0003	=ka	=LAT	=lv	=lv				
+kalamang	yardakdak	0003	toni	want	lv	lv				
+kalamang	yardakdak	0003	bo-t	go-T	v:pred	v		pred		
+kalamang	yardakdak	0003	=kin	=VOL	=rv	=rv				
+kalamang	yardakdak	0003	tapi	but	other	other				
+kalamang	yardakdak	0003	#	#	##	##				
+kalamang	yardakdak	0003	mu	3PL	pro.h:s	pro	h	s	601	
+kalamang	yardakdak	0003	tok	first	other	other				
+kalamang	yardakdak	0004	elao	under	np:l	np		l		
+kalamang	yardakdak	0004	marmar	walk	v:pred	v		pred		
+kalamang	yardakdak	0004	kariemun-rimun	cape-RED	np:other	np		other	606	
+kalamang	yardakdak	0005	#	#	##	##				
+kalamang	yardakdak	0005	mier	3DU	pro.h:s	pro	h	s	601	
+kalamang	yardakdak	0005	marmar	walk	v:pred	v		pred		
+kalamang	yardakdak	0005	marmar	walk	rv	rv				
+kalamang	yardakdak	0005	marmar	walk	rv	rv				
+kalamang	yardakdak	0005	#	#	##	##				
+kalamang	yardakdak	0005	ZERO	ZERO	0.h:s	0	h	s	601	
+kalamang	yardakdak	0005	toni	want	v:pred	v		pred		
+kalamang	yardakdak	0005	#	#	#cc:other	#cc		other		
+kalamang	yardakdak	0005	ZERO	ZERO	0.h:s	0	h	s	601	
+kalamang	yardakdak	0005	ecie-n	return-N	lv	lv				
+kalamang	yardakdak	0005	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0005	he	IAM	other	other				
+kalamang	yardakdak	0006	kelak	mountain	np:g	np		g		
+kalamang	yardakdak	0006	=ka	=LAT	=rn	=rn				
+kalamang	yardakdak	0006	bo-t	go-T	v:pred	v		pred		
+kalamang	yardakdak	0006	=kin	=VOL	=rv	=rv				
+kalamang	yardakdak	0006	#	#	##	##				
+kalamang	yardakdak	0006	ZERO	ZERO	0.h:s	0	h	s	601	
+kalamang	yardakdak	0006	kewe	house	np:g	np		g	608	bridging
+kalamang	yardakdak	0006	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	601	
+kalamang	yardakdak	0006	=gga	=LAT	=rn	=rn				
+kalamang	yardakdak	0006	bo-t	go-T	v:pred	v		pred		
+kalamang	yardakdak	0006	=kin	=VOL	=rv	=rv				
+kalamang	yardakdak	0007	#	#	##	##				
+kalamang	yardakdak	0007	kan	you_know	other	other				
+kalamang	yardakdak	0007	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0007	war	coconut	np:p	np		p	603	
+kalamang	yardakdak	0007	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0007	pabie-n	carry-N	v:pred	v		pred		
+kalamang	yardakdak	0007	jadi	so	other	other				
+kalamang	yardakdak	0007	#	#	##	##				
+kalamang	yardakdak	0007	wat sarenden	coconut	np:s	np		s	603	
+kalamang	yardakdak	0007	kan	you_know	other	other				
+kalamang	yardakdak	0007	kiem	basket	np:l	np		l	605	
+kalamang	yardakdak	0007	nerunggo	inside	other:pred	other		pred		
+kalamang	yardakdak	0007	#	#	##	##				
+kalamang	yardakdak	0007	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0007	ZERO	ZERO	0:p	0		p	603	
+kalamang	yardakdak	0007	pabie	carry	v:pred	v		pred		
+kalamang	yardakdak	0007	kan	you_know	other	other				
+kalamang	yardakdak	0007	#	#	##	##				
+kalamang	yardakdak	0007	per	water	np:s	np		s	607	bridging
+kalamang	yardakdak	0007	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	603	
+kalamang	yardakdak	0008	loi	fast	other	other				
+kalamang	yardakdak	0008	ewawa-ewawa	speak-RED	v:pred	v		pred		
+kalamang	yardakdak	0009	#	#	##	##				
+kalamang	yardakdak	0009	ar-ar	make_sound-RED	nc	nc				
+kalamang	yardakdak	0009	per	water	np:s	np		s	607	
+kalamang	yardakdak	0009	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	603	
+kalamang	yardakdak	0009	ar-ar	make_sound-RED	v:pred	v		pred		
+kalamang	yardakdak	0010	#	#	##	##				
+kalamang	yardakdak	0010	jadi	so	other	other				
+kalamang	yardakdak	0010	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0010	roye	turn	lv	lv				
+kalamang	yardakdak	0010	wandi	like_this	lv	lv				
+kalamang	yardakdak	0010	kome-t	see-T	v:pred	v		pred		
+kalamang	yardakdak	0011	#	#	##	##				
+kalamang	yardakdak	0011	mungkin	maybe	other	other				
+kalamang	yardakdak	0011	enem	older_or_respected_woman	np.h:dt_obl	np	h	dt_obl	608	
+kalamang	yardakdak	0011	yua	PROX	rn	rn				
+kalamang	yardakdak	0011	me	TOP	other	other				
+kalamang	yardakdak	0011	canam	man	np.h:s	np	h	s	609	new
+kalamang	yardakdak	0011	=a	=FOC	=rn	=rn				
+kalamang	yardakdak	0011	kon	one	rn	rn				
+kalamang	yardakdak	0011	=a	=FOC	=rn	=rn				
+kalamang	yardakdak	0011	ma	3SG	pro.h:obl	pro	h	obl	608	
+kalamang	yardakdak	0011	=bon	=COM	=rn	=rn				
+kalamang	yardakdak	0011	ewa	speak	v:pred	v		pred		
+kalamang	yardakdak	0011	reon	maybe	other	other				
+kalamang	yardakdak	0012	#	#	#nc	#nc				
+kalamang	yardakdak	0012	pacar	boyfriend	nc_np.h	nc_np	h		609	
+kalamang	yardakdak	0012	-un	-3POSS	nc_pro.h	nc_pro	h		608	
+kalamang	yardakdak	0012	reon	maybe	nc	nc				
+kalamang	yardakdak	0013	#	#	##	##				
+kalamang	yardakdak	0013	padahal	however	other	other				
+kalamang	yardakdak	0013	ZERO	ZERO	0:s	0		s		
+kalamang	yardakdak	0013	wat	coconut	np:pred	np		pred	603	
+kalamang	yardakdak	0013	per	water	rn	rn				
+kalamang	yardakdak	0013	-un	-3POSS	rn_pro:poss	rn_pro		poss	603	
+kalamang	yardakdak	0014	#	#	##	##				
+kalamang	yardakdak	0014	wat	coconut	np:p	np		p	603	
+kalamang	yardakdak	0014	per	water	rn	rn				
+kalamang	yardakdak	0014	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	603	
+kalamang	yardakdak	0014	kan	you_know	other	other				
+kalamang	yardakdak	0014	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0014	di=	CAUS=	=other	=other				
+kalamang	yardakdak	0014	kiem	basket	np:g	np		g		
+kalamang	yardakdak	0014	nerunggo	inside	other:pred	other		pred		
+kalamang	yardakdak	0014	kan	you_know	other	other				
+kalamang	yardakdak	0015	#	#	#nc	#nc				
+kalamang	yardakdak	0015	ZERO	ZERO	nc_0.h	nc_0	h		604	
+kalamang	yardakdak	0015	marmar	walk	nc	nc				
+kalamang	yardakdak	0015	=et	=IRR	nc	nc				
+kalamang	yardakdak	0015	kan	you_know	nc	nc				
+kalamang	yardakdak	0015	#	#	##	##				
+kalamang	yardakdak	0015	wat	coconut	np:s	np		s	603	
+kalamang	yardakdak	0015	per	water	rn	rn				
+kalamang	yardakdak	0015	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	603	
+kalamang	yardakdak	0015	wandi	like_this	other	other				
+kalamang	yardakdak	0015	ar-ar	make_sound-RED	v:pred	v		pred		
+kalamang	yardakdak	0016	#	#	##	##				
+kalamang	yardakdak	0016	a	FIL	nc	nc				
+kalamang	yardakdak	0016	jadi	so	nc	nc				
+kalamang	yardakdak	0017	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0017	roye	turn	lv	lv				
+kalamang	yardakdak	0017	ma	3SG	pro.h:p	pro	h	p	608	
+kalamang	yardakdak	0017	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0017	dakdak	chop	v:pred	v		pred		
+kalamang	yardakdak	0017	#	#	##	##				
+kalamang	yardakdak	0017	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0017	roye	turn	lv	lv				
+kalamang	yardakdak	0017	ma	3SG	pro.h:p	pro	h	p	608	
+kalamang	yardakdak	0017	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0017	koyak	hit_with_tool	v:pred	v		pred		
+kalamang	yardakdak	0018	#	#	##	##				
+kalamang	yardakdak	0018	ZERO	ZERO	0.h:a	0	h	a	604	
+kalamang	yardakdak	0018	ZERO	ZERO	0.h:p	0	h	p	608	
+kalamang	yardakdak	0018	koya	hit_with_tool	lv	lv				
+kalamang	yardakdak	0018	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0018	koyet	finish	v:pred	v		pred		
+kalamang	yardakdak	0018	#	#	##	##				
+kalamang	yardakdak	0018	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0018	ZERO	ZERO	0.h:p	0	h	p	608	
+kalamang	yardakdak	0018	di=	CAUS=	=lv	=lv				
+kalamang	yardakdak	0018	sara	ascend	lv	lv				
+kalamang	yardakdak	0018	yar	stone	np:l	np		l	610	new
+kalamang	yardakdak	0018	kerunggo	on_top_of	rn	rn				
+kalamang	yardakdak	0018	dakdak	chop	v:pred	v		pred		
+kalamang	yardakdak	0019	#	#	##	##				
+kalamang	yardakdak	0019	ZERO	ZERO	0.h:a	0	h	a	604	
+kalamang	yardakdak	0019	ZERO	ZERO	0.h:p	0	h	p	608	
+kalamang	yardakdak	0019	dakda	chop	lv	lv				
+kalamang	yardakdak	0019	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0019	koyet	finish	v:pred	v		pred		
+kalamang	yardakdak	0020	#	#	##	##				
+kalamang	yardakdak	0020	jadi	so	other	other				
+kalamang	yardakdak	0020	ma-raet	3SG-again	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0020	koi	then	other	other				
+kalamang	yardakdak	0020	kiem	basket	np:p	np		p	605	
+kalamang	yardakdak	0020	me	DIST	rn	rn				
+kalamang	yardakdak	0020	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0020	jie-n	get-N	lv	lv				
+kalamang	yardakdak	0020	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0020	koyet	finish	v:pred	v		pred		
+kalamang	yardakdak	0020	pabie	carry	rv	rv				
+kalamang	yardakdak	0021	#	#	##	##				
+kalamang	yardakdak	0021	ZERO	ZERO	0.h:a	0	h	a	604	
+kalamang	yardakdak	0021	ZERO	ZERO	0:p	0		p	605	
+kalamang	yardakdak	0021	pabie	carry	v:pred	v		pred		
+kalamang	yardakdak	0021	#	#	##	##				
+kalamang	yardakdak	0021	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0021	marmar	walk	v:pred	v		pred		
+kalamang	yardakdak	0022	#	#	##	##				
+kalamang	yardakdak	0022	wat	coconut	np:s	np		s	603	
+kalamang	yardakdak	0022	opa	ANA	rn	rn				
+kalamang	yardakdak	0022	me	TOP	other	other				
+kalamang	yardakdak	0022	kiem	basket	np:l	np		l	605	
+kalamang	yardakdak	0022	nerunggo	inside	other:pred	other		pred		
+kalamang	yardakdak	0022	#	#	##	##				
+kalamang	yardakdak	0022	ZERO	ZERO	0:s	0		s	603	
+kalamang	yardakdak	0022	sile	back	np:l	np		l		
+kalamang	yardakdak	0022	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	604	
+kalamang	yardakdak	0022	=ggo	=LOC	=rn	=rn				
+kalamang	yardakdak	0023	ar-ar	make_sound-RED	v:pred	v		pred		
+kalamang	yardakdak	0024	ar-ar	make_sound-RED	nc	nc				
+kalamang	yardakdak	0025	#	#	##	##				
+kalamang	yardakdak	0025	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0025	wandi	like_this	other	other				
+kalamang	yardakdak	0025	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	yardakdak	0025	#	#	##ds	##ds				
+kalamang	yardakdak	0025	o	EMPH	other	other				
+kalamang	yardakdak	0025	ZERO	ZERO	0:s	0		s		
+kalamang	yardakdak	0025	wat	coconut	np:predex	np		predex	603	
+kalamang	yardakdak	0025	yua	PROX	rn	rn				
+kalamang	yardakdak	0025	=ba	=FOC	other	other				
+kalamang	yardakdak	0026	#	#	##ds	##ds				
+kalamang	yardakdak	0026	bukan	not	other	other				
+kalamang	yardakdak	0027	emnem	old_woman	np.h:predex	np	h	predex	608	
+kalamang	yardakdak	0027	pacar	boyfriend	rn_np.h	rn_np	h		609	
+kalamang	yardakdak	0027	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	608	
+kalamang	yardakdak	0027	ge	not	other	other				
+kalamang	yardakdak	0027	#	#	##ds	##ds				
+kalamang	yardakdak	0027	wat	coconut	np:s	np		s	603	
+kalamang	yardakdak	0027	yua	PROX	rn	rn				
+kalamang	yardakdak	0027	=ba	=FOC	=rn	=rn				
+kalamang	yardakdak	0027	per	water	rn_np	rn_np			607	
+kalamang	yardakdak	0027	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	603	
+kalamang	yardakdak	0027	ar-ar	make_a_sound-RED	v:pred	v		pred		
+kalamang	yardakdak	0027	=ta	=NFIN	=rv	=rv				
+kalamang	yardakdak	0027	yua	PROX	other	other				
+kalamang	yardakdak	0028	#	#	##	##				
+kalamang	yardakdak	0028	tapi	but	other	other				
+kalamang	yardakdak	0028	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0028	he	IAM	other	other				
+kalamang	yardakdak	0028	tamandi	how	other:pred_other	other		pred_other		
+kalamang	yardakdak	0028	=et	=IRR	=other	=other				
+kalamang	yardakdak	0028	kan	you_know	other	other				
+kalamang	yardakdak	0029	#	#	##	##				
+kalamang	yardakdak	0029	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0029	naminyasal	be_sorry	v:pred	v		pred		
+kalamang	yardakdak	0029	=i	=PLNK	=lv	=lv				
+kalamang	yardakdak	0029	kan	you_know	other	other				
+kalamang	yardakdak	0029	#	#	#nc	#nc				
+kalamang	yardakdak	0029	se	IAM	nc	nc				
+kalamang	yardakdak	0029	koyet	finish	nc	nc				
+kalamang	yardakdak	0029	kan	you_know	nc	nc				
+kalamang	yardakdak	0029	#	#	##	##				
+kalamang	yardakdak	0029	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0029	he	IAM	other	other				
+kalamang	yardakdak	0029	ma	3SG	pro.h:p	pro	h	p	608	
+kalamang	yardakdak	0029	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0029	dakdak	chop	v:pred	v		pred		
+kalamang	yardakdak	0029	#	#	##	##				
+kalamang	yardakdak	0029	ZERO	ZERO	0.h:a	0	h	a	604	
+kalamang	yardakdak	0029	ZERO	ZERO	0.h:p	0	h	p	608	
+kalamang	yardakdak	0029	di=	CAUS=	=lv	=lv				
+kalamang	yardakdak	0029	sara	ascend	lv	lv				
+kalamang	yardakdak	0029	yar	stone	np:l	np		l	610	
+kalamang	yardakdak	0029	keitko	top	np:pred	np		pred		
+kalamang	yardakdak	0030	#	#	##	##				
+kalamang	yardakdak	0030	jadi	so	other	other				
+kalamang	yardakdak	0030	yar	stone	np:dt_poss	np		dt_poss	610	
+kalamang	yardakdak	0030	ma	3SG	np:assoc	np		assoc		
+kalamang	yardakdak	0030	me	TOP	other	other				
+kalamang	yardakdak	0030	in	name	np:s	np		s		
+kalamang	yardakdak	0030	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	610	
+kalamang	yardakdak	0030	yar	stone	pn_np:pred	pn_np		pred		
+kalamang	yardakdak	0030	dakdak	chop	rn	rn				
+kalamang	yardakdak	0031	#	#	#nc	#nc				
+kalamang	yardakdak	0031	ada	there_is	nc	nc				
+kalamang	yardakdak	0032	#	#	##	##				
+kalamang	yardakdak	0032	in	name	np:s	np		s		
+kalamang	yardakdak	0032	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	610	
+kalamang	yardakdak	0032	yar	stone	pn_np:pred	pn_np		pred		
+kalamang	yardakdak	0032	dakdak	chop	rn	rn				
+kalamang	yardakdak	0033	#	#	##	##				
+kalamang	yardakdak	0033	yar	stone	np:dt_poss	np		dt_poss	610	
+kalamang	yardakdak	0033	ma	3SG	np:assoc	np		assoc		
+kalamang	yardakdak	0033	me	TOP	rn	rn				
+kalamang	yardakdak	0033	in	name	np:s	np		s		
+kalamang	yardakdak	0033	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	610	
+kalamang	yardakdak	0033	yar	stone	pn_np:pred	pn_np		pred		
+kalamang	yardakdak	0033	dakdak	chop	rn	rn				
+kalamang	yardakdak	0034	#	#	##	##				
+kalamang	yardakdak	0034	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0034	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	yardakdak	0034	#	#	##ds.neg	##ds.neg				
+kalamang	yardakdak	0034	o	INTJ	other	other				
+kalamang	yardakdak	0035	wa	PROX	other	other				
+kalamang	yardakdak	0035	me	TOP	other	other				
+kalamang	yardakdak	0036	teya	man	np.h:s	np	h	s	609	
+kalamang	yardakdak	0036	kian	my_wife	np.h:obl	np	h	obl	608	
+kalamang	yardakdak	0036	=bon	=COM	=rn	=rn				
+kalamang	yardakdak	0036	garung	talk_together	v:pred	v		pred		
+kalamang	yardakdak	0036	=nin	=NEG	=rv	=rv				
+kalamang	yardakdak	0036	wa	PROX	other	other				
+kalamang	yardakdak	0036	me	TOP	other	other				
+kalamang	yardakdak	0037	#	#	##ds	##ds				
+kalamang	yardakdak	0037	wat	coconut	np:s	np		s	603	
+kalamang	yardakdak	0037	yua	PROX	rn	rn				
+kalamang	yardakdak	0037	=ba	=FOC	=rn	=rn				
+kalamang	yardakdak	0037	ewawa-ra	speak-NFIN	v:pred	v		pred		
+kalamang	yardakdak	0037	yuwane	PROX	other	other				
+kalamang	yardakdak	0037	#	#	##ds	##ds				
+kalamang	yardakdak	0037	wat	coconut	np:s	np		s	603	
+kalamang	yardakdak	0037	yua	PROX	rn	rn				
+kalamang	yardakdak	0037	=ba	=FOC	=rn	=rn				
+kalamang	yardakdak	0037	ar-ar	make_sound-RED	v:pred	v		pred		
+kalamang	yardakdak	0038	#	#	##	##				
+kalamang	yardakdak	0038	jadi	so	other	other				
+kalamang	yardakdak	0038	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0038	ma	3SG	pro.h:p	pro	h	p	608	
+kalamang	yardakdak	0038	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0038	dakdak	chop	v:pred	v		pred		
+kalamang	yardakdak	0038	#	#	##	##				
+kalamang	yardakdak	0038	ZERO	ZERO	0:s	0		s	604	
+kalamang	yardakdak	0038	he	IAM	other	other				
+kalamang	yardakdak	0038	tamandi	how	other:pred	other		pred		
+kalamang	yardakdak	0038	=et	=IRR	=other	=other				
+kalamang	yardakdak	0038	#	#	##	##				
+kalamang	yardakdak	0038	ma	3SG	pro.h:s	pro	h	s	604	
+kalamang	yardakdak	0038	naminyasal	be_sorry	v:pred	v		pred		
+kalamang	yardakdak	0038	#	#	##	##				
+kalamang	yardakdak	0038	ZERO	ZERO	0:s	0		s		
+kalamang	yardakdak	0038	se	IAM	other	other				
+kalamang	yardakdak	0038	koyet	finish	v:pred	v		pred		
+kalamang	yardakdak	0039	#	#	##	##				
+kalamang	yardakdak	0039	kan	you_know	other	other				
+kalamang	yardakdak	0039	ma	3SG	pro.h:a	pro	h	a	604	
+kalamang	yardakdak	0039	he	IAM	other	other				
+kalamang	yardakdak	0039	ma	3SG	pro.h:p	pro	h	p	608	
+kalamang	yardakdak	0039	=at	=OBJ	=rn	=rn				
+kalamang	yardakdak	0039	rua-n	kill-N	v:pred	v		pred		
+kalamang	yardakdak	0040	#	#	#nc	#nc				
+kalamang	yardakdak	0040	ma	3SG	nc	nc				
+kalamang	yardakdak	0040	me	TOP	nc	nc				
+kalamang	yardakdak	0041	#	#	#nc	#nc				
+kalamang	yardakdak	0041	mm	AGR	nc	nc				

@@ -1,0 +1,841 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	keluer	0001	#	#	##	##				
+kalamang	keluer	0001	nene	grandmother	np.h:predex	np	h	predex	201	new
+kalamang	keluer	0001	kon	one	rn	rn				
+kalamang	keluer	0001	=bon	=COM	=rn	=rn				
+kalamang	keluer	0001	tumtum	child	rn_np.h	rn_np	h		202	new
+kalamang	keluer	0001	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0001	eir	two	rn	rn				
+kalamang	keluer	0001	=bon	=COM	=rn	=rn				
+kalamang	keluer	0002	#	#	##	##				
+kalamang	keluer	0002	kon	one	other.h:s	other	h	s	203	bridging
+kalamang	keluer	0002	mang	Mang	pn_np.h:obl	pn_np	h	obl	204	new
+kalamang	keluer	0002	=bon	=COM	=rn	=rn				
+kalamang	keluer	0002	miarip	DIST.QNT	other:pred	other		pred		
+kalamang	keluer	0003	#	#	##	##				
+kalamang	keluer	0003	eh	FIL	other	other				
+kalamang	keluer	0003	kon	one	other.h:s	other	h	s	203	
+kalamang	keluer	0003	rehan	Rehan	pn_np.h:obl	pn_np	h	obl	205	new
+kalamang	keluer	0003	=bon	=COM	=rn	=rn				
+kalamang	keluer	0003	miarip	DIST.QNT	other:pred	other		pred		
+kalamang	keluer	0003	#	#	##	##				
+kalamang	keluer	0003	kon	one	other.h:s	other	h	s	206	bridging
+kalamang	keluer	0003	se	IAM	other	other				
+kalamang	keluer	0003	temun	big	v:pred	v		pred		
+kalamang	keluer	0003	#	#	##	##				
+kalamang	keluer	0003	kon	one	other.h:s	other	h	s	206	
+kalamang	keluer	0003	mungkin	maybe	other	other				
+kalamang	keluer	0004	randa	Randa	pn_np.h:obl	pn_np	h	obl	207	new
+kalamang	keluer	0004	miarip	DIST.QNT	other:pred	other		pred		
+kalamang	keluer	0004	ye	or	other	other				
+kalamang	keluer	0005	#	#	##	##				
+kalamang	keluer	0005	ah	INT	other	other				
+kalamang	keluer	0006	mera	then	other	other				
+kalamang	keluer	0007	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0007	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0007	se	IAM	other	other				
+kalamang	keluer	0007	bo	go	lv	lv				
+kalamang	keluer	0007	masu	fish_with_light	v:pred	v		pred		
+kalamang	keluer	0008	#	#	##	##				
+kalamang	keluer	0008	mier	3DU	pro.h:s	pro	h	s	202	
+kalamang	keluer	0008	kewe	house	np:pred_l	np		pred_l	208	new
+kalamang	keluer	0008	=ko	=LOC	=rn	=rn				
+kalamang	keluer	0008	#	#	##	##				
+kalamang	keluer	0008	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0008	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0008	bo	go	lv	lv				
+kalamang	keluer	0008	masu	fish_with_light	v:pred	v		pred		
+kalamang	keluer	0008	#	#	##	##				
+kalamang	keluer	0008	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0008	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0008	bo	go	lv	lv				
+kalamang	keluer	0008	masu	fish_with_light	v:pred	v		pred		
+kalamang	keluer	0008	masu	fish_with_light	nc	nc				
+kalamang	keluer	0009	#	#	##neg	##neg				
+kalamang	keluer	0009	sor	fish	np.n:s	np	n	s	209	bridging
+kalamang	keluer	0009	saerak	NEG.EXT	v:predex	v		predex		
+kalamang	keluer	0010	#	#	##	##				
+kalamang	keluer	0010	keluer	crab	np.n:predex	np	n	predex	210	new
+kalamang	keluer	0010	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0010	et-kon	CLF.an-one	rn	rn				
+kalamang	keluer	0011	#	#	##	##				
+kalamang	keluer	0011	keluer	crab	np.n:p	np	n	p	210	
+kalamang	keluer	0011	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0011	et-kon	CLF.an-one	rn	rn				
+kalamang	keluer	0011	=a	=FOC	=rn	=rn				
+kalamang	keluer	0011	ma	3SG	pro.h:a	pro	h	a	201	
+kalamang	keluer	0011	he	IAM	other	other				
+kalamang	keluer	0011	kuru	bring	lv	lv				
+kalamang	keluer	0011	mahara	move_towards_land	v:pred	v		pred		
+kalamang	keluer	0011	#	#	##	##				
+kalamang	keluer	0011	ZERO	ZERO	0.h:a	0	h	a	201	
+kalamang	keluer	0011	ZERO	ZERO	0.n:p	0	n	p	210	
+kalamang	keluer	0011	kiem-neko	basket-inside	np:l	np		l	213	new
+kalamang	keluer	0011	manggang-gang	hang-RED	v:pred	v		pred		
+kalamang	keluer	0012	#	#	##	##				
+kalamang	keluer	0012	bo	go	other	other				
+kalamang	keluer	0012	godung	early_morning	other	other				
+kalamang	keluer	0013	ma	3SG	pro.h:s_ds	pro	h	s_ds	201	
+kalamang	keluer	0013	toni	say	v:pred	v		pred		
+kalamang	keluer	0013	#	#	##ds	##ds				
+kalamang	keluer	0013	ZERO	ZERO	0.2:a	0	2	a	202	
+kalamang	keluer	0013	keluer	crab	np.n:p	np	n	p	210	
+kalamang	keluer	0013	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0013	sair	bake	v:pred	v		pred		
+kalamang	keluer	0013	=tar	=PL.IMP	=rv	=rv				
+kalamang	keluer	0013	eh	INTJ	other	other				
+kalamang	keluer	0013	#	#	##ds	##ds				
+kalamang	keluer	0013	an	1SG	pro.1:s	pro	1	s	201	
+kalamang	keluer	0013	amdir	garden	np:g	np		g	211	bridging
+kalamang	keluer	0013	=ka	=LAT	=rn	=rn				
+kalamang	keluer	0013	bo	go	v:pred	v		pred		
+kalamang	keluer	0013	=et	=IRR	=rv	=rv				
+kalamang	keluer	0014	#	#	##	##				
+kalamang	keluer	0014	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0014	amdir	garden	np:g	np		g	211	
+kalamang	keluer	0014	=ka	=LAT	=rn	=rn				
+kalamang	keluer	0014	bo	go	lv	lv				
+kalamang	keluer	0014	muap-ruo	food-dig	v:pred	v		pred		
+kalamang	keluer	0015	#	#	##	##				
+kalamang	keluer	0015	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0015	bo	go	lv	lv				
+kalamang	keluer	0015	amdir	garden	np:g	np		g	211	
+kalamang	keluer	0015	=ka	=LAT	=rn	=rn				
+kalamang	keluer	0015	bo	go	lv	lv				
+kalamang	keluer	0015	muap-ruo	food-dig	v:pred	v		pred		
+kalamang	keluer	0015	bo	go	nc	nc				
+kalamang	keluer	0016	#	#	##ds	##ds				
+kalamang	keluer	0016	ZERO	ZERO	0.2:a	0	2	a	202	
+kalamang	keluer	0016	ZERO	ZERO	0.n:p	0	n	p	210	
+kalamang	keluer	0016	sair	bake	v:pred	v		pred		
+kalamang	keluer	0016	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0016	ba	but	other	other				
+kalamang	keluer	0016	ki-mun	2PL-PROH	pro.2:a	pro	2	a	202	
+kalamang	keluer	0016	nein	consume	v:pred	v		pred		
+kalamang	keluer	0016	eh	INTJ	other	other				
+kalamang	keluer	0016	keluer	crab	np.n:p	np	n	p	210	
+kalamang	keluer	0016	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	201	
+kalamang	keluer	0016	=a	=FOC	=rn	=rn				
+kalamang	keluer	0017	#	#	##	##				
+kalamang	keluer	0017	ZERO	ZERO	0.h:a	0	h	a	202	
+kalamang	keluer	0017	keluer	crab	np:p	np		p	210	
+kalamang	keluer	0017	opa	ANA	rn	rn				
+kalamang	keluer	0017	sair	bake	lv	lv				
+kalamang	keluer	0017	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0017	koyet	finish	v:pred	v		pred		
+kalamang	keluer	0017	#	#	##	##				
+kalamang	keluer	0017	adi	younger_sibling	np.h:a	np	h	a	203	
+kalamang	keluer	0017	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0017	cicaun	small	rn	rn				
+kalamang	keluer	0017	se	IAM	other	other				
+kalamang	keluer	0017	ZERO	ZERO	np:p	np		p	210	
+kalamang	keluer	0017	minta	ask_for	v:pred	v		pred		
+kalamang	keluer	0018	#	#	##	##				
+kalamang	keluer	0018	ma	3SG	pro.h:a	pro	h	a	203	
+kalamang	keluer	0018	he	IAM	other	other				
+kalamang	keluer	0018	ZERO	ZERO	np:p	np		p	210	
+kalamang	keluer	0018	paning	ask	v:pred	v		pred		
+kalamang	keluer	0019	#	#	##ds	##ds				
+kalamang	keluer	0019	ZERO	ZERO	0.2:a	0	2	a	206	
+kalamang	keluer	0019	keluer	crab	np:p	np		p	210	
+kalamang	keluer	0019	me	DIST	rn	rn				
+kalamang	keluer	0019	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0019	bolon-i	a_little-QNT.OBJ	rn	rn				
+kalamang	keluer	0019	an	1SG	pro.1:g	pro	1	g	203	
+kalamang	keluer	0019	0	give	0:pred	0		pred		
+kalamang	keluer	0019	-de	-IMP	-rv	-rv				
+kalamang	keluer	0020	#	#	##	##				
+kalamang	keluer	0020	me	TOP	other	other				
+kalamang	keluer	0020	kaka	older_sibling	np.h:a	np	h	a	206	
+kalamang	keluer	0020	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	203	
+kalamang	keluer	0020	se	IAM	other	other				
+kalamang	keluer	0020	ZERO	ZERO	np:p	np		p	210	
+kalamang	keluer	0020	kawarma-n-i	break-N-QNT.OBJ	lv	lv				
+kalamang	keluer	0020	ma	3SG	pro:g	pro		g	203	
+kalamang	keluer	0020	0	give	0:pred	0		pred		
+kalamang	keluer	0020	#	#	##	##				
+kalamang	keluer	0020	ZERO	ZERO	0.h:a	0	h	a	206	
+kalamang	keluer	0020	tan	arm_and_hand	np:p	np		p	212	bridging
+kalamang	keluer	0020	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	210	
+kalamang	keluer	0020	cicaun	small_one	rn	rn				
+kalamang	keluer	0020	=tun-ar	=very-OBJ	=rn	=rn				
+kalamang	keluer	0020	=a	=FOC	=rn	=rn				
+kalamang	keluer	0020	kawarma-n-i	break-N-QNT.OBJ	lv	lv				
+kalamang	keluer	0020	ma	3SG	pro.h:g	pro	h	g	203	
+kalamang	keluer	0020	0	give	0:pred	0		pred		
+kalamang	keluer	0021	#	#	##	##				
+kalamang	keluer	0021	ZERO	ZERO	0.h:a	0	h	a	206	
+kalamang	keluer	0021	ZERO	ZERO	0:p	0		p	212	
+kalamang	keluer	0021	kawarma-n-i	break-N-QNT.OBJ	lv	lv				
+kalamang	keluer	0021	ma	3SG	pro.h:g	pro	h	g	203	
+kalamang	keluer	0021	0	give	0	0				
+kalamang	keluer	0021	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0021	koyet	finish	v:pred	v		pred		
+kalamang	keluer	0021	#	#	##	##				
+kalamang	keluer	0021	bo	go	other	other				
+kalamang	keluer	0022	tik	take_long	other	other				
+kalamang	keluer	0022	=te	=NFIN	=other	=other				
+kalamang	keluer	0022	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0022	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0022	se	IAM	other	other				
+kalamang	keluer	0022	bara	descend	v:pred	v		pred		
+kalamang	keluer	0023	#	#	##	##				
+kalamang	keluer	0023	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0023	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0023	se	IAM	other	other				
+kalamang	keluer	0023	amdir	garden	np:l	np		l	211	
+kalamang	keluer	0023	=ka	=LAT	=rn	=rn				
+kalamang	keluer	0023	yecie	return	v:pred	v		pred		
+kalamang	keluer	0023	#	#	##	##				
+kalamang	keluer	0023	ma	3SG	pro.h:s_ds	pro	h	s_ds	201	
+kalamang	keluer	0023	he	IAM	other	other				
+kalamang	keluer	0023	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0024	#	#	##	##				
+kalamang	keluer	0024	ZERO	ZERO	0.h:a	0	h	a	201	
+kalamang	keluer	0024	kiem	basket	np:p	np		p	213	
+kalamang	keluer	0024	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0024	=a	=FOC	=rn	=rn				
+kalamang	keluer	0024	di=	CAUS=	=lv	=lv				
+kalamang	keluer	0024	bara	descend	v:pred	v		pred		
+kalamang	keluer	0024	#	#	##	##				
+kalamang	keluer	0024	ma	3SG	pro.h:s_ds	pro	h	s_ds	201	
+kalamang	keluer	0024	he	IAM	other	other				
+kalamang	keluer	0024	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0024	#	#	##ds	##ds				
+kalamang	keluer	0024	baru	then	other	other				
+kalamang	keluer	0025	kier	2DU	pro.2:a	pro	2	a	202	
+kalamang	keluer	0025	keluer	crab	np:p	np		p	210	
+kalamang	keluer	0025	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	201	
+kalamang	keluer	0025	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0025	sair	bake	v:pred	v		pred		
+kalamang	keluer	0025	#	#	##	##				
+kalamang	keluer	0025	ma	3SG	pro.h:s_ds	pro	h	s_ds	206	
+kalamang	keluer	0025	toni	say	v:pred	v		pred		
+kalamang	keluer	0025	#	#	##ds	##ds				
+kalamang	keluer	0025	ema	mother	np.h:voc	np	h	voc	201	
+kalamang	keluer	0025	an	1SG	pro.1:a	pro	1	a	206	
+kalamang	keluer	0025	se	IAM	other	other				
+kalamang	keluer	0025	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0025	sair	bake	v:pred	v		pred		
+kalamang	keluer	0026	#	#	##ds	##ds				
+kalamang	keluer	0026	an	1SG	pro.1:a	pro	1	a	206	
+kalamang	keluer	0026	se	IAM	other	other				
+kalamang	keluer	0026	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0026	sair	bake	v:pred	v		pred		
+kalamang	keluer	0026	ba	but	other	other				
+kalamang	keluer	0026	#	#	##ds	##ds				
+kalamang	keluer	0026	adik	younger_sibling	np.h:a	np	h	a	203	
+kalamang	keluer	0026	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0026	ko=	APPL=	=lv	=lv				
+kalamang	keluer	0026	ecua-ra	cry-NFIN	v:pred	v		pred		
+kalamang	keluer	0026	#	#	##ds	##ds				
+kalamang	keluer	0026	an	1SG	pro.1:a	pro	1	a	206	
+kalamang	keluer	0026	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0026	bolon-i	a_little-QNT.OBJ	rn	rn				
+kalamang	keluer	0026	ma	3SG	pro.h:g	pro	h	g	203	
+kalamang	keluer	0026	0	give	0:pred	0		pred		
+kalamang	keluer	0026	#	#	##ds	##ds				
+kalamang	keluer	0026	tan	arm_and_hand	np:p	np		p	212	
+kalamang	keluer	0026	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	210	
+kalamang	keluer	0026	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0026	an	1SG	pro.1:a	pro	1	a	206	
+kalamang	keluer	0026	kawarma-n-i	break-N-QNT.OBJ	lv	lv				
+kalamang	keluer	0026	ma	3SG	pro.h:g	pro	h	g	203	
+kalamang	keluer	0026	0	give	0:pred	0		pred		
+kalamang	keluer	0027	#	#	##ds	##ds				
+kalamang	keluer	0027	he	INTJ	other	other				
+kalamang	keluer	0027	ki	2PL	pro.2:a	pro	2	a	202	
+kalamang	keluer	0027	nenggap	why	other	other				
+kalamang	keluer	0027	koi	then	other	other				
+kalamang	keluer	0027	keluer	crab	np:p	np		p	210	
+kalamang	keluer	0027	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss		
+kalamang	keluer	0027	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0027	na	consume	v:pred	v		pred		
+kalamang	keluer	0028	#	#	#nc	#nc				
+kalamang	keluer	0028	ge	no	nc	nc				
+kalamang	keluer	0028	ema	mother	nc_np.h	nc_np	h		201	
+kalamang	keluer	0028	tan	arm_and_hand	nc_np	nc_np			212	
+kalamang	keluer	0028	-un	-3POSS	nc_pro	nc_pro			210	
+kalamang	keluer	0028	cicaun	small	nc	nc				
+kalamang	keluer	0029	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0029	eh	in	other	other				
+kalamang	keluer	0029	an	1SG	pro.1:s	pro	1	s	201	
+kalamang	keluer	0029	suka-n	like-N	v:pred	v		pred		
+kalamang	keluer	0029	-an	-1SG.POSS	-rv_pro.1:poss	-rv_pro	1	poss	201	
+kalamang	keluer	0029	ge	not	rv	rv				
+kalamang	keluer	0029	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0029	ki-mun	2PL-PROH	pro.2:a	pro	2	a	202	
+kalamang	keluer	0029	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0029	nein	eat.PROH	v:pred	v		pred		
+kalamang	keluer	0030	#	#	#nc	#nc				
+kalamang	keluer	0030	mera	then	nc	nc				
+kalamang	keluer	0030	me	TOP	nc	nc				
+kalamang	keluer	0031	#	#	#nc	#nc				
+kalamang	keluer	0031	tumun	child	nc_np.h	nc_np	h		203	
+kalamang	keluer	0031	-ja-ar	-2SG.POSS-OBJ	nc_pro.2	nc_pro	2		201	
+kalamang	keluer	0031	=a	=FOC	nc	nc				
+kalamang	keluer	0031	ZERO	ZERO	nc_0	nc_0			210	
+kalamang	keluer	0031	na	consume	nc	nc				
+kalamang	keluer	0032	#	#	##	##				
+kalamang	keluer	0032	tumun	child	np.h:a	np	h	a	203	
+kalamang	keluer	0032	-ja-ar	-2SG.POSS-OBJ	-rn_pro.2:poss	-rn_pro	2	poss	201	
+kalamang	keluer	0032	=a	=FOC	=rn	=rn				
+kalamang	keluer	0032	ZERO	ZERO	0:p	0		p	210	
+kalamang	keluer	0032	na	consume	v:pred	v		pred		
+kalamang	keluer	0032	#	#	##	##				
+kalamang	keluer	0032	ZERO	ZERO	0.2:s	0	2	s	201	
+kalamang	keluer	0032	boda-un	stupid-NC	other:pred	other		pred		
+kalamang	keluer	0033	#	#	##	##				
+kalamang	keluer	0033	mer	DIST.OBJ	other	other				
+kalamang	keluer	0033	=a	=FOC	=other	=other				
+kalamang	keluer	0033	me	TOP	other	other				
+kalamang	keluer	0033	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0033	he	IAM	other	other				
+kalamang	keluer	0033	ma	move_towards_sea	v:pred	v		pred		
+kalamang	keluer	0033	yie	swim	rv	rv				
+kalamang	keluer	0033	pasier	sea	np:l	np		l	214	new
+kalamang	keluer	0033	=ko	=LOC	=rn	=rn				
+kalamang	keluer	0034	#	#	#nc	#nc				
+kalamang	keluer	0034	mu	3PL	nc_pro.h	nc_pro	h		202	
+kalamang	keluer	0034	he	IAM	nc	nc				
+kalamang	keluer	0034	ma	3SG	nc_pro.h	nc_pro	h		201	
+kalamang	keluer	0034	=at	=OBJ	nc	nc				
+kalamang	keluer	0035	#	#	##	##				
+kalamang	keluer	0035	opa	ANA	nc	nc				
+kalamang	keluer	0035	tumun	child	np.h:a	np	h	a	203	
+kalamang	keluer	0035	opa	ANA	rn	rn				
+kalamang	keluer	0035	am	breast	np:p	np		p	215	new
+kalamang	keluer	0035	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0035	ko=	APPL=	=lv	=lv				
+kalamang	keluer	0035	ecua	cry	v:pred	v		pred		
+kalamang	keluer	0035	ba	but	other	other				
+kalamang	keluer	0035	#	#	##neg	##neg				
+kalamang	keluer	0035	ma	3SG	pro.h:a	pro	h	a	201	
+kalamang	keluer	0035	he	IAM	other	other				
+kalamang	keluer	0035	suka	want	lv	lv				
+kalamang	keluer	0035	-un	-3POSS	-ln_pro.h:poss	-ln_pro	h	poss	201	
+kalamang	keluer	0035	am	breast	np:p	np		p	215	
+kalamang	keluer	0035	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0035	mu	3PL	pro.h:g	pro	h	g	202	
+kalamang	keluer	0035	0	give	0:pred	0		pred		
+kalamang	keluer	0035	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0036	#	#	##neg	##neg				
+kalamang	keluer	0036	ma	3SG	pro.h:a	pro	h	a	201	
+kalamang	keluer	0036	am	breast	np:p	np		p	215	
+kalamang	keluer	0036	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0036	ma	3SG	pro.h:g	pro	h	g		
+kalamang	keluer	0036	0	give	0:pred	0		pred		
+kalamang	keluer	0036	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0036	#	#	##	##				
+kalamang	keluer	0036	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0036	he	IAM	other	other				
+kalamang	keluer	0036	marua	move_towards_sea	v:pred	v		pred		
+kalamang	keluer	0037	#	#	##	##				
+kalamang	keluer	0037	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0037	pasier	sea	np:l	np		l	214	
+kalamang	keluer	0037	=ko	=LOC	=rn	=rn				
+kalamang	keluer	0037	yie	swim	v:pred	v		pred		
+kalamang	keluer	0037	me	TOP	other	other				
+kalamang	keluer	0038	#	#	#	#				
+kalamang	keluer	0038	tumun	child	np:s_ds	np		s_ds	206	
+kalamang	keluer	0038	pas	female	rn	rn				
+kalamang	keluer	0038	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	201	
+kalamang	keluer	0038	se	IAM	other	other				
+kalamang	keluer	0038	gonggung	call_out	v:pred	v		pred		
+kalamang	keluer	0039	#	#	##ds	##ds				
+kalamang	keluer	0039	ema	mother	np.h:voc	np	h	voc	201	
+kalamang	keluer	0039	ZERO	ZERO	0.2:s	0	2	s	201	
+kalamang	keluer	0039	mahara	move_towards_land	v:pred	v		pred		
+kalamang	keluer	0039	ba	so_that	other	other				
+kalamang	keluer	0040	#	#	##ds	##ds				
+kalamang	keluer	0040	ZERO	ZERO	0.2:a	0	2	a	201	
+kalamang	keluer	0040	am	breast	np:p	np		p	215	
+kalamang	keluer	0040	=a	=FOC	=rn	=rn				
+kalamang	keluer	0040	di=	CAUS=	=lv	=lv				
+kalamang	keluer	0040	adi	younger_sibling	np.h:g	np	h	g		
+kalamang	keluer	0040	=ki	=BEN	=rn	=rn				
+kalamang	keluer	0040	0	give	0:pred	0		pred		
+kalamang	keluer	0040	=te	=IMP	=rv	=rv				
+kalamang	keluer	0041	#	#	##	##				
+kalamang	keluer	0041	ma	3SG	pro.h:s_ds	pro	h	s_ds		
+kalamang	keluer	0041	toni	say	v:pred	v		pred		
+kalamang	keluer	0041	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0041	o	EMPH	other	other				
+kalamang	keluer	0041	an	1SG	pro.1:s	pro	1	s		
+kalamang	keluer	0041	mara-t	move_towards_land-T	v:pred	v		pred		
+kalamang	keluer	0041	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0042	#	#	##ds	##ds				
+kalamang	keluer	0042	keluer	crab	np:s	np		s	210	
+kalamang	keluer	0042	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss		
+kalamang	keluer	0042	metko	DIST.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	keluer	0042	=et	=IRR	=rn	=rn				
+kalamang	keluer	0042	eba	then	other	other				
+kalamang	keluer	0042	#	#	##ds	##ds				
+kalamang	keluer	0042	an	1SG	pro.1:s	pro	1	s	201	
+kalamang	keluer	0042	mara-r	move_towards_land-T	v:pred	v		pred		
+kalamang	keluer	0042	=et	=IRR	=rv	=rv				
+kalamang	keluer	0043	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0043	kalo	if	other	other				
+kalamang	keluer	0043	keluer	crab	np:s	np		s	210	
+kalamang	keluer	0043	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	201	
+kalamang	keluer	0043	metko	DIST.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	keluer	0043	=nin	=NEG	=rn	=rn				
+kalamang	keluer	0043	=et	=IRR	=rn	=rn				
+kalamang	keluer	0043	me	TOP	other	other				
+kalamang	keluer	0043	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0043	an	1SG	pro.1:s	pro	1	s	201	
+kalamang	keluer	0043	mara-t	move_towards_land-T	v:pred	v		pred		
+kalamang	keluer	0043	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0044	#	#	##	##				
+kalamang	keluer	0044	me	TOP	other	other				
+kalamang	keluer	0044	ma	3SG	pro.h:s_ds	pro	h	s_ds	206	
+kalamang	keluer	0044	toni	say	v:pred	v		pred		
+kalamang	keluer	0045	#	#	#nc	#nc				
+kalamang	keluer	0045	ge	no	nc	nc				
+kalamang	keluer	0045	adi	[M]brother	nc_np.h	nc_np	h		203	
+kalamang	keluer	0045	-un	-3POSS	nc_pro.h	nc_pro	h		206	
+kalamang	keluer	0045	ma	3SG	nc_pro.h	nc_pro	h		203	
+kalamang	keluer	0045	=at	=OBJ	nc	nc				
+kalamang	keluer	0046	#	#	##	##				
+kalamang	keluer	0046	eh	HES	other	other				
+kalamang	keluer	0046	tumun	child	np.h:a_ds	np	h	a_ds	206	
+kalamang	keluer	0046	pas	female	rn	rn				
+kalamang	keluer	0046	se	IAM	other	other				
+kalamang	keluer	0046	mat	3SG.OBJ	pro.h:p	pro	h	p	201	
+kalamang	keluer	0046	gonggung	call	v:pred	v		pred		
+kalamang	keluer	0046	#	#	#nc	#nc				
+kalamang	keluer	0046	nina	grandmother	nc_np.h	nc_np	h		201	
+kalamang	keluer	0046	mulio	NC	nc	nc				
+kalamang	keluer	0046	alio	NC	nc	nc				
+kalamang	keluer	0046	namangalan	NC	nc	nc				
+kalamang	keluer	0046	susu	NC	nc_np	nc_np			215	
+kalamang	keluer	0047	#	#	##	##				
+kalamang	keluer	0047	to	right	other	other				
+kalamang	keluer	0047	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0047	nabalas	answer	v:pred	v		pred		
+kalamang	keluer	0047	wilak	sea	np:l	np		l	214	
+kalamang	keluer	0047	=ka	=LAT	=rn	=rn				
+kalamang	keluer	0047	#	#	##	##				
+kalamang	keluer	0047	ma	3SG	pro.h:s_ds	pro	h	s_ds	201	
+kalamang	keluer	0047	toni	say	v:pred	v		pred		
+kalamang	keluer	0048	#	#	#nc	#nc				
+kalamang	keluer	0048	karaka	NC	nc_np	nc_np			210	
+kalamang	keluer	0048	rei	NC	nc	nc				
+kalamang	keluer	0048	tei	NC	nc	nc				
+kalamang	keluer	0048	o	NC	nc	nc				
+kalamang	keluer	0048	kuande	NC	nc	nc				
+kalamang	keluer	0048	tei	NC	nc	nc				
+kalamang	keluer	0049	#	#	#nc	#nc				
+kalamang	keluer	0049	o	NC	nc	nc				
+kalamang	keluer	0049	bai	NC	nc	nc				
+kalamang	keluer	0049	mu	NC	nc	nc				
+kalamang	keluer	0049	begitu	NC	nc	nc				
+kalamang	keluer	0049	bagus	NC	nc	nc				
+kalamang	keluer	0049	lagi	NC	nc	nc				
+kalamang	keluer	0049	dia	NC	nc	nc				
+kalamang	keluer	0049	pu	NC	nc	nc				
+kalamang	keluer	0049	api	NC	nc	nc				
+kalamang	keluer	0049	ini	NC	nc	nc				
+kalamang	keluer	0049	begitu	NC	nc	nc				
+kalamang	keluer	0049	dia	NC	nc	nc				
+kalamang	keluer	0049	pu	NC	nc	nc				
+kalamang	keluer	0049	menyanyi	NC	nc	nc				
+kalamang	keluer	0050	#	#	#nc	#nc				
+kalamang	keluer	0050	Kalamangmang-de	speak_Kalamang-IMP	nc	nc				
+kalamang	keluer	0051	[UNCLEAR]	NC	nc	nc				
+kalamang	keluer	0052	#	#	##	##				
+kalamang	keluer	0052	dia	3SG	pro.h:s	pro	h	s	206	
+kalamang	keluer	0052	menangis	cry	v:pred	v		pred		
+kalamang	keluer	0052	lai	again	other	other				
+kalamang	keluer	0052	bataria	scream	rv	rv				
+kalamang	keluer	0053	#	#	#nc	#nc				
+kalamang	keluer	0053	o	EMPH	nc	nc				
+kalamang	keluer	0053	koi	then	nc	nc				
+kalamang	keluer	0053	Malaimang	Indonesian	nc	nc				
+kalamang	keluer	0053	pi	1PL.INCL	nc	nc				
+kalamang	keluer	0053	he	IAM	nc	nc				
+kalamang	keluer	0053	bon	bring	nc	nc				
+kalamang	keluer	0053	taruo	say	nc	nc				
+kalamang	keluer	0053	ma	3SG	nc	nc				
+kalamang	keluer	0053	he	IAM	nc	nc				
+kalamang	keluer	0053	gonggin	know	nc	nc				
+kalamang	keluer	0054	#	#	#nc	#nc				
+kalamang	keluer	0054	nina	NC	nc_np.h	nc_np	h		201	
+kalamang	keluer	0054	mulio	NC	nc	nc				
+kalamang	keluer	0054	alio	NC	nc	nc				
+kalamang	keluer	0054	namangalan	NC	nc	nc				
+kalamang	keluer	0054	susu	breast	nc_np	nc_np			215	
+kalamang	keluer	0055	#	#	#	#				
+kalamang	keluer	0055	ma	3SG	pro.h:assoc	pro	h	assoc		
+kalamang	keluer	0055	ema	mother	np:s_ds	np		s_ds	201	
+kalamang	keluer	0055	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0055	toni	say	v:pred	v		pred		
+kalamang	keluer	0055	eh	QUOT	other	other				
+kalamang	keluer	0056	#	#	#nc	#nc				
+kalamang	keluer	0056	karakara	crab	nc_np	nc_np			215	
+kalamang	keluer	0056	rei	NC	nc	nc				
+kalamang	keluer	0056	tei	NC	nc	nc				
+kalamang	keluer	0056	o	NC	nc	nc				
+kalamang	keluer	0056	ku	NC	nc	nc				
+kalamang	keluer	0056	an	NC	nc	nc				
+kalamang	keluer	0056	rei	NC	nc	nc				
+kalamang	keluer	0056	tei	NC	nc	nc				
+kalamang	keluer	0057	#	#	##	##				
+kalamang	keluer	0057	beh	NC	other	other				
+kalamang	keluer	0057	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0057	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0057	se	IAM	other	other				
+kalamang	keluer	0058	yie-yie	swim-RED	v:pred	v		pred		
+kalamang	keluer	0058	me	DIST	other	other				
+kalamang	keluer	0058	=ba	=FOC	=other	=other				
+kalamang	keluer	0058	#	#	##	##				
+kalamang	keluer	0058	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0058	yie-yie	swim-RED	v:pred	v		pred		
+kalamang	keluer	0058	me	DIST	other	other				
+kalamang	keluer	0058	=ba	=FOC	=other	=other				
+kalamang	keluer	0059	#	#	##	##				
+kalamang	keluer	0059	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0059	se	IAM	other	other				
+kalamang	keluer	0059	bo	until	other	other				
+kalamang	keluer	0059	dare	sink	v:pred	v		pred		
+kalamang	keluer	0059	gosomin	disappeared	rv	rv				
+kalamang	keluer	0060	#	#	##	##				
+kalamang	keluer	0060	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0060	bo	until	other	other				
+kalamang	keluer	0060	dare	sink	v:pred	v		pred		
+kalamang	keluer	0060	gosomin	disappeared	rv	rv				
+kalamang	keluer	0061	#	#	#nc	#nc				
+kalamang	keluer	0061	se koyet	finished	nc	nc				
+kalamang	keluer	0062	#	#	#nc	#nc				
+kalamang	keluer	0062	tok	not_yet	nc	nc				
+kalamang	keluer	0063	#	#	##	##				
+kalamang	keluer	0063	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0063	bo	until	other	other				
+kalamang	keluer	0063	dare	sink	v:pred	v		pred		
+kalamang	keluer	0063	gosomin-da	disappeared-NFIN	rv	rv				
+kalamang	keluer	0063	me	TOP	other	other				
+kalamang	keluer	0064	#	#	##	##				
+kalamang	keluer	0064	mier	3DU	pro.h:a	pro	h	a	202	
+kalamang	keluer	0064	se	IAM	other	other				
+kalamang	keluer	0064	bo	go	lv	lv				
+kalamang	keluer	0064	em	mother	np:p	np		p	201	
+kalamang	keluer	0064	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0064	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0064	sanggara	search	v:pred	v		pred		
+kalamang	keluer	0065	#	#	##	##				
+kalamang	keluer	0065	mier	3DU	pro.h:a	pro	h	a	202	
+kalamang	keluer	0065	bo	go	lv	lv				
+kalamang	keluer	0065	em	mother	np:p	np		p	201	
+kalamang	keluer	0065	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0065	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0065	sanggara	search	v:pred	v		pred		
+kalamang	keluer	0066	#	#	##	##				
+kalamang	keluer	0066	mu	3PL	pro.h:a	pro	h	a	202	
+kalamang	keluer	0066	bora-n	front-N	lv	lv				
+kalamang	keluer	0066	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0067	a	FIL	other	other				
+kalamang	keluer	0067	sor	fish	np.d:s	np	d	s	216	new
+kalamang	keluer	0067	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0067	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0067	wienar	parrotfish	np.d:assoc	np	d	assoc	216	
+kalamang	keluer	0068	#	#	##	##				
+kalamang	keluer	0068	ZERO	ZERO	0.h:a	0	h	a	202	
+kalamang	keluer	0068	wienar	parrotfish	np.d:p	np	d	p	216	
+kalamang	keluer	0068	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0068	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0068	#	#	##	##				
+kalamang	keluer	0068	wienar	parrotfish	np.d:dt_poss	np	d	dt_poss	216	
+kalamang	keluer	0068	kan	you_know	other	other				
+kalamang	keluer	0068	in	name	np:s	np		s		
+kalamang	keluer	0068	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	216	
+kalamang	keluer	0069	Duan	Duan	np:pred	np		pred		
+kalamang	keluer	0069	to	right	other	other				
+kalamang	keluer	0069	#	#	##	##				
+kalamang	keluer	0069	ZERO	ZERO	0.h:a	0	h	a	202	
+kalamang	keluer	0069	Duan	Duan	np.d:p	np	d	p	216	
+kalamang	keluer	0069	ya	yes	other	other				
+kalamang	keluer	0069	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0069	#	#	##	##				
+kalamang	keluer	0069	mu	3PL	np.h:s_ds	np	h	s_ds	202	
+kalamang	keluer	0069	toni	say	v:pred	v		pred		
+kalamang	keluer	0070	#	#	#nc	#nc				
+kalamang	keluer	0070	[UNCLEAR]	NC	nc	nc				
+kalamang	keluer	0071	#	#	#nc	#nc				
+kalamang	keluer	0071	bes	good	nc	nc				
+kalamang	keluer	0071	mindi	like_that	nc	nc				
+kalamang	keluer	0071	=et	=IRR	nc	nc				
+kalamang	keluer	0071	bes	good	nc	nc				
+kalamang	keluer	0071	weinun	too	nc	nc				
+kalamang	keluer	0071	#	#	##ds	##ds				
+kalamang	keluer	0071	Duan	Duan	np.d:voc	np	d	voc	216	
+kalamang	keluer	0071	ki	2PL	pro.2:a	pro	2	a	216	
+kalamang	keluer	0071	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0071	anggon	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	206	
+kalamang	keluer	0071	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0071	kona-n	see-N	v:pred	v		pred		
+kalamang	keluer	0072	#	#	##	##				
+kalamang	keluer	0072	mu	3PL	pro.d:s_ds	pro	d	s_ds	216	
+kalamang	keluer	0072	toni	say	v:pred	v		pred		
+kalamang	keluer	0072	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0072	ooo	EMPH	other	other				
+kalamang	keluer	0072	in	1PL.EXCL	pro.1:s	pro	1	s	216	
+kalamang	keluer	0072	ZERO	ZERO	0.h:p	0	h	p	201	
+kalamang	keluer	0072	kona-t	see-T	v:pred	v		pred		
+kalamang	keluer	0072	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0073	#	#	##ds	##ds				
+kalamang	keluer	0073	coba	try	nc	nc				
+kalamang	keluer	0074	ka	2SG	nc	nc				
+kalamang	keluer	0074	bo	go	nc	nc				
+kalamang	keluer	0074	kanas-ar	fish-OBJ	nc	nc				
+kalamang	keluer	0074	=a	=FOC	nc	nc				
+kalamang	keluer	0074	coba	try	lv	lv				
+kalamang	keluer	0074	ki	2PL	pro.2:a	pro	2	a	202	
+kalamang	keluer	0074	bo	go	lv	lv				
+kalamang	keluer	0074	kanas-ar	fish-OBJ	np.d:p	np	d	p	217	new
+kalamang	keluer	0074	=a	=FOC	=rn	=rn				
+kalamang	keluer	0074	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0074	=ta	=NFIN	=rv	=rv				
+kalamang	keluer	0075	#	#	##	##				
+kalamang	keluer	0075	mier	3DU	pro.h:s	pro	h	s	202	
+kalamang	keluer	0075	koi	then	other	other				
+kalamang	keluer	0075	mengga	DIST.LAT	np:pred_obl	np		pred_obl		
+kalamang	keluer	0076	#	#	##	##				
+kalamang	keluer	0076	kanas	fish	np.d:s	np	d	s	217	
+kalamang	keluer	0076	epkon	CLF.group.one	rn	rn				
+kalamang	keluer	0076	yie-yie-ra	swim-RED-NFIN	v:pred	v		pred		
+kalamang	keluer	0076	me	TOP	other	other				
+kalamang	keluer	0076	#	#	##	##				
+kalamang	keluer	0076	mu	3PL	pro.h:s	pro	h	s	202	
+kalamang	keluer	0076	he	IAM	other	other				
+kalamang	keluer	0076	yal	paddle	lv	lv				
+kalamang	keluer	0076	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0076	ra	move_path	v:pred	v		pred		
+kalamang	keluer	0076	me	TOP	other	other				
+kalamang	keluer	0076	#	#	##	##				
+kalamang	keluer	0076	ZERO	ZERO	0.h:a_ds	0	h	a_ds	202	
+kalamang	keluer	0076	ZERO	ZERO	0.d:p	0	d	p	217	
+kalamang	keluer	0076	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0077	#	#	##ds	##ds				
+kalamang	keluer	0077	kanas	fish	np.d:voc	np	d	voc	217	
+kalamang	keluer	0077	ki	2PL	pro.2:a	pro	2	a	217	
+kalamang	keluer	0077	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0077	anggon	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	206	
+kalamang	keluer	0077	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0077	kona-n	see-N	v:pred	v		pred		
+kalamang	keluer	0078	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0078	o	EMPH	other	other				
+kalamang	keluer	0078	in	1PL.EXCL	pro.1:a	pro	1	a	217	
+kalamang	keluer	0078	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0078	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0078	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0078	kona-t	see-T	v:pred	v		pred		
+kalamang	keluer	0078	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0079	#	#	##ds	##ds				
+kalamang	keluer	0079	coba	try	lv	lv				
+kalamang	keluer	0080	ki	2PL	pro.2:a	pro	2	a	202	
+kalamang	keluer	0080	bo	go	lv	lv				
+kalamang	keluer	0080	tagir-ar	mackerel-OBJ	np.d:p	np	d	p	218	new
+kalamang	keluer	0080	=a	=FOC	=rn	=rn				
+kalamang	keluer	0080	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0080	=ta	=NFIN	=rv	=rv				
+kalamang	keluer	0081	#	#	##ds	##ds				
+kalamang	keluer	0081	ki	2PL	pro.2:a	pro	2	a		
+kalamang	keluer	0081	bo	go	lv	lv				
+kalamang	keluer	0081	mara	move_towards_land	lv	lv				
+kalamang	keluer	0081	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0081	=tar	=PL.IMP	=rv	=rv				
+kalamang	keluer	0081	#	#	##	##				
+kalamang	keluer	0081	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0081	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0081	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0081	ma	3SG	pro.d:a	pro	d	a	218	
+kalamang	keluer	0081	kona-n	see-N	v:pred	v		pred		
+kalamang	keluer	0081	ye	or	other	other				
+kalamang	keluer	0082	#	#	##	##				
+kalamang	keluer	0082	mier	3DU	pro.h:s	pro	h	s	202	
+kalamang	keluer	0082	koi	then	other	other				
+kalamang	keluer	0082	mengga	DIST.LAT	dem_pro:obl	dem_pro		obl		
+kalamang	keluer	0082	yal	paddle	v:pred	v		pred		
+kalamang	keluer	0082	=ta	=NFIN	=rv	=rv				
+kalamang	keluer	0082	me	TOP	other	other				
+kalamang	keluer	0082	tagier	mackerel	nc_np.d	nc_np	d		218	
+kalamang	keluer	0082	=at	=OBJ	nc	nc				
+kalamang	keluer	0083	#	#	##	##				
+kalamang	keluer	0083	tagier	mackerel	np.d:s	np	d	s	218	
+kalamang	keluer	0083	et-kon	CLF.an-one	rn	rn				
+kalamang	keluer	0083	sara	ascend	v:pred	v		pred		
+kalamang	keluer	0083	#	#	##	##				
+kalamang	keluer	0083	mu	3PL	pro.h:a_ds	pro	h	a_ds	202	
+kalamang	keluer	0083	he	IAM	other	other				
+kalamang	keluer	0083	ZERO	ZERO	0.d:p	0	d	p	218	
+kalamang	keluer	0083	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0083	#	#	##ds	##ds				
+kalamang	keluer	0083	ki	2PL	pro.2:a	pro	2	a	218	
+kalamang	keluer	0083	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0083	anggon	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	206	
+kalamang	keluer	0083	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0083	kona-n	see-N	v:pred	v		pred		
+kalamang	keluer	0084	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0084	o	EMPH	other	other				
+kalamang	keluer	0084	in	1PL.EXCL	pro.1:a	pro	1	a	218	
+kalamang	keluer	0084	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0084	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0084	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0084	in	1PL.EXCL	nc	nc				
+kalamang	keluer	0084	kona-t	see-T	v:pred	v		pred		
+kalamang	keluer	0084	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0085	#	#	#nc	#nc				
+kalamang	keluer	0085	mier	3DU	nc_pro.h	nc_pro	h		202	
+kalamang	keluer	0085	koi	then	other	other				
+kalamang	keluer	0086	#	#	##ds	##ds				
+kalamang	keluer	0086	ki	2PL	pro.2:a	pro	2	a	202	
+kalamang	keluer	0086	bo	go	lv	lv				
+kalamang	keluer	0086	ruar	shark	np.d:p	np	d	p	219	new
+kalamang	keluer	0086	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0086	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0086	=ta	=NFIN	=rv	=rv				
+kalamang	keluer	0086	#	#	##	##				
+kalamang	keluer	0086	mier	3DU	pro.h:s	pro	h	s	202	
+kalamang	keluer	0086	bo	go	lv	lv				
+kalamang	keluer	0086	mengga	DIST.LAT	dem_pro:obl	dem_pro		obl		
+kalamang	keluer	0086	koi	then	other	other				
+kalamang	keluer	0086	yal	paddle	v:pred	v		pred		
+kalamang	keluer	0087	#	#	##	##				
+kalamang	keluer	0087	ZERO	ZERO	0.h:s	0	h	s	202	
+kalamang	keluer	0087	yal	paddle	v:pred	v		pred		
+kalamang	keluer	0087	#	#	##	##				
+kalamang	keluer	0087	ZERO	ZERO	0.h:a_ds	0	h	a_ds	202	
+kalamang	keluer	0087	mindi	like_that	other	other				
+kalamang	keluer	0087	bo	go	lv	lv				
+kalamang	keluer	0087	ruar	shark	np.d:p	np	d	p	219	
+kalamang	keluer	0087	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0087	gerket	ask	v:pred	v		pred		
+kalamang	keluer	0088	#	#	##ds	##ds				
+kalamang	keluer	0088	ki	2PL	pro.2:a	pro	2	a	219	
+kalamang	keluer	0088	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0088	anggon	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	206	
+kalamang	keluer	0088	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0088	kona	see	v:pred	v		pred		
+kalamang	keluer	0089	#	#	##	##				
+kalamang	keluer	0089	mu	3PL	pro.d:s_ds	pro	d	s_ds	219	
+kalamang	keluer	0089	toni	say	v:pred	v		pred		
+kalamang	keluer	0089	#	#	##ds	##ds				
+kalamang	keluer	0089	o	EMPH	other	other				
+kalamang	keluer	0089	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0089	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0089	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0089	in	1PL.EXCL	pro.1:a	pro	1	a	219	
+kalamang	keluer	0089	kona	see	v:pred	v		pred		
+kalamang	keluer	0089	#	#	##ds.neg	##ds.neg				
+kalamang	keluer	0089	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0089	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0089	se	IAM	other	other				
+kalamang	keluer	0089	ecie-t	return-T	v:pred	v		pred		
+kalamang	keluer	0089	=nin	=NEG	=rv	=rv				
+kalamang	keluer	0090	#	#	##ds	##ds				
+kalamang	keluer	0090	kalo	if	other	other				
+kalamang	keluer	0090	ki	2PL	pro.1:s	pro	1	s	202	
+kalamang	keluer	0090	ema	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0090	kain	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss	206	
+kalamang	keluer	0090	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0090	kome-t	see-T	v:pred	v		pred		
+kalamang	keluer	0090	=kin	=VOL	=rv	=rv				
+kalamang	keluer	0090	=et	=IRR	=rv	=rv				
+kalamang	keluer	0090	me	TOP	other	other				
+kalamang	keluer	0090	#	#	##ds	##ds				
+kalamang	keluer	0090	ZERO	ZERO	0:s	0		s		
+kalamang	keluer	0090	bisa	can	v:pred	v		pred		
+kalamang	keluer	0090	=et	=IRR	=rv	=rv				
+kalamang	keluer	0090	me	TOP	other	other				
+kalamang	keluer	0091	#	#	##ds	##ds				
+kalamang	keluer	0091	in	1PL.EXCL	pro.1:a	pro	1	a	202	
+kalamang	keluer	0091	ma	3SG	pro.h:p	pro	h	p	201	
+kalamang	keluer	0091	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0091	kome-t	look-T	v:pred	v		pred		
+kalamang	keluer	0091	=kin	=VOL	=rv	=rv				
+kalamang	keluer	0091	ema	mother	nc_np.h	nc_np	h		201	
+kalamang	keluer	0091	anggon	1SG.POSS	nc_pro.1	nc_pro	1		206	
+kalamang	keluer	0091	=a	=FOC	=rn	=rn				
+kalamang	keluer	0092	#	#	##ds	##ds				
+kalamang	keluer	0092	me	DIST	other	other				
+kalamang	keluer	0092	=at	=OBJ	=other	=other				
+kalamang	keluer	0092	me	TOP	other	other				
+kalamang	keluer	0092	in	1PL.EXCL	pro.1:a	pro	1	a	220	bridging
+kalamang	keluer	0092	bara	descend	lv	lv				
+kalamang	keluer	0092	ma	3SG	pro.h:p	pro	h	p	201	
+kalamang	keluer	0092	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0092	se	IAM	other	other				
+kalamang	keluer	0092	rew	get	v:pred	v		pred		
+kalamang	keluer	0092	=et	=IRR	=rv	=rv				
+kalamang	keluer	0093	#	#	##	##				
+kalamang	keluer	0093	kan	you_know	other	other				
+kalamang	keluer	0093	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0093	pasier-neko	sea-inside	np:pred_l	np		pred_l	214	
+kalamang	keluer	0093	to	right	other	other				
+kalamang	keluer	0094	#	#	##	##				
+kalamang	keluer	0094	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0094	tep-neko	deep_sea-inside	np:pred_l	np		pred_l	221	bridging
+kalamang	keluer	0095	#	#	#nc	#nc				
+kalamang	keluer	0095	ma	3SG	nc_pro.h	nc_pro	h		201	
+kalamang	keluer	0095	bo	go	nc	nc				
+kalamang	keluer	0095	tep-neko	deep_sea-inside	nc_np	nc_np			221	
+kalamang	keluer	0096	#	#	##ds	##ds				
+kalamang	keluer	0096	ma	3SG	pro.h:s	pro	h	s	201	
+kalamang	keluer	0096	he	IAM	other	other				
+kalamang	keluer	0096	bo	go	lv	lv				
+kalamang	keluer	0096	tep-neko	deep_sea-inside	np:pred_l	np		pred_l	221	
+kalamang	keluer	0096	#	#	##ds	##ds				
+kalamang	keluer	0096	an	1SG	pro.1:a	pro	1	a	222	bridging
+kalamang	keluer	0096	bara	descend	lv	lv				
+kalamang	keluer	0096	ma	3SG	pro.h:p	pro	h	p	201	
+kalamang	keluer	0096	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0096	rep	get	v:pred	v		pred		
+kalamang	keluer	0097	#	#	##	##				
+kalamang	keluer	0097	ZERO	ZERO	0.d:a	0	d	a	222	
+kalamang	keluer	0097	em	mother	np.h:p	np	h	p	201	
+kalamang	keluer	0097	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0097	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0097	rep	get	v:pred	v		pred		
+kalamang	keluer	0097	=te	=NFIN	=rv	=rv				
+kalamang	keluer	0097	#	#	##	##				
+kalamang	keluer	0097	ZERO	ZERO	0.d:a	0	d	a	222	
+kalamang	keluer	0097	ZERO	ZERO	0.h:p	0	h	p	201	
+kalamang	keluer	0097	kuru	bring	v:pred	v		pred		
+kalamang	keluer	0097	sara	ascend	rv	rv				
+kalamang	keluer	0097	#	#	##	##				
+kalamang	keluer	0097	em	mother	np.h:a	np	h	a	201	
+kalamang	keluer	0097	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0097	=a	=FOC	=rn	=rn				
+kalamang	keluer	0097	am	breast	np:p	np		p	215	
+kalamang	keluer	0097	=at	=OBJ	=rn	=rn				
+kalamang	keluer	0097	di=	CAUS=	=other	=other				
+kalamang	keluer	0097	cicaun	small	np.h:g	np	h	g	203	
+kalamang	keluer	0097	opa	ANA	rn	rn				
+kalamang	keluer	0097	me	TOP	other	other				
+kalamang	keluer	0097	0	give	0:pred	0		pred		
+kalamang	keluer	0097	koyer	finish	rv	rv				
+kalamang	keluer	0097	=ta	=NFIN	=rv	=rv				
+kalamang	keluer	0097	metko	DIST.LOC	other	other				
+kalamang	keluer	0098	#	#	##	##				
+kalamang	keluer	0098	ema	mother	np.h:s	np	h	s	201	
+kalamang	keluer	0098	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	202	
+kalamang	keluer	0098	se	IAM	other	other				
+kalamang	keluer	0098	dalang	jump	v:pred	v		pred		
+kalamang	keluer	0099	#	#	##	##				
+kalamang	keluer	0099	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0099	dalang	jump	lv	lv				
+kalamang	keluer	0099	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0099	pasier	sea	np:pred_l	np		pred_l	214	
+kalamang	keluer	0099	=ko	=LOC	=rn	=rn				
+kalamang	keluer	0099	me	TOP	other	other				
+kalamang	keluer	0100	#	#	##	##				
+kalamang	keluer	0100	ZERO	ZERO	0.h:s	0	h	s	201	
+kalamang	keluer	0100	dare-n	sink-N	lv	lv				
+kalamang	keluer	0100	=i	=PLNK	=lv	=lv				
+kalamang	keluer	0100	bo	go	v:pred	v		pred		
+kalamang	keluer	0101	#	#	#nc	#nc				
+kalamang	keluer	0101	se koyet	finished	nc	nc				
+kalamang	keluer	0102	#	#	##	##				
+kalamang	keluer	0102	ZERO	ZERO	0:s	0		s	223	bridging
+kalamang	keluer	0102	koyet	finish	v:pred	v		pred		
+kalamang	keluer	0103	yo	yes	nc	nc				

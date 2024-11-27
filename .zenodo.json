@@ -1,0 +1,28 @@
+{
+    "creators": [
+        {
+            "name": "Eline Visser"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Geoffrey Haig",
+            "type": "Editor"
+        },
+        {
+            "name": "Stefan Schnell",
+            "type": "Editor"
+        }
+    ],
+    "title": "Multi-CAST Kalamang",
+    "access_right": "open",
+    "keywords": [
+        "cldf:TextCorpus",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Visser, Eline. 2021. Multi-CAST Kalamang. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2108. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#kalamang) (date accessed)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

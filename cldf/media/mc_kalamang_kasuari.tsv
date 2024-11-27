@@ -1,0 +1,539 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	kasuari	0001	#	#	#nc	#nc				
+kalamang	kasuari	0001	e	hey	nc	nc				
+kalamang	kasuari	0001	mama	Mama	nc	nc				
+kalamang	kasuari	0002	#	#	#nc	#nc				
+kalamang	kasuari	0002	pelan	NC	nc	nc				
+kalamang	kasuari	0002	pelan	NC	nc	nc				
+kalamang	kasuari	0002	e	NC	nc	nc				
+kalamang	kasuari	0003	#	#	##	##				
+kalamang	kasuari	0003	yo	yes	other	other				
+kalamang	kasuari	0003	eba	then	other	other				
+kalamang	kasuari	0003	ma	3SG	pro.n:s	pro	n	s	101	new
+kalamang	kasuari	0003	taikon	side	rn	rn				
+kalamang	kasuari	0003	tamangga-ra	where.LAT-NFIN	lv	lv				
+kalamang	kasuari	0003	ma	3SG	nc_pro.n	nc_pro	n		101	
+kalamang	kasuari	0003	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0003	#	#	#nc	#nc				
+kalamang	kasuari	0003	ma	3SG	nc_pro.n	nc_pro	n		101	
+kalamang	kasuari	0003	taikon	side	nc	nc				
+kalamang	kasuari	0003	#	#	#nc	#nc				
+kalamang	kasuari	0003	ma	3SG	nc_pro.n	nc_pro	n		101	
+kalamang	kasuari	0003	tamangga	where.LAT	nc	nc				
+kalamang	kasuari	0003	#	#	##	##				
+kalamang	kasuari	0003	mu	3PL	pro.n:s	pro	n	s	102	new
+kalamang	kasuari	0003	uninsinei	Teluk_Buruwai	pn_np:l	pn_np		l	106	new
+kalamang	kasuari	0003	=ngga-ra	=LAT-NFIN	=rn	=rn				
+kalamang	kasuari	0003	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0004	#	#	##	##				
+kalamang	kasuari	0004	ZERO	ZERO	0.n:s	0	n	s	102	
+kalamang	kasuari	0004	uninsinei	Teluk_Buruwai	pn_np:g	pn_np		g	102	
+kalamang	kasuari	0004	=ngga-ra	=LAT-NFIN	=rn	=rn				
+kalamang	kasuari	0004	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0005	#	#	#nc	#nc				
+kalamang	kasuari	0005	yo	yes	nc	nc				
+kalamang	kasuari	0005	ini	this	nc	nc				
+kalamang	kasuari	0005	dia	3SG	nc	nc				
+kalamang	kasuari	0005	rekam	record	nc	nc				
+kalamang	kasuari	0005	silikan	please	nc	nc				
+kalamang	kasuari	0005	cerita	tell	nc	nc				
+kalamang	kasuari	0005	pulau	island	nc	nc				
+kalamang	kasuari	0005	kasowari	cassowary	nc	nc				
+kalamang	kasuari	0005	dengan	and	nc	nc				
+kalamang	kasuari	0005	anjing	dog	nc	nc				
+kalamang	kasuari	0005	Kalamangmang	speak_Kalamang	nc	nc				
+kalamang	kasuari	0006	#	#	#nc	#nc				
+kalamang	kasuari	0006	anjing	dog	nc_np.n	nc_np	n		103	new
+kalamang	kasuari	0007	#	#	#nc	#nc				
+kalamang	kasuari	0007	[UNCLEAR]	NC	nc	nc				
+kalamang	kasuari	0008	#	#	##	##				
+kalamang	kasuari	0008	bal	dog	nc	nc				
+kalamang	kasuari	0008	bal	dog	np.n:dt_poss	np	n	dt_poss	103	
+kalamang	kasuari	0008	me	DIST	rn	rn				
+kalamang	kasuari	0009	in	name	np:s	np		s		
+kalamang	kasuari	0009	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	103	
+kalamang	kasuari	0009	Dolok	Dolok	pn_np.n:pred	pn_np	n	pred		
+kalamang	kasuari	0009	anjing	dog	nc_np.n	nc_np	n		103	
+kalamang	kasuari	0009	bal	dog	nc_np.n	nc_np	n		103	
+kalamang	kasuari	0010	Dolok	Dolok	nc_pn_np	nc_pn_np				
+kalamang	kasuari	0010	Dolok	Dolok	nc_pn_np	nc_pn_np				
+kalamang	kasuari	0011	#	#	#nc	#nc				
+kalamang	kasuari	0011	anjing	dog	nc_np.n	nc_np	n		103	
+kalamang	kasuari	0011	tadi	earlier	rn	rn				
+kalamang	kasuari	0012	#	#	#	#				
+kalamang	kasuari	0012	eh	FIL	nc	nc				
+kalamang	kasuari	0012	kasa--	NC	nc	nc				
+kalamang	kasuari	0012	eh	FIL	nc	nc				
+kalamang	kasuari	0012	bal	dog	np.n:dt_poss	np	n	dt_poss	103	
+kalamang	kasuari	0012	wa	PROX	rn	rn				
+kalamang	kasuari	0012	me	TOP	other	other				
+kalamang	kasuari	0012	in	name	np:s	np		s		
+kalamang	kasuari	0012	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	103	
+kalamang	kasuari	0013	Dolok	Dolok	pn_np:pred	pn_np		pred		
+kalamang	kasuari	0014	Dolok	Dolok	nc	nc				
+kalamang	kasuari	0014	Dolok	Dolok	nc	nc				
+kalamang	kasuari	0014	bal	dog	np.n:dt_poss	np	n	dt_poss	103	
+kalamang	kasuari	0014	me	DIST	rn	rn				
+kalamang	kasuari	0014	in	name	np:s	np		s		
+kalamang	kasuari	0014	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	103	
+kalamang	kasuari	0014	Dolok	Dolok	pn_np.n:pred	pn_np	n	pred		
+kalamang	kasuari	0014	yo	yes	other	other				
+kalamang	kasuari	0015	#	#	##	##				
+kalamang	kasuari	0015	la	then	other	other				
+kalamang	kasuari	0015	ma	3SG	pro.n:a	pro	n	a	103	
+kalamang	kasuari	0015	kasawari	cassowary	np.n:p	np	n	p	104	new
+kalamang	kasuari	0015	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0015	sarie	chase	v:pred	v		pred		
+kalamang	kasuari	0016	#	#	##	##				
+kalamang	kasuari	0016	ma	3SG	pro.n:a	pro	n	a	103	
+kalamang	kasuari	0016	Sabaor	Buruwai	pn_np:l	pn_np		l	107	new
+kalamang	kasuari	0016	=ga	=LAT	=rn	=rn				
+kalamang	kasuari	0016	kasawari	cassowary	np.n:p	np	n	p	104	
+kalamang	kasuari	0016	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0016	sarie	chase	v:pred	v		pred		
+kalamang	kasuari	0016	Sabaor	Buruwai	nc_pn_np	nc_pn_np			107	
+kalamang	kasuari	0016	kele-un	mainland-3POSS	nc	nc				
+kalamang	kasuari	0016	=gga	=LAT	nc	nc				
+kalamang	kasuari	0017	#	#	##	##				
+kalamang	kasuari	0017	ZERO	ZERO	0.n:a	0	n	a	103	
+kalamang	kasuari	0017	ZERO	ZERO	0.n:p	0	n	p	104	
+kalamang	kasuari	0017	sarie-n	chase-N	lv	lv				
+kalamang	kasuari	0017	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0017	mindi	like_that	other	other				
+kalamang	kasuari	0017	bo	go	lv	lv				
+kalamang	kasuari	0018	uninsinei	Teluk_Buruwai	pn_np:g	pn_np		g	106	
+kalamang	kasuari	0018	=ngga	=LAT	=rn	=rn				
+kalamang	kasuari	0018	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0019	#	#	#	#				
+kalamang	kasuari	0019	ZERO	ZERO	0.n:s	0	n	s	102	
+kalamang	kasuari	0019	uninsinei	Teluk_Buruwai	nc_pn_np	nc_pn_np			106	
+kalamang	kasuari	0019	=ngga	=LAT	nc	nc				
+kalamang	kasuari	0020	uninsinei	Teluk_Buruwai	pn_np:g	pn_np		g	106	
+kalamang	kasuari	0020	=ngga	=LAT	=rn	=rn				
+kalamang	kasuari	0020	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0021	#	#	##	##				
+kalamang	kasuari	0021	ma	3SG	pro.n:s	pro	n	s	104	
+kalamang	kasuari	0021	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0021	#	#	##	##				
+kalamang	kasuari	0021	kasawari	cassowary	np.n:s	np	n	s	104	
+kalamang	kasuari	0021	he	IAM	other	other				
+kalamang	kasuari	0021	bara	descend	lv	lv				
+kalamang	kasuari	0021	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0021	#	#	##	##				
+kalamang	kasuari	0021	bal-nan	dog-too	np.n:s	np	n	s	103	
+kalamang	kasuari	0021	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0022	#	#	##	##				
+kalamang	kasuari	0022	bal	dog	np.n:s	np	n	s	103	
+kalamang	kasuari	0022	yie-yie	swim-RED	v:pred	v		pred		
+kalamang	kasuari	0022	#	#	##	##				
+kalamang	kasuari	0022	kasawari-nan	cassowary-too	np.n:s	np	n	s	104	
+kalamang	kasuari	0022	yie-yie	swim-RED	v:pred	v		pred		
+kalamang	kasuari	0022	yie-yie	swim-RED	nc	nc				
+kalamang	kasuari	0022	yie-yie	swim-RED	nc	nc				
+kalamang	kasuari	0022	yie-yie	swim-RED	nc	nc				
+kalamang	kasuari	0023	#	#	#nc	#nc				
+kalamang	kasuari	0023	[UNCLEAR]	NC	nc	nc				
+kalamang	kasuari	0024	#	#	##	##				
+kalamang	kasuari	0024	buok	betel	np:p	np		p	105	new
+kalamang	kasuari	0024	kele-dok	mountain	rn	rn				
+kalamang	kasuari	0024	mu	3PL	pro.n:a	pro	n	a	102	
+kalamang	kasuari	0024	wuorma	cut_down_a_tree	v:pred	v		pred		
+kalamang	kasuari	0025	#	#	##	##				
+kalamang	kasuari	0025	buok	betel	nc_np	nc_np				
+kalamang	kasuari	0025	kele-dok	mountain	nc	nc				
+kalamang	kasuari	0025	buok	betel	np:p	np		p	105	
+kalamang	kasuari	0025	kele-do	mountain	rn	rn				
+kalamang	kasuari	0025	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0025	ma	3SG	pro.n:a	pro	n	a	104	
+kalamang	kasuari	0025	worma	cut_down_a_tree	v:pred	v		pred		
+kalamang	kasuari	0026	#	#	##	##				
+kalamang	kasuari	0026	ma	3SG	pro.n:a	pro	n	a	104	
+kalamang	kasuari	0026	ZERO	ZERO	0:p	0		p	105	
+kalamang	kasuari	0026	worma	cut_down_a_tree	v:pred	v		pred		
+kalamang	kasuari	0026	#	#	##	##				
+kalamang	kasuari	0026	ma	3SG	pro.n:s	pro	n	s	104	
+kalamang	kasuari	0026	toni	want	v:pred	v		pred		
+kalamang	kasuari	0026	#	#	#cc:other	#cc		other		
+kalamang	kasuari	0026	ZERO	ZERO	0.n:a	0	n	a	104	
+kalamang	kasuari	0026	ZERO	ZERO	0:p	0		p	105	
+kalamang	kasuari	0026	nasambung	connect	lv	lv				
+kalamang	kasuari	0026	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0026	mara	move_towards_land	v:pred	v		pred		
+kalamang	kasuari	0026	ba	so_that	other	other				
+kalamang	kasuari	0026	#	#	##	##				
+kalamang	kasuari	0026	ZERO	ZERO	0.n:a	0	n	a	104	
+kalamang	kasuari	0026	bal	dog	np.n:p	np	n	p	103	
+kalamang	kasuari	0026	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	104	
+kalamang	kasuari	0026	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0026	rew	get	v:pred	v		pred		
+kalamang	kasuari	0026	=et	=IRR	=rv	=rv				
+kalamang	kasuari	0027	#	#	##	##				
+kalamang	kasuari	0027	ZERO	ZERO	0.n:a	0	n	a	104	
+kalamang	kasuari	0027	bal	dog	np:p	np		p	103	
+kalamang	kasuari	0027	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	104	
+kalamang	kasuari	0027	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0027	rew	get	v:pred	v		pred		
+kalamang	kasuari	0027	=et	=IRR	=rv	=rv				
+kalamang	kasuari	0027	#	#	##	##				
+kalamang	kasuari	0027	ma	3SG	nc_pro.n	nc_pro	n		104	
+kalamang	kasuari	0027	bo	go	nc	nc				
+kalamang	kasuari	0027	ma	3SG	pro.n:a	pro	n	a	104	
+kalamang	kasuari	0027	mara	move_towards_land	lv	lv				
+kalamang	kasuari	0027	bal	dog	np:p	np		p	103	
+kalamang	kasuari	0027	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	104	
+kalamang	kasuari	0027	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0027	rew	get	v:pred	v		pred		
+kalamang	kasuari	0027	=et	=IRR	=rv	=rv				
+kalamang	kasuari	0028	#	#	##	##				
+kalamang	kasuari	0028	mera	then	other	other				
+kalamang	kasuari	0028	ba	then	other	other				
+kalamang	kasuari	0028	ZERO	ZERO	0.n:s	0	n	s		
+kalamang	kasuari	0028	se	IAM	other	other				
+kalamang	kasuari	0028	eranun	cannot	v:pred	v		pred		
+kalamang	kasuari	0028	ba	but	other	other				
+kalamang	kasuari	0028	#	#	##	##				
+kalamang	kasuari	0028	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0028	he	IAM	other	other				
+kalamang	kasuari	0028	jadi	become	lv	lv				
+kalamang	kasuari	0029	sarit	shoal	np:pred	np		pred	108	new
+kalamang	kasuari	0030	#	#	#nc	#nc				
+kalamang	kasuari	0030	ma	3SG	nc_pro.n	nc_pro	n		103	
+kalamang	kasuari	0030	tarambur	NC	nc	nc				
+kalamang	kasuari	0030	to	right	nc	nc				
+kalamang	kasuari	0030	#	#	##	##				
+kalamang	kasuari	0030	ma	3SG	nc_pro.n	nc_pro	n		103	
+kalamang	kasuari	0030	he	IAM	nc	nc				
+kalamang	kasuari	0030	nasuarik	scattered	nc	nc				
+kalamang	kasuari	0030	#	#	##	##				
+kalamang	kasuari	0030	ma	3SG	nc_pro.n	nc_pro	n		103	
+kalamang	kasuari	0030	nasuarik	scattered	nc	nc				
+kalamang	kasuari	0030	jadi	become	nc	nc				
+kalamang	kasuari	0030	sarit	shoal	nc_np	nc_np			108	
+kalamang	kasuari	0031	#	#	##	##				
+kalamang	kasuari	0031	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0031	he	IAM	other	other				
+kalamang	kasuari	0031	kararak	dry	v:pred	v		pred		
+kalamang	kasuari	0032	#	#	##	##				
+kalamang	kasuari	0032	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0032	he	IAM	other	other				
+kalamang	kasuari	0032	kararak	dry	v:pred	v		pred		
+kalamang	kasuari	0033	#	#	#	#				
+kalamang	kasuari	0033	ZERO	ZERO	0.n:s	0	n	s	103	
+kalamang	kasuari	0033	kararak	dry	v:pred	v		pred		
+kalamang	kasuari	0033	=te	=NFIN	=rv	=rv				
+kalamang	kasuari	0033	jadi	become	rv	rv				
+kalamang	kasuari	0034	sarit	shoal	rv	rv			108	
+kalamang	kasuari	0035	#	#	##	##				
+kalamang	kasuari	0035	mer	DIST.OBJ	dem_pro:p	dem_pro		p	117	bridging
+kalamang	kasuari	0035	=a	=FOC	=rn	=rn				
+kalamang	kasuari	0035	ma	3SG	pro.n:a	pro	n	a	103	
+kalamang	kasuari	0035	eranun	cannot	v:pred	v		pred		
+kalamang	kasuari	0035	#	#	##	##				
+kalamang	kasuari	0035	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0035	he	IAM	other	other				
+kalamang	kasuari	0035	mengga	DIST.LAT	lv	lv				
+kalamang	kasuari	0035	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0035	yie	swim	nc	nc				
+kalamang	kasuari	0035	yie	swim	nc	nc				
+kalamang	kasuari	0035	yie	swim	nc	nc				
+kalamang	kasuari	0035	yie	swim	nc	nc				
+kalamang	kasuari	0036	#	#	#nc	#nc				
+kalamang	kasuari	0036	sarit	shoal	nc	nc				
+kalamang	kasuari	0036	reidak	much	nc	nc				
+kalamang	kasuari	0037	#	#	##	##				
+kalamang	kasuari	0037	kasowari	cassowary	np.n:s	np	n	s	104	
+kalamang	kasuari	0037	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0037	#	#	##	##				
+kalamang	kasuari	0037	bal	dog	np.n:s	np	n	s	103	
+kalamang	kasuari	0037	yie	swim	v:pred	v		pred		
+kalamang	kasuari	0037	sampai	until	rv	rv				
+kalamang	kasuari	0037	#	#	##	##				
+kalamang	kasuari	0037	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0038	wilak	sea	np:pred_l	np		pred_l	109	new
+kalamang	kasuari	0038	watko	PROX.LOC	adp	adp				
+kalamang	kasuari	0039	#	#	##	##				
+kalamang	kasuari	0039	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0039	koi	then	other	other				
+kalamang	kasuari	0039	bo-re	go-NFIN	lv	lv				
+kalamang	kasuari	0039	Gos Ketkein	Gos_Ketkein	pn_np:g	pn_np		g	110	new
+kalamang	kasuari	0039	=gga	=LAT	=rn	=rn				
+kalamang	kasuari	0039	era	move_up	v:pred	v		pred		
+kalamang	kasuari	0039	eh	HES	nc	nc				
+kalamang	kasuari	0039	Gos Ketkein	Gos_Ketkein	nc_pn_np	nc_pn_np			110	
+kalamang	kasuari	0039	=gga	=LAT	nc	nc				
+kalamang	kasuari	0039	era	move_up	nc	nc				
+kalamang	kasuari	0040	#	#	##	##				
+kalamang	kasuari	0040	ma	3SG	pro.n:a	pro	n	a	103	
+kalamang	kasuari	0040	kaden	body	np:p	np		p	111	bridging
+kalamang	kasuari	0040	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	103	
+kalamang	kasuari	0040	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0040	wandi	like_this	other	other				
+kalamang	kasuari	0040	muk	shake	v:pred	v		pred		
+kalamang	kasuari	0041	#	#	##	##				
+kalamang	kasuari	0041	ma	3SG	pro.n:a	pro	n	a	103	
+kalamang	kasuari	0041	kaden	body	np:p	np		p	111	
+kalamang	kasuari	0041	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	103	
+kalamang	kasuari	0041	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0041	muk	shake	v:pred	v		pred		
+kalamang	kasuari	0042	#	#	#nc	#nc				
+kalamang	kasuari	0042	muk	rock	nc	nc				
+kalamang	kasuari	0042	to	right	nc	nc				
+kalamang	kasuari	0042	dia	NC	nc	nc				
+kalamang	kasuari	0042	goyang	NC	nc	nc				
+kalamang	kasuari	0042	badan	NC	nc	nc				
+kalamang	kasuari	0042	bagitu	NC	nc	nc				
+kalamang	kasuari	0043	#	#	##	##				
+kalamang	kasuari	0043	naun	soil	nc_np	nc_np			112	new
+kalamang	kasuari	0043	naun	soil	np:s	np		s	112	
+kalamang	kasuari	0043	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	103	
+kalamang	kasuari	0043	nasuarik	scattered	v:pred	v		pred		
+kalamang	kasuari	0043	a	FIL	nc	nc				
+kalamang	kasuari	0043	naun	soil	np:dt_s	np		dt_s	112	
+kalamang	kasuari	0043	owa	over_there	rn	rn				
+kalamang	kasuari	0043	=ba-in	=FOC-VOL	=rn	=rn				
+kalamang	kasuari	0043	to	right	rn	rn				
+kalamang	kasuari	0043	Sabaor	Buruwai	rn_pn_np	rn_pn_np			107	
+kalamang	kasuari	0043	=kin	=POSS	=rn	=rn				
+kalamang	kasuari	0044	#	#	##	##				
+kalamang	kasuari	0044	naun	soil	np:s	np		s	112	
+kalamang	kasuari	0044	nasuarik	scattered	v:pred	v		pred		
+kalamang	kasuari	0044	#	#	##	##				
+kalamang	kasuari	0044	ma	3SG	nc	nc				
+kalamang	kasuari	0044	koi	then	other	other				
+kalamang	kasuari	0044	bal	dog	np.n:a	np	n	a	103	
+kalamang	kasuari	0044	ma	3SG	pro.n:p	pro	n	p	104	
+kalamang	kasuari	0044	=at	=OBJ	=rn	=rn				
+kalamang	kasuari	0044	sarie	chase	v:pred	v		pred		
+kalamang	kasuari	0044	#	#	##	##				
+kalamang	kasuari	0044	ZERO	ZERO	0.n:s	0	n	s	102	
+kalamang	kasuari	0044	kelak	mountain	np:g	np		g	118	bridging
+kalamang	kasuari	0044	=ka	=LAT	=rn	=rn				
+kalamang	kasuari	0044	mengga	DIST.LAT	lv	lv				
+kalamang	kasuari	0044	era	move_up	v:pred	v		pred		
+kalamang	kasuari	0045	#	#	##	##				
+kalamang	kasuari	0045	ma	3SG	pro.n:s	pro	n	s	104	
+kalamang	kasuari	0045	bo	go	lv	lv				
+kalamang	kasuari	0045	sarit	shoal	pn_np:g	pn_np		g	113	new
+kalamang	kasuari	0045	Burewun	Burewun	rn	rn				
+kalamang	kasuari	0045	=gga	=LAT	=rn	=rn				
+kalamang	kasuari	0045	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0046	to	right	nc	nc				
+kalamang	kasuari	0047	#	#	##	##				
+kalamang	kasuari	0047	ma	3SG	pro.n:s	pro	n	s	104	
+kalamang	kasuari	0047	sarit	shoal	pn_np:g	pn_np		g	113	
+kalamang	kasuari	0047	Burewun	Burewun	rn	rn				
+kalamang	kasuari	0047	=ka	=LAT	=rn	=rn				
+kalamang	kasuari	0047	bara	descend	v:pred	v		pred		
+kalamang	kasuari	0048	#	#	##	##				
+kalamang	kasuari	0048	ma	3SG	pro.n:s	pro	n	s	104	
+kalamang	kasuari	0048	dalang	jump	lv	lv				
+kalamang	kasuari	0048	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0048	pasier	sea	np:l	np		l	109	
+kalamang	kasuari	0048	=ko	=LOC	=rn	=rn				
+kalamang	kasuari	0048	yie	swim	lv	lv				
+kalamang	kasuari	0048	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kasuari	0049	#	#	##	##				
+kalamang	kasuari	0049	bal-nan	dog-too	np.n:s	np	n	s	103	
+kalamang	kasuari	0049	ma	3SG	pro.n:appos	pro	n	appos	103	
+kalamang	kasuari	0049	dalang	jump	lv	lv				
+kalamang	kasuari	0049	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0049	pasier	sea	np:l	np		l	109	
+kalamang	kasuari	0049	=ko	=LOC	=rn	=rn				
+kalamang	kasuari	0049	yie	swim	lv	lv				
+kalamang	kasuari	0049	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kasuari	0050	#	#	##	##				
+kalamang	kasuari	0050	mier	3DU	pro.n:s	pro	n	s	102	
+kalamang	kasuari	0050	nau=	RECP=	=lv	=lv				
+kalamang	kasuari	0050	sarie	chase	v:pred	v		pred		
+kalamang	kasuari	0051	#	#	##	##				
+kalamang	kasuari	0051	mier	3DU	pro.n:s	pro	n	s	102	
+kalamang	kasuari	0051	nau=	RECP=	=lv	=lv				
+kalamang	kasuari	0051	sarie	chase	v:pred	v		pred		
+kalamang	kasuari	0052	#	#	##	##				
+kalamang	kasuari	0052	kasawari	cassowary	np.n:s	np	n	s	104	
+kalamang	kasuari	0052	he	IAM	other	other				
+kalamang	kasuari	0052	metko	DIST.LOC	np:l	np		l	109	
+kalamang	kasuari	0052	telin	stay	v:pred	v		pred		
+kalamang	kasuari	0053	#	#	##	##				
+kalamang	kasuari	0053	ZERO	ZERO	0.n:s	0	n	s	102	
+kalamang	kasuari	0053	marua-n	move_towards_sea-N	v:pred	v		pred		
+kalamang	kasuari	0053	marua-n	move_towards_sea-N	nc	nc				
+kalamang	kasuari	0054	#	#	##	##				
+kalamang	kasuari	0054	kasawari	cassowary	np.n:s	np	n	s	104	
+kalamang	kasuari	0054	he	IAM	other	other				
+kalamang	kasuari	0054	telin	stay	v:pred	v		pred		
+kalamang	kasuari	0054	#	#	##	##				
+kalamang	kasuari	0054	bal-nan	dog-too	np.n:s	np	n	s	103	
+kalamang	kasuari	0054	se	IAM	other	other				
+kalamang	kasuari	0054	telin	stay	v:pred	v		pred		
+kalamang	kasuari	0055	#	#	##	##				
+kalamang	kasuari	0055	mier	3DU	pro.n:s	pro	n	s	102	
+kalamang	kasuari	0055	se	IAM	other	other				
+kalamang	kasuari	0055	jadi	become	nc	nc				
+kalamang	kasuari	0055	yar	stone	nc	nc				
+kalamang	kasuari	0055	jadi	become	lv	lv				
+kalamang	kasuari	0055	yar	stone	lv	lv				
+kalamang	kasuari	0055	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0055	ra	become	v:pred	v		pred		
+kalamang	kasuari	0056	#	#	##	##				
+kalamang	kasuari	0056	mu	3PL	pro.n:s	pro	n	s	102	
+kalamang	kasuari	0056	jadi	so	lv	lv				
+kalamang	kasuari	0056	yar	stone	lv	lv				
+kalamang	kasuari	0056	=i	=PLNK	=lv	=lv				
+kalamang	kasuari	0056	ra	become	v:pred	v		pred		
+kalamang	kasuari	0056	to	right	other	other				
+kalamang	kasuari	0057	#	#	#nc	#nc				
+kalamang	kasuari	0057	mu	3PL	nc_pro.n	nc_pro	n		102	
+kalamang	kasuari	0057	tamatko	where	nc	nc				
+kalamang	kasuari	0058	#	#	##	##				
+kalamang	kasuari	0058	ZERO	ZERO	0.n:s	0	n	s	102	
+kalamang	kasuari	0058	munin	west	np:pred_l	np		pred_l	114	new
+kalamang	kasuari	0058	=ggo	=LOC	=rn	=rn				
+kalamang	kasuari	0059	munin	west	nc_np	nc_np			114	
+kalamang	kasuari	0059	=ggo	=LOC	=rn	=rn				
+kalamang	kasuari	0060	#	#	##	##				
+kalamang	kasuari	0060	Maniem	Maniem	pn_np:other	pn_np		other	115	new
+kalamang	kasuari	0060	wila	sea	rn_np	rn_np				
+kalamang	kasuari	0060	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	115	
+kalamang	kasuari	0060	=ggo	=LOC	=rn	=rn				
+kalamang	kasuari	0060	leng	place	np:dt_poss	np		dt_poss	115	
+kalamang	kasuari	0060	ma	3SG	pro:assoc	pro		assoc		
+kalamang	kasuari	0060	me	TOP	other	other				
+kalamang	kasuari	0060	in	name	np:s	np		s		
+kalamang	kasuari	0060	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	115	
+kalamang	kasuari	0060	Maniem	Maniem	pn_np:pred	pn_np		pred		
+kalamang	kasuari	0061	#	#	##	##				
+kalamang	kasuari	0061	ma	3SG	pro.n:s	pro	n	s	103	
+kalamang	kasuari	0061	wandi	like_this	other	other				
+kalamang	kasuari	0061	muk	shake	v:pred	v		pred		
+kalamang	kasuari	0061	jadi	become	rv	rv				
+kalamang	kasuari	0061	naun	soil	rv	rv				
+kalamang	kasuari	0061	#	#	##	##				
+kalamang	kasuari	0061	ma	3SG	pro:s	pro		s	112	
+kalamang	kasuari	0061	me	TOP	other	other				
+kalamang	kasuari	0062	gowien	Tana_Besar	ln_pn_np	ln_pn_np			116	new
+kalamang	kasuari	0062	naun	soil	np:pred	np		pred		
+kalamang	kasuari	0063	#	#	#nc	#nc				
+kalamang	kasuari	0063	[UNCLEAR]	NC	nc	nc				
+kalamang	kasuari	0064	#	#	#nc	#nc				
+kalamang	kasuari	0064	bagian	NC	nc	nc				
+kalamang	kasuari	0064	di	NC	nc	nc				
+kalamang	kasuari	0064	sini	NC	nc	nc				
+kalamang	kasuari	0064	sana	NC	nc	nc				
+kalamang	kasuari	0064	saja	NC	nc	nc				
+kalamang	kasuari	0065	tanah	NC	nc	nc				
+kalamang	kasuari	0065	kan	NC	nc	nc				
+kalamang	kasuari	0065	beda	NC	nc	nc				
+kalamang	kasuari	0066	yang	NC	nc	nc				
+kalamang	kasuari	0066	di	NC	nc	nc				
+kalamang	kasuari	0066	manyiem	NC	nc	nc				
+kalamang	kasuari	0066	punya	NC	nc	nc				
+kalamang	kasuari	0066	lain	NC	nc	nc				
+kalamang	kasuari	0067	ah	NC	nc	nc				
+kalamang	kasuari	0067	di	NC	nc	nc				
+kalamang	kasuari	0067	sini	NC	nc	nc				
+kalamang	kasuari	0067	punya	NC	nc	nc				
+kalamang	kasuari	0067	lain	NC	nc	nc				
+kalamang	kasuari	0067	karena	NC	nc	nc				
+kalamang	kasuari	0067	dia	NC	nc	nc				
+kalamang	kasuari	0067	bawa	NC	nc	nc				
+kalamang	kasuari	0067	tana	NC	nc	nc				
+kalamang	kasuari	0067	dari	NC	nc	nc				
+kalamang	kasuari	0067	sana	NC	nc	nc				
+kalamang	kasuari	0067	dari	NC	nc	nc				
+kalamang	kasuari	0067	buruwai	NC	nc	nc				
+kalamang	kasuari	0067	sana	NC	nc	nc				
+kalamang	kasuari	0067	lain	NC	nc	nc				
+kalamang	kasuari	0068	#	#	#nc	#nc				
+kalamang	kasuari	0068	ma	3SG	nc	nc				
+kalamang	kasuari	0068	owangga	F.DIST.LAT	nc	nc				
+kalamang	kasuari	0068	naun	soil	nc	nc				
+kalamang	kasuari	0068	=at	=OBJ	nc	nc				
+kalamang	kasuari	0068	kuet	bring	nc	nc				
+kalamang	kasuari	0069	#	#	#nc	#nc				
+kalamang	kasuari	0069	dia	NC	nc	nc				
+kalamang	kasuari	0069	sampai	NC	nc	nc				
+kalamang	kasuari	0069	di	NC	nc	nc				
+kalamang	kasuari	0069	situ	NC	nc	nc				
+kalamang	kasuari	0069	baru	NC	nc	nc				
+kalamang	kasuari	0069	dia	NC	nc	nc				
+kalamang	kasuari	0069	goyang	NC	nc	nc				
+kalamang	kasuari	0069	badan	NC	nc	nc				
+kalamang	kasuari	0070	dia	NC	nc	nc				
+kalamang	kasuari	0070	pu	NC	nc	nc				
+kalamang	kasuari	0070	badan	NC	nc	nc				
+kalamang	kasuari	0070	to	NC	nc	nc				
+kalamang	kasuari	0071	dia	NC	nc	nc				
+kalamang	kasuari	0071	pu	NC	nc	nc				
+kalamang	kasuari	0071	tana	NC	nc	nc				
+kalamang	kasuari	0071	kan	NC	nc	nc				
+kalamang	kasuari	0072	waktu	NC	nc	nc				
+kalamang	kasuari	0072	ini	NC	nc	nc				
+kalamang	kasuari	0072	dia	NC	nc	nc				
+kalamang	kasuari	0072	merah	NC	nc	nc				
+kalamang	kasuari	0072	kayanya	NC	nc	nc				
+kalamang	kasuari	0073	dia	NC	nc	nc				
+kalamang	kasuari	0073	kaya	NC	nc	nc				
+kalamang	kasuari	0073	kuning	NC	nc	nc				
+kalamang	kasuari	0073	ka	NC	nc	nc				
+kalamang	kasuari	0074	sama	NC	nc	nc				
+kalamang	kasuari	0074	dengan	NC	nc	nc				
+kalamang	kasuari	0074	di	NC	nc	nc				
+kalamang	kasuari	0074	sini	NC	nc	nc				
+kalamang	kasuari	0074	punya	NC	nc	nc				
+kalamang	kasuari	0074	to	NC	nc	nc				
+kalamang	kasuari	0075	jadi	NC	nc	nc				
+kalamang	kasuari	0075	jadi	NC	nc	nc				
+kalamang	kasuari	0076	kampung	NC	nc	nc				
+kalamang	kasuari	0076	ini	NC	nc	nc				
+kalamang	kasuari	0076	to	NC	nc	nc				
+kalamang	kasuari	0077	yo	NC	nc	nc				
+kalamang	kasuari	0077	orang	NC	nc	nc				
+kalamang	kasuari	0077	buruwai	NC	nc	nc				
+kalamang	kasuari	0077	kan	NC	nc	nc				
+kalamang	kasuari	0077	dong	NC	nc	nc				
+kalamang	kasuari	0077	takut	NC	nc	nc				
+kalamang	kasuari	0078	jadi	NC	nc	nc				
+kalamang	kasuari	0078	di	NC	nc	nc				
+kalamang	kasuari	0078	sini	NC	nc	nc				
+kalamang	kasuari	0078	bicara	NC	nc	nc				
+kalamang	kasuari	0078	sumpah	NC	nc	nc				
+kalamang	kasuari	0078	dong	NC	nc	nc				
+kalamang	kasuari	0078	takut	NC	nc	nc				
+kalamang	kasuari	0079	jadi	NC	nc	nc				
+kalamang	kasuari	0079	dong	NC	nc	nc				
+kalamang	kasuari	0079	di	NC	nc	nc				
+kalamang	kasuari	0079	pulo	NC	nc	nc				
+kalamang	kasuari	0079	itu	NC	nc	nc				
+kalamang	kasuari	0079	dong	NC	nc	nc				
+kalamang	kasuari	0079	tidak	NC	nc	nc				
+kalamang	kasuari	0079	naik	NC	nc	nc				
+kalamang	kasuari	0079	dong	NC	nc	nc				
+kalamang	kasuari	0079	mati	NC	nc	nc				
+kalamang	kasuari	0080	yo	NC	nc	nc				
+kalamang	kasuari	0080	barubaru	NC	nc	nc				
+kalamang	kasuari	0080	barubaru	NC	nc	nc				
+kalamang	kasuari	0080	satu	NC	nc	nc				
+kalamang	kasuari	0080	naik	NC	nc	nc				
+kalamang	kasuari	0080	to	NC	nc	nc				
+kalamang	kasuari	0080	dia	NC	nc	nc				
+kalamang	kasuari	0080	meninggal	NC	nc	nc				
+kalamang	kasuari	0081	#	#	#nc	#nc				
+kalamang	kasuari	0081	mu	3PL	nc	nc				
+kalamang	kasuari	0081	sara-n	ascend-N	nc	nc				
+kalamang	kasuari	0081	mu	3PL	nc	nc				
+kalamang	kasuari	0081	lalat	die	nc	nc				
+kalamang	kasuari	0082	sair	taboo	nc	nc				
+kalamang	kasuari	0083	#	#	#nc	#nc				
+kalamang	kasuari	0083	mu	3PL	nc	nc				
+kalamang	kasuari	0083	kome-t	see-T	nc	nc				
+kalamang	kasuari	0083	=nin	=NEG	nc	nc				
+kalamang	kasuari	0083	Sabaor	Buruwai	nc	nc				
+kalamang	kasuari	0083	reidak	much	nc	nc				
+kalamang	kasuari	0083	mu	3PL	nc	nc				
+kalamang	kasuari	0083	marua-n	move_towards_sea-N	nc	nc				
+kalamang	kasuari	0083	wangga	PROX.LAT	nc	nc				
+kalamang	kasuari	0083	marua-t	move_towards_sea-T	nc	nc				
+kalamang	kasuari	0083	=nin	=NEG	nc	nc				
+kalamang	kasuari	0083	mu	3PL	nc	nc				
+kalamang	kasuari	0083	sem	afraid	nc	nc				

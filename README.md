@@ -1,7 +1,5 @@
 # Multi-CAST Kalamang
 
-[![CLDF validation](https://github.com/Multi-CAST/kalamang/workflows/CLDF-validation/badge.svg)](https://github.com/Multi-CAST/kalamang/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -9,7 +7,7 @@ If you use these data please cite
   > Visser, Eline. 2021. Multi-CAST Kalamang. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2108. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#kalamang) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-![](raw/image.jpg)
+![](cldf/media/image.jpg)
 
 ## Description
 
@@ -68,6 +66,13 @@ Available online at https://multicast.aspra.uni-bamberg.de/#kalamang
     ]
 }
 ```
+
+
+## Corpus metadata
+
+- [Annotation notes](cldf/media/annotation-notes.pdf)
+- [Translated texts](cldf/media/translated-texts.pdf)
+
 
 ## CLDF Datasets
 

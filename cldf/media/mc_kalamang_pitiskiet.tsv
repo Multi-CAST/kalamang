@@ -1,0 +1,1806 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	pitiskiet	0001	#	#	#	#				
+kalamang	pitiskiet	0001	oke	ok	other	other				
+kalamang	pitiskiet	0002	#	#	#nc	#nc				
+kalamang	pitiskiet	0002	ana--	NC	nc	nc				
+kalamang	pitiskiet	0003	#	#	##	##				
+kalamang	pitiskiet	0003	anak	child	np.h:s	np	h	s	501	new
+kalamang	pitiskiet	0003	ratu	queen	rn_np.h	rn_np	h			
+kalamang	pitiskiet	0003	makan	eat	v:pred	v		pred		
+kalamang	pitiskiet	0003	besarkan	big	other	other				
+kalamang	pitiskiet	0004	#	#	##	##				
+kalamang	pitiskiet	0004	ema	mother	np.h:a	np	h	a	502	bridging
+kalamang	pitiskiet	0004	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0004	jualan	selling_goods	np:p	np		p	503	new
+kalamang	pitiskiet	0004	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0004	paruo	make	v:pred	v		pred		
+kalamang	pitiskiet	0005	#	#	##	##				
+kalamang	pitiskiet	0005	ema	mother	np.h:s_ds	np	h	s_ds	502	
+kalamang	pitiskiet	0005	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0005	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0006	#	#	##ds	##ds				
+kalamang	pitiskiet	0006	an	1SG	pro.1:a	pro	1	a	502	
+kalamang	pitiskiet	0006	jualan	selling_goods	np:p	np		p	503	
+kalamang	pitiskiet	0006	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0006	paruo	make	v:pred	v		pred		
+kalamang	pitiskiet	0006	#	#	##ds	##ds				
+kalamang	pitiskiet	0006	bo	go	nc	nc				
+kalamang	pitiskiet	0006	ka	2SG	pro.2:a	pro	2	a	501	
+kalamang	pitiskiet	0006	bo	go	lv	lv				
+kalamang	pitiskiet	0006	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0006	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0007	#	#	##ds	##ds				
+kalamang	pitiskiet	0007	yo	yes	other	other				
+kalamang	pitiskiet	0007	ema	mother	np.h:voc	np	h	voc	502	
+kalamang	pitiskiet	0008	ZERO	ZERO	0.2:a	0	2	a	502	
+kalamang	pitiskiet	0008	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0008	paruo	make	v:pred	v		pred		
+kalamang	pitiskiet	0008	ba	then	other	other				
+kalamang	pitiskiet	0008	#	#	##ds	##ds				
+kalamang	pitiskiet	0008	kasur	tomorrow	other	other				
+kalamang	pitiskiet	0008	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0008	bo	go	lv	lv				
+kalamang	pitiskiet	0008	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0008	parin-de	sell-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0009	#	#	##	##				
+kalamang	pitiskiet	0009	jadi	so	other	other				
+kalamang	pitiskiet	0009	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0009	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0009	se	IAM	other	other				
+kalamang	pitiskiet	0009	jualan	selling_goods	np:p	np		p		
+kalamang	pitiskiet	0009	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0009	paruo-n	make-N	v:pred	v		pred		
+kalamang	pitiskiet	0009	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0009	#	#	##	##				
+kalamang	pitiskiet	0009	ZERO	ZERO	0.h:a	0	h	a	502	
+kalamang	pitiskiet	0009	koi	then	other	other				
+kalamang	pitiskiet	0009	roti goreng	fried_bread	np:p	np		p		
+kalamang	pitiskiet	0009	pau	earth_oven	rn	rn				
+kalamang	pitiskiet	0009	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0009	me	DIST	rn	rn				
+kalamang	pitiskiet	0009	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0009	paruo-n	make-N	lv	lv				
+kalamang	pitiskiet	0009	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0009	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0010	#	#	##	##				
+kalamang	pitiskiet	0010	ZERO	ZERO	0.h:a	0	h	a	502	
+kalamang	pitiskiet	0010	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0010	di=	CAUS=	=other	=other				
+kalamang	pitiskiet	0010	tepeles	jar	lv_np	lv_np			504	new
+kalamang	pitiskiet	0010	nerunggo	inside	lv	lv				
+kalamang	pitiskiet	0010	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0010	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0010	#	#	##	##				
+kalamang	pitiskiet	0010	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0010	he	IAM	other	other				
+kalamang	pitiskiet	0010	bon	bring	v:pred	v		pred		
+kalamang	pitiskiet	0010	marmar	walk	rv	rv				
+kalamang	pitiskiet	0011	#	#	##	##				
+kalamang	pitiskiet	0011	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0011	bo	go	lv	lv				
+kalamang	pitiskiet	0011	marmar	walk	lv	lv				
+kalamang	pitiskiet	0011	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0011	bo	until	v:pred	v		pred		
+kalamang	pitiskiet	0012	#	#	##	##				
+kalamang	pitiskiet	0012	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0012	bo	until	lv	lv				
+kalamang	pitiskiet	0012	nain	like	lv	lv				
+kalamang	pitiskiet	0012	tat	Tat	lv_pn_np	lv_pn_np			514	new
+kalamang	pitiskiet	0012	owandi	like_here	dem_pro:pred	dem_pro		pred		
+kalamang	pitiskiet	0012	koi	then	other	other				
+kalamang	pitiskiet	0012	#	#	##	##				
+kalamang	pitiskiet	0012	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0012	he	IAM	other	other				
+kalamang	pitiskiet	0012	melelu	sit	v:pred	v		pred		
+kalamang	pitiskiet	0012	na	consume	rv	rv				
+kalamang	pitiskiet	0013	#	#	#nc	#nc				
+kalamang	pitiskiet	0013	koyet	finish	nc	nc				
+kalamang	pitiskiet	0014	#	#	##	##				
+kalamang	pitiskiet	0014	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0014	he	IAM	other	other				
+kalamang	pitiskiet	0014	melelu	sit	lv	lv				
+kalamang	pitiskiet	0014	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0014	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0014	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0015	#	#	##	##				
+kalamang	pitiskiet	0015	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0015	he	IAM	other	other				
+kalamang	pitiskiet	0015	kangge-r	play-T	v:pred	v		pred		
+kalamang	pitiskiet	0015	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0015	kangge-r	play-T	rv	rv				
+kalamang	pitiskiet	0015	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0015	#	#	##	##				
+kalamang	pitiskiet	0015	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0015	he	IAM	other	other				
+kalamang	pitiskiet	0015	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0016	#	#	##	##				
+kalamang	pitiskiet	0016	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0016	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0016	me	TOP	other	other				
+kalamang	pitiskiet	0016	#	#	##ds	##ds				
+kalamang	pitiskiet	0016	ema	mother	np.h:voc	np	h	voc	502	
+kalamang	pitiskiet	0017	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0017	owatko	F.DIST.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	pitiskiet	0017	ba	but	other	other				
+kalamang	pitiskiet	0018	#	#	##ds	##ds				
+kalamang	pitiskiet	0018	esnem	man	np.h:a	np	h	a	505	new
+kalamang	pitiskiet	0018	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0018	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0018	kon	one	rn	rn				
+kalamang	pitiskiet	0018	sarie	chase	v:pred	v		pred		
+kalamang	pitiskiet	0018	me	TOP	other	other				
+kalamang	pitiskiet	0018	#	#	##ds	##ds				
+kalamang	pitiskiet	0018	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0018	kiem-da	flee-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0018	#	#	##ds	##ds				
+kalamang	pitiskiet	0018	muap	eat	np:s	np		s	503	
+kalamang	pitiskiet	0018	opa	ANA	rn	rn				
+kalamang	pitiskiet	0018	me	TOP	other	other				
+kalamang	pitiskiet	0018	to	right	other	other				
+kalamang	pitiskiet	0018	gareor	spill	v:pred	v		pred		
+kalamang	pitiskiet	0019	#	#	##ds	##ds				
+kalamang	pitiskiet	0019	tepeles-saer	jar-exclusively	np:p	np		p	504	
+kalamang	pitiskiet	0019	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0019	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0019	kuru	bring	v:pred	v		pred		
+kalamang	pitiskiet	0019	yecie	return	rv	rv				
+kalamang	pitiskiet	0020	#	#	##	##				
+kalamang	pitiskiet	0020	ema	mother	np.h:s_ds	np	h	s_ds	502	
+kalamang	pitiskiet	0020	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0020	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0020	#	#	##ds	##ds				
+kalamang	pitiskiet	0020	bes	good	other	other				
+kalamang	pitiskiet	0021	sita	NC	other	other				
+kalamang	pitiskiet	0021	=i	=PLNK	=other	=other				
+kalamang	pitiskiet	0021	kasur	tomorrow	other	other				
+kalamang	pitiskiet	0021	=et	=IRR	=other	=other				
+kalamang	pitiskiet	0021	eba	then	other	other				
+kalamang	pitiskiet	0021	ka	2SG	pro.2:s	pro	2	s	501	
+kalamang	pitiskiet	0021	koi	then	other	other				
+kalamang	pitiskiet	0021	bo	go	lv	lv				
+kalamang	pitiskiet	0021	ZERO	ZERO	0:p	0		p		
+kalamang	pitiskiet	0021	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0022	#	#	##	##				
+kalamang	pitiskiet	0022	mindi	like_that	other	other				
+kalamang	pitiskiet	0022	=ta	=NFIN	=other	=other				
+kalamang	pitiskiet	0022	me	TOP	other	other				
+kalamang	pitiskiet	0022	ema	mother	nc	nc				
+kalamang	pitiskiet	0022	-un	-3POSS	nc	nc				
+kalamang	pitiskiet	0022	se	IAM	nc	nc				
+kalamang	pitiskiet	0022	go saun	(at)_night	other	other				
+kalamang	pitiskiet	0022	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0022	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0022	se	IAM	other	other				
+kalamang	pitiskiet	0022	jualang	selling_goods	np:p	np		p	503	
+kalamang	pitiskiet	0022	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0022	paruo-n	make-N	lv	lv				
+kalamang	pitiskiet	0022	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0022	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0022	#	#	##	##				
+kalamang	pitiskiet	0022	bo	until	other	other				
+kalamang	pitiskiet	0022	godung	early_morning	other	other				
+kalamang	pitiskiet	0023	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0023	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0023	se	IAM	other	other				
+kalamang	pitiskiet	0023	di=	CAUS=	=other	=other				
+kalamang	pitiskiet	0023	tepeles	jar	lv	lv			504	
+kalamang	pitiskiet	0023	neko	inside	lv	lv				
+kalamang	pitiskiet	0023	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0023	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0024	#	#	#nc	#nc				
+kalamang	pitiskiet	0024	me	TOP	nc	nc				
+kalamang	pitiskiet	0024	jualan	selling_goods	nc_np	nc_np			503	
+kalamang	pitiskiet	0024	se	IAM	nc	nc				
+kalamang	pitiskiet	0025	#	#	##ds	##ds				
+kalamang	pitiskiet	0025	koi	then	other	other				
+kalamang	pitiskiet	0025	ZERO	ZERO	0.2:a	0	2	a	501	
+kalamang	pitiskiet	0025	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0025	bo	go	lv	lv				
+kalamang	pitiskiet	0025	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0025	#	#	##	##				
+kalamang	pitiskiet	0025	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0025	he	IAM	other	other				
+kalamang	pitiskiet	0025	koi	then	other	other				
+kalamang	pitiskiet	0025	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0026	#	#	##	##				
+kalamang	pitiskiet	0026	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0026	kuru	bring	lv	lv				
+kalamang	pitiskiet	0026	bo	until	lv	lv				
+kalamang	pitiskiet	0027	tat	Tat	lv_pn_np	lv_pn_np			514	
+kalamang	pitiskiet	0027	owandi	like_here	dem_pro:pred_g	dem_pro		pred_g		
+kalamang	pitiskiet	0027	ko	NC	other	other				
+kalamang	pitiskiet	0028	#	#	##	##				
+kalamang	pitiskiet	0028	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0028	melelu	sit	lv	lv				
+kalamang	pitiskiet	0028	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0028	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0028	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0029	#	#	##	##				
+kalamang	pitiskiet	0029	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0029	he	IAM	other	other				
+kalamang	pitiskiet	0029	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0030	#	#	##	##				
+kalamang	pitiskiet	0030	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0030	kangge-r	play-T	v:pred	v		pred		
+kalamang	pitiskiet	0030	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0030	kangge-r	play-T	rv	rv				
+kalamang	pitiskiet	0030	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0030	#	#	##	##				
+kalamang	pitiskiet	0030	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0030	he	IAM	other	other				
+kalamang	pitiskiet	0030	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0030	me	TOP	other	other				
+kalamang	pitiskiet	0031	#	#	##ds	##ds				
+kalamang	pitiskiet	0031	ema	mother	np.h:voc	np	h	voc	502	
+kalamang	pitiskiet	0032	jualan	selling_goods	nc_np	nc_np			503	
+kalamang	pitiskiet	0032	opa	ANA	nc	nc				
+kalamang	pitiskiet	0032	me	TOP	nc	nc				
+kalamang	pitiskiet	0032	to	right	nc	nc				
+kalamang	pitiskiet	0033	tete	grandfather	np.h:a	np	h	a	505	
+kalamang	pitiskiet	0033	kon	one	rn	rn				
+kalamang	pitiskiet	0033	an	1SG	pro.1:p	pro	1	p		
+kalamang	pitiskiet	0033	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0033	sarie	chase	v:pred	v		pred		
+kalamang	pitiskiet	0033	me	TOP	other	other				
+kalamang	pitiskiet	0033	#	#	##ds	##ds				
+kalamang	pitiskiet	0033	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0033	mamun	leave	v:pred	v		pred		
+kalamang	pitiskiet	0033	to	right	other	other				
+kalamang	pitiskiet	0033	#	#	##ds	##ds				
+kalamang	pitiskiet	0033	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0033	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0033	kome-ra	look-NFIN	rv	rv				
+kalamang	pitiskiet	0033	me	TOP	other	other				
+kalamang	pitiskiet	0034	#	#	##	##				
+kalamang	pitiskiet	0034	muap	eat	np:p	np		p	503	
+kalamang	pitiskiet	0034	opa	ANA	rn	rn				
+kalamang	pitiskiet	0034	ma	3SG	pro.h:a	pro	h	a		
+kalamang	pitiskiet	0034	he	IAM	other	other				
+kalamang	pitiskiet	0034	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0034	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0034	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0034	jualan	selling_goods	nc_np	nc_np			503	
+kalamang	pitiskiet	0034	opa	ANA	nc	nc				
+kalamang	pitiskiet	0034	me	TOP	nc	nc				
+kalamang	pitiskiet	0035	#	#	#nc	#nc				
+kalamang	pitiskiet	0035	ma	3SG	nc_pro.h	nc_pro	h		505	
+kalamang	pitiskiet	0035	he	IAM	nc	nc				
+kalamang	pitiskiet	0035	ZERO	ZERO	nc_0	nc_0			503	
+kalamang	pitiskiet	0035	na-n	consume-N	nc	nc				
+kalamang	pitiskiet	0035	=i	=PLNK	nc	nc				
+kalamang	pitiskiet	0035	koyet	finish	nc	nc				
+kalamang	pitiskiet	0036	#	#	##	##				
+kalamang	pitiskiet	0036	ma	3SG	pro.h:a	pro	h	a	505	
+kalamang	pitiskiet	0036	he	IAM	other	other				
+kalamang	pitiskiet	0036	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0036	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0036	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0036	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0037	#	#	##	##				
+kalamang	pitiskiet	0037	ema	mother	np.h:s_ds	np	h	s_ds	502	
+kalamang	pitiskiet	0037	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0037	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0037	#	#	##ds	##ds				
+kalamang	pitiskiet	0037	bes	good	other	other				
+kalamang	pitiskiet	0037	kasur	tomorrow	other	other				
+kalamang	pitiskiet	0037	=et	=IRR	=other	=other				
+kalamang	pitiskiet	0037	eba	then	other	other				
+kalamang	pitiskiet	0037	ka	2SG	pro.2:s	pro	2	s	501	
+kalamang	pitiskiet	0037	koi	then	other	other				
+kalamang	pitiskiet	0037	bo	go	lv	lv				
+kalamang	pitiskiet	0037	ZERO	ZERO	0:p	0		p		
+kalamang	pitiskiet	0037	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0038	#	#	#nc	#nc				
+kalamang	pitiskiet	0038	se	IAM	nc	nc				
+kalamang	pitiskiet	0038	wanir	twice	nc	nc				
+kalamang	pitiskiet	0039	#	#	#nc	#nc				
+kalamang	pitiskiet	0039	ema	mother	nc_np.h	nc_np	h		502	
+kalamang	pitiskiet	0039	-un	-3POSS	nc_pro.h	nc_pro	h		501	
+kalamang	pitiskiet	0039	se	IAM	nc	nc				
+kalamang	pitiskiet	0039	se	IAM	nc	nc				
+kalamang	pitiskiet	0039	wanir	twice	nc	nc				
+kalamang	pitiskiet	0040	#	#	#nc	#nc				
+kalamang	pitiskiet	0040	bo	go	nc	nc				
+kalamang	pitiskiet	0040	mm	HES	nc	nc				
+kalamang	pitiskiet	0041	#	#	#nc	#nc				
+kalamang	pitiskiet	0041	se	IAM	nc	nc				
+kalamang	pitiskiet	0041	wanir	twice	nc	nc				
+kalamang	pitiskiet	0042	#	#	##	##				
+kalamang	pitiskiet	0042	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0042	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+kalamang	pitiskiet	0042	se	IAM	other	other				
+kalamang	pitiskiet	0042	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0042	paruo-n	make-N	lv	lv				
+kalamang	pitiskiet	0042	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0042	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0042	#	#	##	##				
+kalamang	pitiskiet	0042	go saun	(at)_night	other	other				
+kalamang	pitiskiet	0042	wandi	like_this	other	other				
+kalamang	pitiskiet	0042	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0042	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0042	se	IAM	other	other				
+kalamang	pitiskiet	0042	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0042	paruo-n	make-N	lv	lv				
+kalamang	pitiskiet	0042	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0042	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0042	#	#	##	##				
+kalamang	pitiskiet	0042	go dung	early_morning	other	other				
+kalamang	pitiskiet	0042	ma	3SG	pro.h:s	pro	h	s	502	
+kalamang	pitiskiet	0042	he	IAM	other	other				
+kalamang	pitiskiet	0042	pasor	fry	lv	lv				
+kalamang	pitiskiet	0042	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0042	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0043	#	#	##	##				
+kalamang	pitiskiet	0043	ma	3SG	pro.h:a	pro	h	a	502	
+kalamang	pitiskiet	0043	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0043	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0043	tepeles	jar	lv	lv				
+kalamang	pitiskiet	0043	nerunggo	inside	lv	lv				
+kalamang	pitiskiet	0043	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0043	koyer	finish	v:pred	v		pred		
+kalamang	pitiskiet	0043	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0043	me	TOP	other	other				
+kalamang	pitiskiet	0043	#	#	##	##				
+kalamang	pitiskiet	0043	ZERO	ZERO	0.h:a	0	h	a	502	
+kalamang	pitiskiet	0043	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0043	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0043	nawarar	wake_someone_up	v:pred	v		pred		
+kalamang	pitiskiet	0043	#	#	##ds	##ds				
+kalamang	pitiskiet	0043	ZERO	ZERO	0.2:s	0	2	s		
+kalamang	pitiskiet	0043	parar	wake_up	v:pred	v		pred		
+kalamang	pitiskiet	0043	=teba	=PROG	other	other				
+kalamang	pitiskiet	0043	#	#	##ds	##ds				
+kalamang	pitiskiet	0043	ZERO	ZERO	0.2:a	0	2	a	501	
+kalamang	pitiskiet	0043	jualan	selling_goods	np:p	np		p	503	
+kalamang	pitiskiet	0043	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0043	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0043	#	#	##	##				
+kalamang	pitiskiet	0043	ZERO	ZERO	0.h:a	0	h	a	502	
+kalamang	pitiskiet	0043	ma	3SG	pro.h:p	pro	h	p	503	
+kalamang	pitiskiet	0043	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0043	parar	wake.up	v:pred	v		pred		
+kalamang	pitiskiet	0043	=te	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0044	#	#	##	##				
+kalamang	pitiskiet	0044	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0044	kanggisawuo	wash_face	lv	lv				
+kalamang	pitiskiet	0044	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0044	kuer-ra	bring-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0044	me	TOP	other	other				
+kalamang	pitiskiet	0044	#	#	##	##				
+kalamang	pitiskiet	0044	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0044	he	IAM	other	other				
+kalamang	pitiskiet	0044	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0044	o	EMPH	nc	nc				
+kalamang	pitiskiet	0044	marmar	walk	nc	nc				
+kalamang	pitiskiet	0044	=teba	=PROG	nc	nc				
+kalamang	pitiskiet	0044	o	EMPH	nc	nc				
+kalamang	pitiskiet	0045	#	#	##	##				
+kalamang	pitiskiet	0045	tat	Tat	pn_np:g	pn_np		g	514	
+kalamang	pitiskiet	0045	owandi	like_here	rn	rn				
+kalamang	pitiskiet	0045	koi	then	other	other				
+kalamang	pitiskiet	0045	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0045	ZERO	ZERO	0:p	0		p	503	
+kalamang	pitiskiet	0045	melelu	sit	lv	lv				
+kalamang	pitiskiet	0045	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0045	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0045	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0046	#	#	##	##				
+kalamang	pitiskiet	0046	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0046	he	IAM	other	other				
+kalamang	pitiskiet	0046	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0046	kangge-r	play-T	nc	nc				
+kalamang	pitiskiet	0046	=i	=PLNK	nc	nc				
+kalamang	pitiskiet	0046	kangge-r	play-T	nc	nc				
+kalamang	pitiskiet	0046	=i	=PLNK	nc	nc				
+kalamang	pitiskiet	0046	#	#	##	##				
+kalamang	pitiskiet	0046	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0046	he	IAM	other	other				
+kalamang	pitiskiet	0046	yecie	return	v:pred	v		pred		
+kalamang	pitiskiet	0047	#	#	#nc	#nc				
+kalamang	pitiskiet	0047	yecie	return	nc	nc				
+kalamang	pitiskiet	0047	me	TOP	nc	nc				
+kalamang	pitiskiet	0047	naungga	NC	nc	nc				
+kalamang	pitiskiet	0047	=ta	=NFIN	nc	nc				
+kalamang	pitiskiet	0047	#	#	##	##				
+kalamang	pitiskiet	0047	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0047	he	IAM	other	other				
+kalamang	pitiskiet	0047	em	mother	np.h:p	np	h	p	502	
+kalamang	pitiskiet	0047	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0047	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0047	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0047	#	#	##ds	##ds				
+kalamang	pitiskiet	0047	ema	mother	np.h:voc	np	h	voc	502	
+kalamang	pitiskiet	0048	jualang	selling_goods	nc_np	nc_np			503	
+kalamang	pitiskiet	0048	opa	ANA	nc	nc				
+kalamang	pitiskiet	0048	me	TOP	nc	nc				
+kalamang	pitiskiet	0048	to	right	nc	nc				
+kalamang	pitiskiet	0049	esnem	man	np.h:a	np	h	a	505	
+kalamang	pitiskiet	0049	kon	one	rn	rn				
+kalamang	pitiskiet	0049	an	1SG	pro.1:p	pro	1	p		
+kalamang	pitiskiet	0049	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0049	sarie	chase	v:pred	v		pred		
+kalamang	pitiskiet	0049	me	TOP	other	other				
+kalamang	pitiskiet	0049	#	#	##ds	##ds				
+kalamang	pitiskiet	0049	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0049	kiem	run	v:pred	v		pred		
+kalamang	pitiskiet	0049	ba	but	other	other				
+kalamang	pitiskiet	0049	#	#	##ds	##ds				
+kalamang	pitiskiet	0049	jualan	selling_goods	np:p	np		p	503	
+kalamang	pitiskiet	0049	opa	ANA	rn	rn				
+kalamang	pitiskiet	0049	me	TOP	other	other				
+kalamang	pitiskiet	0049	to	right	other	other				
+kalamang	pitiskiet	0049	esnem	man	np.h:a	np	h	a	505	
+kalamang	pitiskiet	0049	me	TOP	other	other				
+kalamang	pitiskiet	0050	melelu	sit	lv	lv				
+kalamang	pitiskiet	0050	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0050	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0050	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0051	#	#	##neg	##neg				
+kalamang	pitiskiet	0051	o	EMPH	other	other				
+kalamang	pitiskiet	0051	me	TOP	other	other				
+kalamang	pitiskiet	0051	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0051	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0051	se	IAM	other	other				
+kalamang	pitiskiet	0051	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0051	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0051	parcai	believe	v:pred	v		pred		
+kalamang	pitiskiet	0051	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0051	#	#	##	##				
+kalamang	pitiskiet	0051	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0051	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+kalamang	pitiskiet	0051	se	IAM	other	other				
+kalamang	pitiskiet	0051	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0051	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0051	sarie	chase	v:pred	v		pred		
+kalamang	pitiskiet	0052	#	#	##	##				
+kalamang	pitiskiet	0052	ema	mother	np.h:a	np	h	a	502	
+kalamang	pitiskiet	0052	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+kalamang	pitiskiet	0052	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0052	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0052	sarie	chase	v:pred	v		pred		
+kalamang	pitiskiet	0052	me	TOP	other	other				
+kalamang	pitiskiet	0052	#	#	##	##				
+kalamang	pitiskiet	0052	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0052	he	IAM	other	other				
+kalamang	pitiskiet	0052	kiem	flee	lv	lv				
+kalamang	pitiskiet	0052	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0052	kelak	mountain	np:g	np		g		
+kalamang	pitiskiet	0052	=ka	=LAT	=rn	=rn				
+kalamang	pitiskiet	0052	era	move_up	v:pred	v		pred		
+kalamang	pitiskiet	0052	#	#	##	##				
+kalamang	pitiskiet	0052	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0052	he	IAM	other	other				
+kalamang	pitiskiet	0052	kiem	flee	lv	lv				
+kalamang	pitiskiet	0052	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0052	kelak	mountain	np:g	np		g		
+kalamang	pitiskiet	0052	=ka	=LAT	=rn	=rn				
+kalamang	pitiskiet	0053	era	move_up	v:pred	v		pred		
+kalamang	pitiskiet	0053	me	TOP	other	other				
+kalamang	pitiskiet	0053	#	#	##	##				
+kalamang	pitiskiet	0053	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0053	he	IAM	other	other				
+kalamang	pitiskiet	0053	kahen	far	lv	lv				
+kalamang	pitiskiet	0053	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0053	bo-t	go-T	v:pred	v		pred		
+kalamang	pitiskiet	0054	#	#	##	##				
+kalamang	pitiskiet	0054	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0054	kahen	far	lv	lv				
+kalamang	pitiskiet	0054	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0054	bo	until	lv	lv				
+kalamang	pitiskiet	0054	kelak kahen	far mountain	np:pred_g	np		pred_g		
+kalamang	pitiskiet	0054	=ggo	=LOC	=rn	=rn				
+kalamang	pitiskiet	0054	#	#	##	##				
+kalamang	pitiskiet	0054	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0054	tumtum	child	np.h:p	np	h	p	506	new
+kalamang	pitiskiet	0054	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0054	eir-i	two-QNT.OBJ	rn	rn				
+kalamang	pitiskiet	0054	koluk	find	v:pred	v		pred		
+kalamang	pitiskiet	0055	#	#	##	##				
+kalamang	pitiskiet	0055	tumtum	child	np.h:s	np	h	s	506	
+kalamang	pitiskiet	0055	opa	ANA	rn	rn				
+kalamang	pitiskiet	0055	me	TOP	other	other				
+kalamang	pitiskiet	0055	nain	like	other	other				
+kalamang	pitiskiet	0055	kalamang	Kalamang	pn_np.h:pred_other	pn_np	h	pred_other		
+kalamang	pitiskiet	0055	=bon	=COM	=rn	=rn				
+kalamang	pitiskiet	0055	rehan	Rehan	rn_pn_np.h	rn_pn_np	h			
+kalamang	pitiskiet	0055	=bon	=COM	=rn	=rn				
+kalamang	pitiskiet	0055	mindi	like_that	other	other				
+kalamang	pitiskiet	0056	#	#	##	##				
+kalamang	pitiskiet	0056	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0056	mier	3DU	pro.h:p	pro	h	p	506	
+kalamang	pitiskiet	0056	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0056	koluk	find	v:pred	v		pred		
+kalamang	pitiskiet	0056	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0056	#	#	##	##				
+kalamang	pitiskiet	0056	mier	3DU	pro.h:s_ds	pro	h	s_ds	506	
+kalamang	pitiskiet	0056	se	IAM	other	other				
+kalamang	pitiskiet	0056	wandi	like_this	other	other				
+kalamang	pitiskiet	0056	taruo	say	v:pred	v		pred		
+kalamang	pitiskiet	0056	eh	QUOT	other	other				
+kalamang	pitiskiet	0057	#	#	##ds	##ds				
+kalamang	pitiskiet	0057	ZERO	ZERO	0.2:a	0	2	a	501	
+kalamang	pitiskiet	0057	in	1PL.EXCL	pro.1:p	pro	1	p	506	
+kalamang	pitiskiet	0057	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0057	pareir	follow	v:pred	v		pred		
+kalamang	pitiskiet	0057	=te	=IMP	=rv	=rv				
+kalamang	pitiskiet	0057	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0057	ka-mun	2SG-PROH	pro.2:a	pro	2	a	501	
+kalamang	pitiskiet	0057	urap	street	np:p	np		p		
+kalamang	pitiskiet	0057	wilak	sea	rn	rn				
+kalamang	pitiskiet	0057	ime	DIST	rn	rn				
+kalamang	pitiskiet	0057	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0057	pareir	follow	v:pred	v		pred		
+kalamang	pitiskiet	0057	=in	=PROH	=rv	=rv				
+kalamang	pitiskiet	0057	#	#	##ds	##ds				
+kalamang	pitiskiet	0057	ZERO	ZERO	0.2:a	0	2	a	501	
+kalamang	pitiskiet	0057	inier-ar	1DU.EXCL-OBJ	pro.1:p	pro	1	p	506	
+kalamang	pitiskiet	0057	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0057	pareir	follow	v:pred	v		pred		
+kalamang	pitiskiet	0057	=te	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0058	#	#	##	##				
+kalamang	pitiskiet	0058	ma	3SG	pro.h:s_ds	pro	h	s_ds	501	
+kalamang	pitiskiet	0058	toni	think	v:pred	v		pred		
+kalamang	pitiskiet	0058	#	#	##ds	##ds				
+kalamang	pitiskiet	0058	sebenarnya	NC	other	other				
+kalamang	pitiskiet	0058	tumtum	child	np.h:s	np	h	s	506	
+kalamang	pitiskiet	0058	eir	two	rn	rn				
+kalamang	pitiskiet	0058	yua	PROX	rn	rn				
+kalamang	pitiskiet	0058	me	TOP	other	other				
+kalamang	pitiskiet	0058	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0058	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	pitiskiet	0058	ZERO	ZERO	0.1:a	0	1	a	501	
+kalamang	pitiskiet	0058	mier	3DU	pro.h:p	pro	h	p	506	
+kalamang	pitiskiet	0058	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0058	pareir	follow	v:pred	v		pred		
+kalamang	pitiskiet	0058	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0058	#	#	#nc	#nc				
+kalamang	pitiskiet	0058	urap	street	nc	nc				
+kalamang	pitiskiet	0058	yua	PROX	nc	nc				
+kalamang	pitiskiet	0058	me	TOP	nc	nc				
+kalamang	pitiskiet	0058	neba	PLH	nc	nc				
+kalamang	pitiskiet	0058	metko-rauna	DIST.LOC-so	nc	nc				
+kalamang	pitiskiet	0058	#	#	##ds	##ds				
+kalamang	pitiskiet	0058	mu	3PL	pro.h:s	pro	h	s	506	
+kalamang	pitiskiet	0058	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0058	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	pitiskiet	0058	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0058	maru	move_towards_sea	v:pred	v		pred		
+kalamang	pitiskiet	0059	#	#	##ds	##ds				
+kalamang	pitiskiet	0059	lebai	better	other	other				
+kalamang	pitiskiet	0059	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0059	mengga	DIST.LAT	dem_pro:g	dem_pro		g		
+kalamang	pitiskiet	0059	mara-n	move_towards_land-N	lv	lv				
+kalamang	pitiskiet	0059	mier	3DU	pro.h:p	pro	h	p		
+kalamang	pitiskiet	0059	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0059	pareir	follow	v:pred	v		pred	506	
+kalamang	pitiskiet	0059	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0060	#	#	##	##				
+kalamang	pitiskiet	0060	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0060	mengga	DIST.LAT	dem_pro:obl	dem_pro		obl		
+kalamang	pitiskiet	0060	marua	move_towards_sea	v:pred	v		pred		
+kalamang	pitiskiet	0060	me	TOP	other	other				
+kalamang	pitiskiet	0060	#	#	##	##				
+kalamang	pitiskiet	0060	laksasa	giant	np.d:s	np	d	s	507	new
+kalamang	pitiskiet	0061	ror	tree	ln_np	ln_np			517	new
+kalamang	pitiskiet	0061	kerunggo	on_top_of	np:pred_l	np		pred_l		
+kalamang	pitiskiet	0062	kul	fig	nc	nc				
+kalamang	pitiskiet	0062	kerunggo	on_top_of	nc	nc				
+kalamang	pitiskiet	0062	me	TOP	nc	nc				
+kalamang	pitiskiet	0062	#	#	##	##				
+kalamang	pitiskiet	0062	ma	3SG	pro.d:s_ds	pro	d	s_ds	507	
+kalamang	pitiskiet	0062	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0062	eh	QUOT	other	other				
+kalamang	pitiskiet	0063	#	#	##ds	##ds				
+kalamang	pitiskiet	0063	mena	otherwise	other	other				
+kalamang	pitiskiet	0063	an	1SG	pro.1:a	pro	1	a	507	
+kalamang	pitiskiet	0063	ka	2SG	pro.2:p	pro	2	p	501	
+kalamang	pitiskiet	0063	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0063	bara	descend	lv	lv				
+kalamang	pitiskiet	0063	na-t	consume-T	v:pred	v		pred		
+kalamang	pitiskiet	0063	=kin	=VOL	=rv	=rv				
+kalamang	pitiskiet	0063	#	#	##ds	##ds				
+kalamang	pitiskiet	0063	an	1SG	nc	nc				
+kalamang	pitiskiet	0063	mena	later	other	other				
+kalamang	pitiskiet	0063	an	1SG	pro.1:a	pro	1	a	507	
+kalamang	pitiskiet	0063	ka	2SG	pro.2:p	pro	2	p	501	
+kalamang	pitiskiet	0063	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0063	na-n	consume-N	v:pred	v		pred		
+kalamang	pitiskiet	0063	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0063	mindi	like_that	nc	nc				
+kalamang	pitiskiet	0063	bo	until	nc	nc				
+kalamang	pitiskiet	0063	kariak	blood	np:other	np		other	508	new
+kalamang	pitiskiet	0063	-ca	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	501	
+kalamang	pitiskiet	0063	=barak	=even	nc	nc				
+kalamang	pitiskiet	0063	naun	soil	nc	nc				
+kalamang	pitiskiet	0063	kerun	top	nc	nc				
+kalamang	pitiskiet	0063	#	#	##ds	##ds				
+kalamang	pitiskiet	0063	mena	later	other	other				
+kalamang	pitiskiet	0063	an	1SG	pro.2:a	pro	2	a	507	
+kalamang	pitiskiet	0063	ZERO	ZERO	0:p	0		p	508	
+kalamang	pitiskiet	0063	kobelen	lick	lv	lv				
+kalamang	pitiskiet	0063	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0063	ma=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0063	oyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0064	#	#	##	##				
+kalamang	pitiskiet	0064	me	TOP	other	other				
+kalamang	pitiskiet	0064	ma	3SG	pro.h:s_ds	pro	h	s_ds	501	
+kalamang	pitiskiet	0064	toni	think	v:pred	v		pred		
+kalamang	pitiskiet	0064	eh	QUOT	other	other				
+kalamang	pitiskiet	0065	#	#	##ds	##ds				
+kalamang	pitiskiet	0065	neba	PLH	nc	nc				
+kalamang	pitiskiet	0065	kirakira	about	other	other				
+kalamang	pitiskiet	0065	nebaakal-ar	whatsense-OBJ	np:p	np		p		
+kalamang	pitiskiet	0065	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0065	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0065	paruo-t	do-T	v:pred	v		pred		
+kalamang	pitiskiet	0065	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0066	#	#	##	##				
+kalamang	pitiskiet	0066	mera	then	other	other				
+kalamang	pitiskiet	0066	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0066	ror	wood	np:p	np		p	511	new
+kalamang	pitiskiet	0066	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0066	kies-ir-i	wrap-two-QNT.OBJ	rn	rn				
+kalamang	pitiskiet	0066	jie-n	get-N	lv	lv				
+kalamang	pitiskiet	0066	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0066	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0066	#	#	##	##				
+kalamang	pitiskiet	0066	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0066	ZERO	ZERO	0:p	0		p	511	
+kalamang	pitiskiet	0066	wandi	like_this	other	other				
+kalamang	pitiskiet	0066	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0066	pue	hit	nc	nc				
+kalamang	pitiskiet	0067	#	#	#nc	#nc				
+kalamang	pitiskiet	0067	hei	INTJ	nc	nc				
+kalamang	pitiskiet	0067	makan	NC	nc	nc				
+kalamang	pitiskiet	0067	satu	NC	nc	nc				
+kalamang	pitiskiet	0067	makan	NC	nc	nc				
+kalamang	pitiskiet	0067	dua	NC	nc	nc				
+kalamang	pitiskiet	0067	makan	NC	nc	nc				
+kalamang	pitiskiet	0067	tiga	NC	nc	nc				
+kalamang	pitiskiet	0067	makan	NC	nc	nc				
+kalamang	pitiskiet	0067	habis	NC	nc	nc				
+kalamang	pitiskiet	0067	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0067	hei	INTJ	other	other				
+kalamang	pitiskiet	0067	hei	INTJ	other	other				
+kalamang	pitiskiet	0067	ka-mun	2SG-PROH	pro.2:a	pro	2	a	507	
+kalamang	pitiskiet	0067	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0067	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0067	nein	consume	v:pred	v		pred		
+kalamang	pitiskiet	0067	eh	TAG	other	other				
+kalamang	pitiskiet	0068	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0068	ka-mun	2SG-PROH	pro.2:a	pro	2	a	507	
+kalamang	pitiskiet	0068	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0068	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0068	nein-da	consume-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0068	=ba	=FOC	=other	=other				
+kalamang	pitiskiet	0069	#	#	##ds	##ds				
+kalamang	pitiskiet	0069	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0069	handu	towel	pro:p	pro		p	509	new
+kalamang	pitiskiet	0069	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0069	ka	2SG	pro.2:g	pro	2	g	507	
+kalamang	pitiskiet	0069	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0069	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0069	#	#	#nc	#nc				
+kalamang	pitiskiet	0069	me	DIST	nc	nc				
+kalamang	pitiskiet	0069	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0069	barei	descend	nc	nc				
+kalamang	pitiskiet	0069	#	#	##ds	##ds				
+kalamang	pitiskiet	0069	handuk	towel	np.d:dt_poss	np	d	dt_poss	509	
+kalamang	pitiskiet	0069	me	TOP	other	other				
+kalamang	pitiskiet	0069	conto	example	np:s	np		s		
+kalamang	pitiskiet	0069	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	509	
+kalamang	pitiskiet	0069	tamandi	how	other:pred_other	other		pred_other		
+kalamang	pitiskiet	0069	#	#	##ds	##ds				
+kalamang	pitiskiet	0069	ZERO	ZERO	0.2:s	0	2	s	507	
+kalamang	pitiskiet	0069	barei	descend	v:pred	v		pred		
+kalamang	pitiskiet	0070	#	#	##	##				
+kalamang	pitiskiet	0070	me	TOP	other	other				
+kalamang	pitiskiet	0070	ma	3SG	pro.d:s	pro	d	s	507	
+kalamang	pitiskiet	0070	rorkitko	tree	np:obl	np		obl		
+kalamang	pitiskiet	0070	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0070	sororo	NC	lv	lv				
+kalamang	pitiskiet	0070	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0070	bara	descend	v:pred	v		pred		
+kalamang	pitiskiet	0070	#	#	##ds	##ds				
+kalamang	pitiskiet	0070	ZERO	ZERO	0.2:a	0	2	a	501	
+kalamang	pitiskiet	0070	mindi	like_that	other	other				
+kalamang	pitiskiet	0070	paru	do	v:pred	v		pred		
+kalamang	pitiskiet	0070	#	#	##ds	##ds				
+kalamang	pitiskiet	0070	handuk	towel	np:dt_poss	np		dt_poss	509	
+kalamang	pitiskiet	0070	conto	example	np:s	np		s		
+kalamang	pitiskiet	0070	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	509	
+kalamang	pitiskiet	0070	tamandi	how	other:pred_other	other		pred_other		
+kalamang	pitiskiet	0070	#	#	##	##				
+kalamang	pitiskiet	0070	ma	3SG	pro.h:s_ds	pro	h	s_ds		
+kalamang	pitiskiet	0070	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0070	#	#	#nc	#nc				
+kalamang	pitiskiet	0070	o	EMPH	nc	nc				
+kalamang	pitiskiet	0070	handuk	NC	nc_np	nc_np			509	
+kalamang	pitiskiet	0070	bikin	NC	nc	nc				
+kalamang	pitiskiet	0070	conto	NC	nc	nc				
+kalamang	pitiskiet	0070	#	#	##	##				
+kalamang	pitiskiet	0070	o	EMPH	other	other				
+kalamang	pitiskiet	0070	me	TOP	other	other				
+kalamang	pitiskiet	0070	muap	eat	np:a	np		a		
+kalamang	pitiskiet	0070	se	IAM	other	other				
+kalamang	pitiskiet	0071	tapal	cloth	np:p	np		p	509	
+kalamang	pitiskiet	0071	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0071	kerunggo	on_top_of	np:pred_l	np		pred_l		
+kalamang	pitiskiet	0071	#	#	#nc	#nc				
+kalamang	pitiskiet	0071	se	IAM	nc	nc				
+kalamang	pitiskiet	0071	na	consume	nc	nc				
+kalamang	pitiskiet	0071	melelu	sit	nc	nc				
+kalamang	pitiskiet	0072	#	#	##	##				
+kalamang	pitiskiet	0072	ZERO	ZERO	0.d:s	0	d	s	507	
+kalamang	pitiskiet	0072	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0072	me	TOP	other	other				
+kalamang	pitiskiet	0072	#	#	##	##				
+kalamang	pitiskiet	0072	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0072	ZERO	ZERO	0.d:p	0	d	p	509	
+kalamang	pitiskiet	0072	kawetkawet	fold	lv	lv				
+kalamang	pitiskiet	0072	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0072	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0072	#	##	##	##				
+kalamang	pitiskiet	0072	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0072	ZERO	ZERO	0.d:p	0	d	p	509	
+kalamang	pitiskiet	0072	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0072	ma	3SG	pro.d:g	pro	d	g	507	
+kalamang	pitiskiet	0072	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0073	#	#	##	##				
+kalamang	pitiskiet	0073	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0073	ZERO	ZERO	0.d:p	0	d	p	509	
+kalamang	pitiskiet	0073	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0073	ma	3SG	pro.d:g	pro	d	g	507	
+kalamang	pitiskiet	0073	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0073	#	#	##	##				
+kalamang	pitiskiet	0073	ma	3SG	pro.h:a	pro	h	a	507	
+kalamang	pitiskiet	0073	he	IAM	other	other				
+kalamang	pitiskiet	0073	ZERO	ZERO	0.d:p	0	d	p	509	
+kalamang	pitiskiet	0073	tanggo	hold	v:pred	v		pred		
+kalamang	pitiskiet	0074	#	#	##	##				
+kalamang	pitiskiet	0074	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0074	koi	then	other	other				
+kalamang	pitiskiet	0074	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0074	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0074	rakbolon	a_little	other	other				
+kalamang	pitiskiet	0074	#	#	##	##				
+kalamang	pitiskiet	0074	raksasa	giant	np.d:s	np	d	s	510	new
+kalamang	pitiskiet	0074	kodaet	one_more	rn	rn				
+kalamang	pitiskiet	0074	ror	tree	ln_np	ln_np			518	new
+kalamang	pitiskiet	0074	kerunggo	on_top_of	np:pred_l	np		pred_l		
+kalamang	pitiskiet	0074	#	#	##	##				
+kalamang	pitiskiet	0074	ma	3SG	pro.d:s_ds	pro	d	s_ds	510	
+kalamang	pitiskiet	0074	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0074	he	QUOT	other	other				
+kalamang	pitiskiet	0075	#	#	##ds	##ds				
+kalamang	pitiskiet	0075	ZERO	ZERO	0.2:s	0	2	s	501	
+kalamang	pitiskiet	0075	nawanggar	wait	v:pred	v		pred		
+kalamang	pitiskiet	0075	=te	=IMP	=rv	=rv				
+kalamang	pitiskiet	0075	#	#	##ds	##ds				
+kalamang	pitiskiet	0075	an	1SG	pro.1:s	pro	1	s	510	
+kalamang	pitiskiet	0075	bara-n	descend-N	v:pred	v		pred		
+kalamang	pitiskiet	0075	#	#	##ds	##ds				
+kalamang	pitiskiet	0075	an	1SG	pro.1:a	pro	1	a	510	
+kalamang	pitiskiet	0075	ka	2SG	pro.2:p	pro	2	p	501	
+kalamang	pitiskiet	0075	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0075	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0075	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0075	ma=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0075	oyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0076	#	#	##	##				
+kalamang	pitiskiet	0076	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0076	ror	wood	np:p	np		p	511	
+kalamang	pitiskiet	0076	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0076	opa	ANA	rn	rn				
+kalamang	pitiskiet	0076	me	TOP	other	other				
+kalamang	pitiskiet	0076	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0076	pue	hit	rv	rv				
+kalamang	pitiskiet	0077	#	#	#nc	#nc				
+kalamang	pitiskiet	0077	makan	NC	nc	nc				
+kalamang	pitiskiet	0077	satu	NC	nc	nc				
+kalamang	pitiskiet	0077	makan	NC	nc	nc				
+kalamang	pitiskiet	0077	dua	NC	nc	nc				
+kalamang	pitiskiet	0077	makan	NC	nc	nc				
+kalamang	pitiskiet	0077	tiga	NC	nc	nc				
+kalamang	pitiskiet	0077	makan	NC	nc	nc				
+kalamang	pitiskiet	0077	habis	NC	nc	nc				
+kalamang	pitiskiet	0078	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0078	ih	INTJ	other	other				
+kalamang	pitiskiet	0078	ka-mun	2SG-PROH	pro.2:a	pro	2	a	510	
+kalamang	pitiskiet	0078	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0078	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0078	nein-da	consume-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0078	ba	then	other	other				
+kalamang	pitiskiet	0078	#	#	##ds	##ds				
+kalamang	pitiskiet	0078	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0078	sapi	cow	np.n:p	np	n	p	512	new
+kalamang	pitiskiet	0078	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0078	ka	2SG	pro.2:g	pro	2	g		
+kalamang	pitiskiet	0078	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0078	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0078	me	DIST	other	other				
+kalamang	pitiskiet	0078	#	#	##ds	##ds				
+kalamang	pitiskiet	0078	ZERO	ZERO	0.2:s	0	2	s	510	
+kalamang	pitiskiet	0078	barei	descend	v:pred	v		pred		
+kalamang	pitiskiet	0078	#	#	##	##				
+kalamang	pitiskiet	0078	ma	3SG	pro.d:s	pro	d	s	510	
+kalamang	pitiskiet	0078	sororo	NC	lv	lv				
+kalamang	pitiskiet	0078	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0078	bara-n	descend-N	v:pred	v		pred		
+kalamang	pitiskiet	0078	#	#	##	##				
+kalamang	pitiskiet	0078	ma	3SG	pro.d:a_ds	pro	d	a_ds	510	
+kalamang	pitiskiet	0078	he	IAM	other	other				
+kalamang	pitiskiet	0078	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0078	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0078	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0078	#	#	##ds	##ds				
+kalamang	pitiskiet	0078	baru	then	other	other				
+kalamang	pitiskiet	0078	sapi	cow	np.n:dt_poss	np	n	dt_poss	512	
+kalamang	pitiskiet	0078	me	TOP	other	other				
+kalamang	pitiskiet	0078	conto	example	np.n:s	np	n	s		
+kalamang	pitiskiet	0078	-un	-3POSS	-rn_pro.n:poss	-rn_pro	n	poss	512	
+kalamang	pitiskiet	0078	tamandi	how	other:pred_other	other		pred_other		
+kalamang	pitiskiet	0078	#	#	##	##				
+kalamang	pitiskiet	0078	o	EMPH	other	other				
+kalamang	pitiskiet	0078	me	DIST	other	other				
+kalamang	pitiskiet	0078	sapi	cow	np.n:s	np	n	s	512	
+kalamang	pitiskiet	0078	he	IAM	other	other				
+kalamang	pitiskiet	0078	kietkier	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0078	=a	=FOC	=rv	=rv				
+kalamang	pitiskiet	0078	me	TOP	other	other				
+kalamang	pitiskiet	0079	#	#	#nc	#nc				
+kalamang	pitiskiet	0079	ZERO	ZERO	nc_0.n	nc_0	n		512	
+kalamang	pitiskiet	0079	pitis	money	nc_np	nc_np			513	new
+kalamang	pitiskiet	0079	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0079	kietkiet	defecate	nc	nc				
+kalamang	pitiskiet	0080	#	#	##	##				
+kalamang	pitiskiet	0080	ZERO	ZERO	0.n:a	0	n	a	512	
+kalamang	pitiskiet	0080	pitis	money	np:p	np		p	513	
+kalamang	pitiskiet	0080	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0080	kietkiet	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0080	o	EMPH	other	other				
+kalamang	pitiskiet	0081	#	#	#nc	#nc				
+kalamang	pitiskiet	0081	pitis	money	nc_np	nc_np			513	
+kalamang	pitiskiet	0081	-un	-3POSS	nc	nc				
+kalamang	pitiskiet	0081	se	IAM	nc	nc				
+kalamang	pitiskiet	0081	reidak	much	nc	nc				
+kalamang	pitiskiet	0082	#	#	##	##				
+kalamang	pitiskiet	0082	mm	AGR	nc	nc				
+kalamang	pitiskiet	0083	pitis	money	np:s	np		s	513	
+kalamang	pitiskiet	0083	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	510	
+kalamang	pitiskiet	0083	se	IAM	other	other				
+kalamang	pitiskiet	0083	reidak	much	v:pred	v		pred		
+kalamang	pitiskiet	0083	#	#	##	##				
+kalamang	pitiskiet	0083	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0083	sapi	cow	np.n:p	np	n	p	512	
+kalamang	pitiskiet	0083	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0083	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0083	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0083	mia	come	lv	lv				
+kalamang	pitiskiet	0083	kanie-n	tie-N	lv	lv				
+kalamang	pitiskiet	0083	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0083	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0083	#	#	##	##				
+kalamang	pitiskiet	0083	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0083	ZERO	ZERO	0.n:p	0	n	p	512	
+kalamang	pitiskiet	0083	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0083	ma	3SG	pro.d:g	pro	d	g	510	
+kalamang	pitiskiet	0083	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0084	#	#	##	##				
+kalamang	pitiskiet	0084	ma	3SG	nc	nc				
+kalamang	pitiskiet	0084	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0084	koi	then	other	other				
+kalamang	pitiskiet	0084	marmar	walk	lv	lv				
+kalamang	pitiskiet	0084	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0084	mara-n	move_towards_land-N	v:pred	v		pred		
+kalamang	pitiskiet	0084	mara-n-da	move_towards_land-N-NFIN	rv	rv				
+kalamang	pitiskiet	0084	me	TOP	nc	nc				
+kalamang	pitiskiet	0085	#	#	##	##				
+kalamang	pitiskiet	0085	kodaet	one_more	np.d:s	np	d	s	515	new
+kalamang	pitiskiet	0085	koi	then	other	other				
+kalamang	pitiskiet	0085	ror	tree	ln_np	ln_np			516	new
+kalamang	pitiskiet	0085	kerunggo	on_top_of	np:pred_l	np		pred_l		
+kalamang	pitiskiet	0086	#	#	##ds	##ds				
+kalamang	pitiskiet	0086	e	QUOT	other	other				
+kalamang	pitiskiet	0086	mena	otherwise	other	other				
+kalamang	pitiskiet	0086	ka	2SG	pro.2:s	pro	2	s	501	
+kalamang	pitiskiet	0086	nawanggar	wait	v:pred	v		pred		
+kalamang	pitiskiet	0086	=te	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0086	#	#	##ds	##ds				
+kalamang	pitiskiet	0086	eh	QUOT	other	other				
+kalamang	pitiskiet	0086	mena	later	other	other				
+kalamang	pitiskiet	0086	an	1SG	pro.1:s	pro	1	s	515	
+kalamang	pitiskiet	0086	bara-n	descend-N	v:pred	v		pred		
+kalamang	pitiskiet	0086	#	#	##ds	##ds				
+kalamang	pitiskiet	0086	mena	later	other	other				
+kalamang	pitiskiet	0086	an	1SG	pro.1:a	pro	1	a	515	
+kalamang	pitiskiet	0086	ka	2SG	pro.2:p	pro	2	p	501	
+kalamang	pitiskiet	0086	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0086	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0086	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0086	ma=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0086	oyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0087	#	#	##	##				
+kalamang	pitiskiet	0087	koi	then	other	other				
+kalamang	pitiskiet	0087	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0087	ror	wood	np:p	np		p	511	
+kalamang	pitiskiet	0087	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0087	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0087	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0087	#	#	#nc	#nc				
+kalamang	pitiskiet	0087	makan	NC	nc	nc				
+kalamang	pitiskiet	0087	dua	NC	nc	nc				
+kalamang	pitiskiet	0087	makan	NC	nc	nc				
+kalamang	pitiskiet	0087	tiga	NC	nc	nc				
+kalamang	pitiskiet	0087	makan	NC	nc	nc				
+kalamang	pitiskiet	0087	habis	NC	nc	nc				
+kalamang	pitiskiet	0088	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0088	ih	INTJ	other	other				
+kalamang	pitiskiet	0088	ka-mun	2SG-PROH	pro.2:a	pro	2	a	515	
+kalamang	pitiskiet	0088	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0088	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0088	nein	consume.PROH	v:pred	v		pred		
+kalamang	pitiskiet	0088	eh	TAG	other	other				
+kalamang	pitiskiet	0089	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0089	ka-mun	2SG-PROH	pro.2:a	pro	2	a	515	
+kalamang	pitiskiet	0089	an	1SG	pro.1:p	pro	1	p	501	
+kalamang	pitiskiet	0089	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0089	nein-da	consume.PROH-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0089	ba	so_that	other	other				
+kalamang	pitiskiet	0089	#	#	##ds	##ds				
+kalamang	pitiskiet	0089	an	1SG	pro.1:a	pro	1	a	501	
+kalamang	pitiskiet	0089	pemukul	hit_thing	np:p	np		p	519	new
+kalamang	pitiskiet	0089	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0089	ka	2SG	pro.2:g	pro	2	g	515	
+kalamang	pitiskiet	0089	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0089	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0090	#	#	##ds	##ds				
+kalamang	pitiskiet	0090	ZERO	ZERO	0.2:s	0	2	s	515	
+kalamang	pitiskiet	0090	mei	come	v:pred	v		pred		
+kalamang	pitiskiet	0090	#	#	##ds	##ds				
+kalamang	pitiskiet	0090	ZERO	ZERO	0.2:s	0	2	s	515	
+kalamang	pitiskiet	0090	barei	descend	v:pred	v		pred		
+kalamang	pitiskiet	0091	#	#	##ds	##ds				
+kalamang	pitiskiet	0091	pemukul	hit_thing	np:dt_s	np		dt_s	519	
+kalamang	pitiskiet	0091	me	TOP	other	other				
+kalamang	pitiskiet	0091	conto	example	np:s	np		s	519	
+kalamang	pitiskiet	0091	-un	-3POSS	-rn_pro:poss	-rn_pro		poss	519	
+kalamang	pitiskiet	0091	tamandi	how	other:pred_other	other		pred_other		
+kalamang	pitiskiet	0091	me	TOP	other	other				
+kalamang	pitiskiet	0091	#	#	##	##				
+kalamang	pitiskiet	0091	ma	3SG	nc	nc				
+kalamang	pitiskiet	0091	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0091	ror	wood	np:p	np		p	519	
+kalamang	pitiskiet	0091	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0092	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0092	tak	NC	nc	nc				
+kalamang	pitiskiet	0092	tak	NC	nc	nc				
+kalamang	pitiskiet	0092	tak	NC	nc	nc				
+kalamang	pitiskiet	0092	tak	NC	nc	nc				
+kalamang	pitiskiet	0092	tak	NC	nc	nc				
+kalamang	pitiskiet	0093	#	#	##	##				
+kalamang	pitiskiet	0093	koyet	finish	other	other				
+kalamang	pitiskiet	0093	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0093	he	IAM	other	other				
+kalamang	pitiskiet	0093	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0093	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0093	ma	3SG	pro.d:g	pro	d	g	515	
+kalamang	pitiskiet	0093	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0093	#	#	##	##				
+kalamang	pitiskiet	0093	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0093	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0093	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0093	ma	3SG	pro.d:g	pro	d	g	515	
+kalamang	pitiskiet	0093	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0093	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0093	#	#	##	##				
+kalamang	pitiskiet	0093	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0093	he	IAM	lv	lv				
+kalamang	pitiskiet	0093	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0094	#	#	##	##				
+kalamang	pitiskiet	0094	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0094	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0094	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0094	ba	but	other	other				
+kalamang	pitiskiet	0094	#	#	##	##				
+kalamang	pitiskiet	0094	go	condition	np:s	np		s		
+kalamang	pitiskiet	0094	he	IAM	other	other				
+kalamang	pitiskiet	0094	ginggir	afternoon	np:pred	np		pred		
+kalamang	pitiskiet	0095	#	#	##	##				
+kalamang	pitiskiet	0095	bo	until	other	other				
+kalamang	pitiskiet	0095	go	condition	np:s	np		s		
+kalamang	pitiskiet	0095	he	IAM	other	other				
+kalamang	pitiskiet	0095	ginggir	afternoon	np:pred	np		pred		
+kalamang	pitiskiet	0095	=ta	=NFIN	=rn	=rn				
+kalamang	pitiskiet	0095	me	TOP	other	other				
+kalamang	pitiskiet	0095	#	#	##	##				
+kalamang	pitiskiet	0095	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0095	he	IAM	other	other				
+kalamang	pitiskiet	0095	tukan bacuci	washing_man	np.h:obl	np	h	obl	520	new
+kalamang	pitiskiet	0095	=kongga	=AN.LAT	=rn	=rn				
+kalamang	pitiskiet	0095	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0096	#	#	##	##				
+kalamang	pitiskiet	0096	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0096	mu	3PL	pro.h:g	pro	h	g	520	
+kalamang	pitiskiet	0096	=ongga	=AN.LAT	=rn	=rn				
+kalamang	pitiskiet	0096	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0096	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0096	me	TOP	other	other				
+kalamang	pitiskiet	0096	#	#	##ds	##ds				
+kalamang	pitiskiet	0096	eh	QUOT	other	other				
+kalamang	pitiskiet	0096	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0096	ki	2PL	pro.2:l	pro	2	l	520	
+kalamang	pitiskiet	0096	=onggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0096	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0096	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0096	eh	TAG	other	other				
+kalamang	pitiskiet	0097	#	#	##ds	##ds				
+kalamang	pitiskiet	0097	ZERO	ZERO	pro.2:s	pro	2	s	501	
+kalamang	pitiskiet	0097	in	1PL.EXCL	pro.1:l	pro	1	l		
+kalamang	pitiskiet	0097	=ggonggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0097	min-de	sleep-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0098	#	#	#nc	#nc				
+kalamang	pitiskiet	0098	mu	3PL	nc_pro.h	nc_pro	h		520	
+kalamang	pitiskiet	0098	neba	PLH	nc_np	nc_np			509	
+kalamang	pitiskiet	0098	-ia	-2SG.POSS	nc_pro.2	nc_pro	2		501	
+kalamang	pitiskiet	0098	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0098	kosalir	change	nc	nc				
+kalamang	pitiskiet	0099	#	#	##	##				
+kalamang	pitiskiet	0099	padahal	however	other	other				
+kalamang	pitiskiet	0099	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0099	mu	3PL	pro.h:l	pro	h	l	520	
+kalamang	pitiskiet	0099	=onggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0099	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0099	#	#	##	##				
+kalamang	pitiskiet	0099	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0099	handu	towel	np:p	np		p	509	
+kalamang	pitiskiet	0099	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0099	opa	ANA	rn	rn				
+kalamang	pitiskiet	0099	me	TOP	other	other				
+kalamang	pitiskiet	0099	kosalir	change	v:pred	v		pred		
+kalamang	pitiskiet	0099	#	#	#nc	#nc				
+kalamang	pitiskiet	0099	mu	3PL	nc_pro.h	nc_pro	h		520	
+kalamang	pitiskiet	0099	muin	3PL.POSS	nc_pro	nc_pro			521	new
+kalamang	pitiskiet	0099	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0099	mu	3PL	nc_pro.h	nc_pro	h		520	
+kalamang	pitiskiet	0099	di=	CAUS=	nc	nc				
+kalamang	pitiskiet	0100	#	#	#nc	#nc				
+kalamang	pitiskiet	0100	ge	no	nc	nc				
+kalamang	pitiskiet	0100	mu	3PL	nc	nc				
+kalamang	pitiskiet	0100	ma	3SG	nc	nc				
+kalamang	pitiskiet	0100	=bon	=COM	nc	nc				
+kalamang	pitiskiet	0100	bon	bring	nc	nc				
+kalamang	pitiskiet	0100	taruo-rauna	say-so	nc	nc				
+kalamang	pitiskiet	0100	reon	maybe	nc	nc				
+kalamang	pitiskiet	0101	#	#	##	##				
+kalamang	pitiskiet	0101	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0101	muin	3PL.POSS	pro:p	pro		p	521	
+kalamang	pitiskiet	0101	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0101	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0102	#	#	##	##				
+kalamang	pitiskiet	0102	ZERO	ZERO	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0102	muin	3PL.POSS	pro:p	pro		p	521	
+kalamang	pitiskiet	0102	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0102	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0102	ma	3SG	pro.h:g	pro	h	g	501	
+kalamang	pitiskiet	0102	0	give	0:pred	0		pred		
+kalamang	pitiskiet	0102	#	#	##	##				
+kalamang	pitiskiet	0102	main	3SG.POSS	pro:p	pro		p	509	
+kalamang	pitiskiet	0102	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0102	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0102	jie-n	get-N	v:pred	v		pred		
+kalamang	pitiskiet	0103	#	#	##	##				
+kalamang	pitiskiet	0103	bo	until	other	other				
+kalamang	pitiskiet	0103	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0103	min-de	sleep-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0103	bo	until	nc	nc				
+kalamang	pitiskiet	0103	godung	early_morning	nc	nc				
+kalamang	pitiskiet	0103	#	#	##	##				
+kalamang	pitiskiet	0103	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0103	koi	then	other	other				
+kalamang	pitiskiet	0103	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0103	marmar	walk	rv	rv				
+kalamang	pitiskiet	0103	marmar	walk	rv	rv				
+kalamang	pitiskiet	0103	marmar	walk	rv	rv				
+kalamang	pitiskiet	0103	marmar	walk	rv	rv				
+kalamang	pitiskiet	0103	#	#	##	##				
+kalamang	pitiskiet	0103	mindi	like_that	other	other				
+kalamang	pitiskiet	0103	bo	until	other	other				
+kalamang	pitiskiet	0104	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0104	jagajaga.sapi	cow_herder	np.h:obl	np	h	obl	522	new
+kalamang	pitiskiet	0104	=kongga	=AN.LAT	=rn	=rn				
+kalamang	pitiskiet	0104	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0105	#	#	##	##				
+kalamang	pitiskiet	0105	ma	3SG	pro.h:s_ds	pro	h	s_ds	501	
+kalamang	pitiskiet	0105	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0105	#	#	##ds	##ds				
+kalamang	pitiskiet	0105	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0105	ki	2PL	pro.2:l	pro	2	l	522	
+kalamang	pitiskiet	0105	=onggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0105	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0105	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0105	#	#	##ds	##ds				
+kalamang	pitiskiet	0105	yo	yes	other	other				
+kalamang	pitiskiet	0105	ZERO	ZERO	0.2:s	0	2	s	501	
+kalamang	pitiskiet	0105	min-de	sleep-IMP	v:pred	v		pred		
+kalamang	pitiskiet	0106	#	#	##	##				
+kalamang	pitiskiet	0106	ZERO	ZERO	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0106	mu	3PL	pro.h:l	pro	h	l	522	
+kalamang	pitiskiet	0106	=onggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0106	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0106	#	#	##	##				
+kalamang	pitiskiet	0106	mu	3PL	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0106	sapi	cow	np.n:p	np	n	p	512	
+kalamang	pitiskiet	0106	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0106	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0106	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0107	#	#	##	##				
+kalamang	pitiskiet	0107	sapi	cow	np.n:p	np	n	p	512	
+kalamang	pitiskiet	0107	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0107	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0107	kanie-n	tie-N	lv	lv				
+kalamang	pitiskiet	0107	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0107	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0107	di=	CAUS=	=lv	=lv				
+kalamang	pitiskiet	0107	kewe	house	ln_np	ln_np			523	bridging
+kalamang	pitiskiet	0107	mul	side	np:l	np		l		
+kalamang	pitiskiet	0107	=ko	=LOC	=rn	=rn				
+kalamang	pitiskiet	0107	#	#	##	##				
+kalamang	pitiskiet	0107	mu	3PL	np.h:a	np	h	a	522	
+kalamang	pitiskiet	0107	bara	descend	lv	lv				
+kalamang	pitiskiet	0107	ZERO	ZERO	0:p	0		p	512	
+kalamang	pitiskiet	0107	kahetma	open	v:pred	v		pred		
+kalamang	pitiskiet	0107	me	TOP	other	other				
+kalamang	pitiskiet	0107	#	#	##	##				
+kalamang	pitiskiet	0107	ZERO	ZERO	0.h:a	0	h	a	522	
+kalamang	pitiskiet	0107	ZERO	ZERO	0:p	0		p	512	
+kalamang	pitiskiet	0107	kosalir	change	v:pred	v		pred		
+kalamang	pitiskiet	0108	#	#	##	##				
+kalamang	pitiskiet	0108	go dung	early_morning	other	other				
+kalamang	pitiskiet	0108	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0108	koi	then	other	other				
+kalamang	pitiskiet	0108	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0109	#	#	##	##				
+kalamang	pitiskiet	0109	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0109	sapi	cow	np.n:p	np	n	p	524	bridging
+kalamang	pitiskiet	0109	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0109	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0109	narorar	lead	v:pred	v		pred		
+kalamang	pitiskiet	0110	#	#	##	##				
+kalamang	pitiskiet	0110	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0110	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0110	marmar	walk	nc	nc				
+kalamang	pitiskiet	0110	#	#	##	##				
+kalamang	pitiskiet	0110	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0110	bo	until	lv	lv				
+kalamang	pitiskiet	0110	pemukul	hit_thing	np.h:pred_g	np	h	pred_g	525	new
+kalamang	pitiskiet	0110	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0110	#	#	##	##				
+kalamang	pitiskiet	0110	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0110	tukan pemukul	club_man	np.h:g	np	h	g	525	
+kalamang	pitiskiet	0110	=kongga	=AN.LAT	=rn	=rn				
+kalamang	pitiskiet	0110	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0111	#	#	##	##				
+kalamang	pitiskiet	0111	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0111	koi	then	other	other				
+kalamang	pitiskiet	0111	mu	3PL	pro.h:l	pro	h	l	525	
+kalamang	pitiskiet	0111	=onggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0111	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0112	#	#	##	##				
+kalamang	pitiskiet	0112	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0112	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0112	min	sleep	rv	rv				
+kalamang	pitiskiet	0112	min	sleep	rv	rv				
+kalamang	pitiskiet	0112	min	sleep	rv	rv				
+kalamang	pitiskiet	0112	bo	until	other	other				
+kalamang	pitiskiet	0112	godung	early_morning	other	other				
+kalamang	pitiskiet	0113	#	#	##	##				
+kalamang	pitiskiet	0113	ma	3SG	pro.h:s	pro	h	s	501	
+kalamang	pitiskiet	0113	koi	then	other	other				
+kalamang	pitiskiet	0113	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0113	=taet	=again	=rv	=rv				
+kalamang	pitiskiet	0114	#	#	##	##				
+kalamang	pitiskiet	0114	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0114	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0114	=i	=PLNK	=rv	=rv				
+kalamang	pitiskiet	0114	leng	village	np:g	np		g	526	new
+kalamang	pitiskiet	0114	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0114	=ggo	=LOC	=rn	=rn				
+kalamang	pitiskiet	0115	#	#	#nc	#nc				
+kalamang	pitiskiet	0115	marmar	walk	nc	nc				
+kalamang	pitiskiet	0115	=i	=PLNK	nc	nc				
+kalamang	pitiskiet	0115	bo	until	nc	nc				
+kalamang	pitiskiet	0115	marmar	walk	nc	nc				
+kalamang	pitiskiet	0115	=ta	=NFIN	nc	nc				
+kalamang	pitiskiet	0115	me	TOP	nc	nc				
+kalamang	pitiskiet	0115	#	#	##	##				
+kalamang	pitiskiet	0115	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0115	bo	until	lv	lv				
+kalamang	pitiskiet	0115	leng	village	np:obl	np		obl	526	
+kalamang	pitiskiet	0115	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0115	=gga	=LAT	=rn	=rn				
+kalamang	pitiskiet	0115	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0116	#	#	##	##				
+kalamang	pitiskiet	0116	ZERO	ZERO	0.h:s	0	h	s	501	
+kalamang	pitiskiet	0116	lauk	appear	lv	lv				
+kalamang	pitiskiet	0116	=ta	=NFIN	=lv	=lv				
+kalamang	pitiskiet	0116	bo	go	v:pred	v		pred		
+kalamang	pitiskiet	0116	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0116	em	mother	np:g	np		g	502	
+kalamang	pitiskiet	0116	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0116	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0116	#	#	##	##				
+kalamang	pitiskiet	0116	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0116	em	mother	np.h:p	np	h	p	502	
+kalamang	pitiskiet	0116	-un	-3POSS	rn_pro.h:poss	rn_pro	h	poss	501	
+kalamang	pitiskiet	0116	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0116	nawarik	show	v:pred	v		pred		
+kalamang	pitiskiet	0116	#	#	##ds	##ds				
+kalamang	pitiskiet	0116	ema	mother	np.h:voc	np	h	voc	502	
+kalamang	pitiskiet	0117	pi	1PL.INCL	pro.1:s	pro	1	s	527	bridging
+kalamang	pitiskiet	0117	he	IAM	other	other				
+kalamang	pitiskiet	0117	kaya	rich	v:pred	v		pred		
+kalamang	pitiskiet	0118	#	#	##	##				
+kalamang	pitiskiet	0118	ema	mother	np.h:s	np	h	s	502	
+kalamang	pitiskiet	0118	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0118	taluk	come_out	v:pred	v		pred		
+kalamang	pitiskiet	0119	#	#	##	##				
+kalamang	pitiskiet	0119	ema	mother	np.h:s	np	h	s	502	
+kalamang	pitiskiet	0119	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0119	taluk	come_out	v:pred	v		pred		
+kalamang	pitiskiet	0119	=te	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0119	#	#	##	##				
+kalamang	pitiskiet	0119	ZERO	ZERO	0.h:s	0	h	s	502	
+kalamang	pitiskiet	0119	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0119	#	#	##	##				
+kalamang	pitiskiet	0119	ma	3SG	nc	nc				
+kalamang	pitiskiet	0119	he	IAM	nc	nc				
+kalamang	pitiskiet	0119	sontun-mahap	person-all	np.h:s	np	h	s	528	bridging
+kalamang	pitiskiet	0119	taluk	come_out	lv	lv				
+kalamang	pitiskiet	0119	=te	=NFIN	=lv	=lv				
+kalamang	pitiskiet	0119	kome	look	lv	lv				
+kalamang	pitiskiet	0119	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0119	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0119	#	#	#nc	#nc				
+kalamang	pitiskiet	0119	handuk	NC	nc_np	nc_np			521	
+kalamang	pitiskiet	0119	bikin	NC	nc	nc				
+kalamang	pitiskiet	0119	conto	NC	nc	nc				
+kalamang	pitiskiet	0119	#	#	##neg	##neg				
+kalamang	pitiskiet	0119	handuk	towel	np:a	np		a	521	
+kalamang	pitiskiet	0119	conto	example	np:p	np		p		
+kalamang	pitiskiet	0119	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0119	paruo-t	do-T	v:pred	v		pred		
+kalamang	pitiskiet	0119	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0120	#	#	##ds	##ds				
+kalamang	pitiskiet	0120	sapi	cow	np.n:voc	np	n	voc	512	
+kalamang	pitiskiet	0120	berak	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0120	uang	money	np:p	np		p		
+kalamang	pitiskiet	0121	#	#	##neg	##neg				
+kalamang	pitiskiet	0121	sapi	cow	np.n:a	np	n	a	524	
+kalamang	pitiskiet	0122	ZERO	ZERO	0:p	0		p		
+kalamang	pitiskiet	0122	bera	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0122	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0123	#	#	#nc	#nc				
+kalamang	pitiskiet	0123	ma	3SG	nc_pro.n	nc_pro	n		524	
+kalamang	pitiskiet	0123	pitis	money	nc	nc				
+kalamang	pitiskiet	0123	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0123	kietkiet	defecate	nc	nc				
+kalamang	pitiskiet	0123	=nin	=NEG	nc	nc				
+kalamang	pitiskiet	0124	#	#	#nc	#nc				
+kalamang	pitiskiet	0124	ma	3SG	nc_pro.n	nc_pro	n		524	
+kalamang	pitiskiet	0124	pitis	money	nc	nc				
+kalamang	pitiskiet	0124	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0124	kietkiet	defecate	nc	nc				
+kalamang	pitiskiet	0124	=nin	=NEG	nc	nc				
+kalamang	pitiskiet	0125	#	#	##	##				
+kalamang	pitiskiet	0125	ma	3SG	pro.h:s_ds	pro	h	s_ds	501	
+kalamang	pitiskiet	0125	koi	then	other	other				
+kalamang	pitiskiet	0125	#	#	##ds	##ds				
+kalamang	pitiskiet	0125	pemukul	club	np:a	np		a	519	
+kalamang	pitiskiet	0125	bikin	do	v:pred	v		pred		
+kalamang	pitiskiet	0125	conto	trick	np:p	np		p		
+kalamang	pitiskiet	0125	#	#	##neg	##neg				
+kalamang	pitiskiet	0125	pemukul	hit_thing	np:a	np		a	529	bridging
+kalamang	pitiskiet	0125	don konkon	anything	other:p	other		p		
+kalamang	pitiskiet	0125	paruo-t	do-T	v:pred	v		pred		
+kalamang	pitiskiet	0125	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0126	#	#	##	##				
+kalamang	pitiskiet	0126	e	FIL	other	other				
+kalamang	pitiskiet	0126	mu	3PL	np.h:a_ds	np	h	a_ds	528	
+kalamang	pitiskiet	0126	ma	3SG	pro.h:p	pro	h	p	501	
+kalamang	pitiskiet	0126	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0126	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0126	#	#	##ds	##ds				
+kalamang	pitiskiet	0126	mulai	start	other	other				
+kalamang	pitiskiet	0126	pertama	first	other	other				
+kalamang	pitiskiet	0126	ka	2SG	pro.2:s	pro	2	s	501	
+kalamang	pitiskiet	0126	naman	who	other.h:l	other	h	l		
+kalamang	pitiskiet	0126	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0126	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0126	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0127	#	#	##ds	##ds				
+kalamang	pitiskiet	0127	o	EMPH	other	other				
+kalamang	pitiskiet	0127	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0127	jaga-jaga	keep_watch-RED	nc	nc				
+kalamang	pitiskiet	0127	e	FIL	nc	nc				
+kalamang	pitiskiet	0127	tukan bacuci	washing_man	np.h:l	np	h	l	520	
+kalamang	pitiskiet	0127	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0127	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0128	#	#	##ds	##ds				
+kalamang	pitiskiet	0128	o	EMPH	other	other				
+kalamang	pitiskiet	0128	berarti	that_means	other	other				
+kalamang	pitiskiet	0128	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0128	handuk	towel	np.d:p	np	d	p	509	
+kalamang	pitiskiet	0128	-ca-r	-2SG.POSS-T	-rn_pro.2:poss	-rn_pro	2	poss	501	
+kalamang	pitiskiet	0128	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0128	kosalir	change	v:pred	v		pred		
+kalamang	pitiskiet	0129	#	#	##	##				
+kalamang	pitiskiet	0129	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0129	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0129	ZERO	ZERO	0:p	0		p	509	
+kalamang	pitiskiet	0129	jie-n	get-N	v:pred	v		pred		
+kalamang	pitiskiet	0130	#	#	#nc	#nc				
+kalamang	pitiskiet	0130	kedua	NC	nc	nc				
+kalamang	pitiskiet	0131	#	#	##ds	##ds				
+kalamang	pitiskiet	0131	o	EMPH	other	other				
+kalamang	pitiskiet	0131	an	1SG	pro.1:s	pro	1	s	501	
+kalamang	pitiskiet	0131	eh	FIL	other	other				
+kalamang	pitiskiet	0132	jagajaga.sapi	cow_herder	np.h:l	np	h	l	522	
+kalamang	pitiskiet	0132	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0132	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0132	min	sleep	v:pred	v		pred		
+kalamang	pitiskiet	0132	#	#	##ds	##ds				
+kalamang	pitiskiet	0132	o	EMPH	other	other				
+kalamang	pitiskiet	0132	berarti	that_means	other	other				
+kalamang	pitiskiet	0132	mu	3PL	pro.h:a	pro	h	a	522	
+kalamang	pitiskiet	0132	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0132	ZERO	ZERO	0.n:p	0	n	p	512	
+kalamang	pitiskiet	0132	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0133	#	#	#nc	#nc				
+kalamang	pitiskiet	0133	ketiga	NC	nc	nc				
+kalamang	pitiskiet	0133	#	#	#nc	#nc				
+kalamang	pitiskiet	0133	o	EMPH	nc	nc				
+kalamang	pitiskiet	0133	tukan pemukul	club_man	nc_np.h	nc_np	h		525	
+kalamang	pitiskiet	0134	#	#	##ds	##ds				
+kalamang	pitiskiet	0134	o	EMPH	other	other				
+kalamang	pitiskiet	0134	berarti	that_means	other	other				
+kalamang	pitiskiet	0134	mu	3PL	pro.h:a	pro	h	a		
+kalamang	pitiskiet	0134	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0134	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0134	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0135	#	#	##ds	##ds				
+kalamang	pitiskiet	0135	ki	2PL	pro.2:s	pro	2	s	530	bridging
+kalamang	pitiskiet	0135	sontum	person	np.h:appos	np	h	appos	530	
+kalamang	pitiskiet	0135	kansuor	four	rn	rn				
+kalamang	pitiskiet	0135	ma	3SG	pro.h:obl	pro	h	obl	501	
+kalamang	pitiskiet	0135	=bon	=COM	=rn	=rn				
+kalamang	pitiskiet	0135	bo-rar	go-PL.IMP	v:pred	v		pred		
+kalamang	pitiskiet	0136	#	#	##	##				
+kalamang	pitiskiet	0136	mu	3PL	pro.h:s	pro	h	s	530	
+kalamang	pitiskiet	0136	ma	3SG	pro.h:obl	pro	h	obl	501	
+kalamang	pitiskiet	0136	=bon	=COM	=rn	=rn				
+kalamang	pitiskiet	0136	bo-t	go-T	v:pred	v		pred		
+kalamang	pitiskiet	0137	#	#	##	##				
+kalamang	pitiskiet	0137	mu	3PL	pro.h:s	pro	h	s	531	bridging
+kalamang	pitiskiet	0137	he	IAM	other	other				
+kalamang	pitiskiet	0137	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0137	marmar	walk	rv	rv				
+kalamang	pitiskiet	0137	marmar	walk	rv	rv				
+kalamang	pitiskiet	0137	bo	until	other	other				
+kalamang	pitiskiet	0138	#	#	##	##				
+kalamang	pitiskiet	0138	ZERO	ZERO	0.h:s	0	h	s	531	
+kalamang	pitiskiet	0138	tukan bacuci	washing_man	np.h:obl	np	h	obl	520	
+kalamang	pitiskiet	0138	=kongga	=AN.LAT	=rn	=rn				
+kalamang	pitiskiet	0138	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0138	#	#	##	##				
+kalamang	pitiskiet	0138	ZERO	ZERO	0.h:s_ds	0	h	s_ds	501	
+kalamang	pitiskiet	0138	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0139	#	#	##ds	##ds				
+kalamang	pitiskiet	0139	handu	towel	np:s	np		s	509	
+kalamang	pitiskiet	0139	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	501	
+kalamang	pitiskiet	0139	watko	PROX.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	pitiskiet	0139	#	#	##ds	##ds				
+kalamang	pitiskiet	0139	ki	2PL	pro.2:a	pro	2	a	520	
+kalamang	pitiskiet	0139	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0139	ZERO	ZERO	0:p	0		p	509	
+kalamang	pitiskiet	0139	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0139	to	right	other	other				
+kalamang	pitiskiet	0139	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0139	o	EMPH	other	other				
+kalamang	pitiskiet	0139	in	1PL.EXCL	pro.1:a	pro	1	a	520	
+kalamang	pitiskiet	0139	me	TOP	other	other				
+kalamang	pitiskiet	0139	ZERO	ZERO	0:p	0		p	509	
+kalamang	pitiskiet	0139	jie-t	get-T	v:pred	v		pred		
+kalamang	pitiskiet	0139	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0140	#	#	##	##				
+kalamang	pitiskiet	0140	mu	3PL	pro.h:s	pro	h	s	530	
+kalamang	pitiskiet	0140	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0140	#	#	#cc:other	#cc		other		
+kalamang	pitiskiet	0140	ZERO	ZERO	0.h:a	0	h	a	530	
+kalamang	pitiskiet	0140	ma	3SG	nc	nc				
+kalamang	pitiskiet	0140	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0140	mu	3PL	pro.h:p	pro	h	p	520	
+kalamang	pitiskiet	0140	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0140	tu-in	hit-VOL	v:pred	v		pred		
+kalamang	pitiskiet	0141	#	#	##	##				
+kalamang	pitiskiet	0141	ZERO	ZERO	0.h:a	0	h	a	530	
+kalamang	pitiskiet	0141	ZERO	ZERO	0.h:p	0	h	p	520	
+kalamang	pitiskiet	0141	tu-in-da	hit-VOL-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0141	#	#	##	##				
+kalamang	pitiskiet	0141	mu	3PL	pro.h:a	pro	h	a	520	
+kalamang	pitiskiet	0141	he	IAM	other	other				
+kalamang	pitiskiet	0141	ZERO	ZERO	0:p	0		p	509	
+kalamang	pitiskiet	0141	namasuk	give_back	v:pred	v		pred		
+kalamang	pitiskiet	0141	#	#	##ds	##ds				
+kalamang	pitiskiet	0141	o	EMPH	other	other				
+kalamang	pitiskiet	0141	handuk	towel	np:a	np		a	509	
+kalamang	pitiskiet	0141	se	IAM	other	other				
+kalamang	pitiskiet	0141	conto	example	np:p	np		p		
+kalamang	pitiskiet	0141	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0141	paruo	do	v:pred	v		pred		
+kalamang	pitiskiet	0141	me	TOP	other	other				
+kalamang	pitiskiet	0141	#	#	#nc	#nc				
+kalamang	pitiskiet	0141	muap	food	nc	nc				
+kalamang	pitiskiet	0141	se	IAM	nc	nc				
+kalamang	pitiskiet	0142	#	#	#nc	#nc				
+kalamang	pitiskiet	0142	muap	eat	nc	nc				
+kalamang	pitiskiet	0142	se	IAM	nc	nc				
+kalamang	pitiskiet	0142	marmar	walk	nc	nc				
+kalamang	pitiskiet	0143	#	#	##	##				
+kalamang	pitiskiet	0143	muap	eat	np:s	np		s	532	bridging
+kalamang	pitiskiet	0143	se	IAM	other	other				
+kalamang	pitiskiet	0143	metko	DIST.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	pitiskiet	0143	#	#	##	##				
+kalamang	pitiskiet	0143	mu	3PL	pro.h:a	pro	h	a	531	
+kalamang	pitiskiet	0143	he	IAM	other	other				
+kalamang	pitiskiet	0143	ZERO	ZERO	0:p	0		p	532	
+kalamang	pitiskiet	0143	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0143	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0143	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0144	#	#	##	##				
+kalamang	pitiskiet	0144	ZERO	ZERO	0.h:a	0	h	a	531	
+kalamang	pitiskiet	0144	ZERO	ZERO	0:p	0		p	532	
+kalamang	pitiskiet	0144	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0144	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0144	koyer	finish	v:pred	v		pred		
+kalamang	pitiskiet	0144	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0144	me	TOP	other	other				
+kalamang	pitiskiet	0144	#	#	##	##				
+kalamang	pitiskiet	0144	mu	3PL	pro.h:s	pro	h	s	531	
+kalamang	pitiskiet	0144	koi	then	other	other				
+kalamang	pitiskiet	0144	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0144	marmar	walk	rv	rv				
+kalamang	pitiskiet	0144	marmar	walk	rv	rv				
+kalamang	pitiskiet	0144	bo	until	rv	rv				
+kalamang	pitiskiet	0144	#	#	##	##				
+kalamang	pitiskiet	0144	ZERO	ZERO	0.h:s	0	h	s	531	
+kalamang	pitiskiet	0144	tukan sapi	cowboy	np.h:pred_g	np	h	pred_g	522	
+kalamang	pitiskiet	0144	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0145	#	#	##	##				
+kalamang	pitiskiet	0145	ZERO	ZERO	0.h:s_ds	0	h	s_ds	531	
+kalamang	pitiskiet	0145	jagajaga.sapi	cow_herder	np.h:l	np	h	l	522	
+kalamang	pitiskiet	0145	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0145	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0145	#	#	##ds	##ds				
+kalamang	pitiskiet	0145	ki	2PL	pro.2:a	pro	2	a	522	
+kalamang	pitiskiet	0145	sapi	cow	np.n:p	np	n	p	512	
+kalamang	pitiskiet	0145	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	501	
+kalamang	pitiskiet	0145	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0145	jie-n	get-N	v:pred	v		pred		
+kalamang	pitiskiet	0145	o	EMPH	other	other				
+kalamang	pitiskiet	0145	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0145	in	1PL.EXCL	pro.1:a	pro	1	a	522	
+kalamang	pitiskiet	0145	me	TOP	other	other				
+kalamang	pitiskiet	0145	ZERO	ZERO	0:p	0		p	512	
+kalamang	pitiskiet	0145	jie-t	get-T	v:pred	v		pred		
+kalamang	pitiskiet	0145	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0146	#	#	#nc	#nc				
+kalamang	pitiskiet	0146	mu	3PL	nc_pro.h	nc_pro	h		522	
+kalamang	pitiskiet	0146	ZERO	ZERO	nc_0.n	nc_0	n		512	
+kalamang	pitiskiet	0146	kosalir	change	v:pred	v		pred		
+kalamang	pitiskiet	0147	#	#	##	##				
+kalamang	pitiskiet	0147	o	EMPH	other	other				
+kalamang	pitiskiet	0147	ki	2PL	pro.2:a	pro	2	a	522	
+kalamang	pitiskiet	0147	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0147	ZERO	ZERO	0.n:a	0	n	a	512	
+kalamang	pitiskiet	0147	kosalir	change	v:pred	v		pred		
+kalamang	pitiskiet	0148	#	#	##	##				
+kalamang	pitiskiet	0148	mu	3PL	pro.h:s	pro	h	s	522	
+kalamang	pitiskiet	0148	malawan	NC	v:pred	v		pred		
+kalamang	pitiskiet	0148	#	#	##	##				
+kalamang	pitiskiet	0148	mu	3PL	pro.h:a	pro	h	a	530	
+kalamang	pitiskiet	0148	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0148	#	#	#cc:other	#cc		other		
+kalamang	pitiskiet	0148	ZERO	ZERO	0.h:a	0	h	a	530	
+kalamang	pitiskiet	0148	mu	3PL	pro.h:p	pro	h	p	522	
+kalamang	pitiskiet	0148	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0148	tu-in-da	hit-VOL-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0148	metko	DIST.LOC	other	other				
+kalamang	pitiskiet	0149	#	#	##	##				
+kalamang	pitiskiet	0149	mu	3PL	pro.h:a	pro	h	a	530	
+kalamang	pitiskiet	0149	ZERO	ZERO	0.n:p	0	n	p	512	
+kalamang	pitiskiet	0149	namasuk	give_back	v:pred	v		pred		
+kalamang	pitiskiet	0150	#	#	##ds	##ds				
+kalamang	pitiskiet	0150	sapi	cow	np.n:a	np	n	a	512	
+kalamang	pitiskiet	0150	bera	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0150	uang	money	np:p	np		p		
+kalamang	pitiskiet	0150	#	#	##	##				
+kalamang	pitiskiet	0150	o	EMPH	other	other				
+kalamang	pitiskiet	0150	me	TOP	other	other				
+kalamang	pitiskiet	0150	sapi	cow	np.n:a	np	n	a	512	
+kalamang	pitiskiet	0150	he	IAM	other	other				
+kalamang	pitiskiet	0150	ZERO	ZERO	0:p	0		p		
+kalamang	pitiskiet	0150	kietkiet	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0151	#	#	##	##				
+kalamang	pitiskiet	0151	ZERO	ZERO	0.n:a	0	n	a	512	
+kalamang	pitiskiet	0151	pitis	money	np:p	np		p	513	
+kalamang	pitiskiet	0151	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0151	kiet-kiet	faeces-RED	lv	lv				
+kalamang	pitiskiet	0151	kiet-kiet	faeces-RED	lv	lv				
+kalamang	pitiskiet	0151	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0151	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0151	#	#	##	##				
+kalamang	pitiskiet	0151	mu	3PL	pro.h:a	pro	h	a	531	
+kalamang	pitiskiet	0151	ZERO	ZERO	0:p	0		p		
+kalamang	pitiskiet	0151	kajie-n-i	pick-N-QNT.OBJ	lv	lv				
+kalamang	pitiskiet	0151	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0151	#	#	##	##				
+kalamang	pitiskiet	0151	mu	3PL	pro.h:s	pro	h	s	531	
+kalamang	pitiskiet	0151	koi	then	other	other				
+kalamang	pitiskiet	0151	mengga	DIST.LAT	dem_pro:obl	dem_pro		obl		
+kalamang	pitiskiet	0151	di=	CAUS=	=other	=other				
+kalamang	pitiskiet	0152	pemukul	hit_thing	np.h:pred_g	np	h	pred_g	525	
+kalamang	pitiskiet	0152	=konggo	=AN.LOC	=rn	=rn				
+kalamang	pitiskiet	0153	#	#	##	##				
+kalamang	pitiskiet	0153	bo	until	nc	nc				
+kalamang	pitiskiet	0153	ZERO	ZERO	0.h:s	0	h	s	531	
+kalamang	pitiskiet	0153	marmar	walk	v:pred	v		pred		
+kalamang	pitiskiet	0153	bo	until	other	other				
+kalamang	pitiskiet	0153	#	#	##	##				
+kalamang	pitiskiet	0153	ZERO	ZERO	0.h:s	0	h	s	531	
+kalamang	pitiskiet	0153	tukan pemukul	club_man	np.h:obl	np	h	obl	525	
+kalamang	pitiskiet	0153	=konggo	=AN.LOC	rn	rn				
+kalamang	pitiskiet	0153	lauk	appear	v:pred	v		pred		
+kalamang	pitiskiet	0154	#	#	##	##				
+kalamang	pitiskiet	0154	ZERO	ZERO	0.h:a	0	h	a	531	
+kalamang	pitiskiet	0154	tukan pemukul	club_man	np.h:p	np	h	p	525	
+kalamang	pitiskiet	0154	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0154	gerket	ask	v:pred	v		pred		
+kalamang	pitiskiet	0154	#	#	##	##				
+kalamang	pitiskiet	0154	ma	3SG	pro.h:s_ds	pro	h	s_ds	525	
+kalamang	pitiskiet	0154	toni	say	v:pred	v		pred		
+kalamang	pitiskiet	0154	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0154	in	1PL.EXCL	pro.1:a	pro	1	a	525	
+kalamang	pitiskiet	0154	me	TOP	rn	rn				
+kalamang	pitiskiet	0154	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0154	jie-t	get-T	v:pred	v		pred		
+kalamang	pitiskiet	0154	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0155	#	#	##ds	##ds				
+kalamang	pitiskiet	0155	ge	no	other	other				
+kalamang	pitiskiet	0155	ge	no	other	other				
+kalamang	pitiskiet	0155	ki	2PL	pro.2:a	pro	2	a	525	
+kalamang	pitiskiet	0155	=a	=FOC	=rn	=rn				
+kalamang	pitiskiet	0155	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0155	jie	get	v:pred	v		pred		
+kalamang	pitiskiet	0156	#	#	##ds.neg	##ds.neg				
+kalamang	pitiskiet	0156	ki	2PL	pro.2:a	pro	2	a	525	
+kalamang	pitiskiet	0156	ZERO	ZERO	0.d:p	0	d	p	519	
+kalamang	pitiskiet	0156	namasuk	give_back	v:pred	v		pred		
+kalamang	pitiskiet	0156	=nin	=NEG	=rv	=rv				
+kalamang	pitiskiet	0156	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0156	#	#	##ds	##ds				
+kalamang	pitiskiet	0156	ZERO	ZERO	0.h:a	0	h	a	530	
+kalamang	pitiskiet	0156	ki	2PL	pro.2:p	pro	2	p	525	
+kalamang	pitiskiet	0156	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0156	tu	pound	v:pred	v		pred		
+kalamang	pitiskiet	0156	=et	=IRR	=rv	=rv				
+kalamang	pitiskiet	0157	#	#	##	##				
+kalamang	pitiskiet	0157	mu	3PL	pro.h:a	pro	h	a	525	
+kalamang	pitiskiet	0157	he	IAM	other	other				
+kalamang	pitiskiet	0157	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0157	namasuk	give_back	v:pred	v		pred		
+kalamang	pitiskiet	0157	#	#	##	##				
+kalamang	pitiskiet	0157	mu	3PL	pro.h:a	pro	h	a	525	
+kalamang	pitiskiet	0157	ZERO	ZERO	0:p	0		p	519	
+kalamang	pitiskiet	0157	namasuk	give_back	v:pred	v		pred		
+kalamang	pitiskiet	0157	=ta	=NFIN	=rv	=rv				
+kalamang	pitiskiet	0157	me	TOP	other	other				
+kalamang	pitiskiet	0157	#	#	##	##				
+kalamang	pitiskiet	0157	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0157	he	IAM	other	other				
+kalamang	pitiskiet	0157	minggi	with_that	other	other				
+kalamang	pitiskiet	0158	ror-mahap	tree-all	np:p	np		p	533	new
+kalamang	pitiskiet	0158	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	tak	NC	nc	nc				
+kalamang	pitiskiet	0158	me	TOP	other	other				
+kalamang	pitiskiet	0158	#	#	##	##				
+kalamang	pitiskiet	0158	mu	3PL	pro.h:s	pro	h	s	531	
+kalamang	pitiskiet	0158	he	IAM	other	other				
+kalamang	pitiskiet	0158	ecie-n	return-N	lv	lv				
+kalamang	pitiskiet	0158	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0158	leng	village	np:pred_g	np		pred_g	526	
+kalamang	pitiskiet	0158	=go	=LOC	=rn	=rn				
+kalamang	pitiskiet	0159	#	#	##	##				
+kalamang	pitiskiet	0159	mu	3PL	pro.h:s	pro	h	s	531	
+kalamang	pitiskiet	0159	he	IAM	other	other				
+kalamang	pitiskiet	0159	marmar	walk	lv	lv				
+kalamang	pitiskiet	0159	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0159	bo	until	lv	lv				
+kalamang	pitiskiet	0159	leng	village	np:g	np		g	526	
+kalamang	pitiskiet	0159	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	531	
+kalamang	pitiskiet	0159	=gga	=LAT	=rn	=rn				
+kalamang	pitiskiet	0159	bara	descend	v:pred	v		pred		
+kalamang	pitiskiet	0160	#	#	##	##				
+kalamang	pitiskiet	0160	ZERO	ZERO	0.h:s	0	h	s	531	
+kalamang	pitiskiet	0160	bo	until	lv	lv				
+kalamang	pitiskiet	0160	em	mother	np:pred_g	np		pred_g	502	
+kalamang	pitiskiet	0160	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	501	
+kalamang	pitiskiet	0160	=kongga-ra	=AN.LAT-NFIN	=rn	=rn				
+kalamang	pitiskiet	0160	me	TOP	other	other				
+kalamang	pitiskiet	0161	#	#	##	##				
+kalamang	pitiskiet	0161	sontun-mahap	person-all	np.h:s	np	h	s	528	
+kalamang	pitiskiet	0161	se	IAM	other	other				
+kalamang	pitiskiet	0161	tengguen-de	gathered-NFIN	lv	lv				
+kalamang	pitiskiet	0161	kabarua	watch	v:pred	v		pred		
+kalamang	pitiskiet	0162	#	#	##	##				
+kalamang	pitiskiet	0162	ZERO	ZERO	0.h:s	0	h	s	528	
+kalamang	pitiskiet	0162	kabarua	watch	v:pred	v		pred		
+kalamang	pitiskiet	0162	me	TOP	other	other				
+kalamang	pitiskiet	0162	#	#	##	##				
+kalamang	pitiskiet	0162	ma	3SG	pro.h:s_ds	pro	h	s_ds		
+kalamang	pitiskiet	0162	he	IAM	other	other				
+kalamang	pitiskiet	0162	sirie	order	v:pred	v		pred		
+kalamang	pitiskiet	0163	#	#	##ds	##ds				
+kalamang	pitiskiet	0163	handuk	towel	np:a	np		a	509	
+kalamang	pitiskiet	0163	bikin	do	v:pred	v		pred		
+kalamang	pitiskiet	0163	conto	trick	np:p	np		p		
+kalamang	pitiskiet	0164	#	#	##	##				
+kalamang	pitiskiet	0164	muap	food	np:a	np		a	535	bridging
+kalamang	pitiskiet	0164	se	IAM	other	other				
+kalamang	pitiskiet	0164	merengguen	heap	v:pred	v		pred		
+kalamang	pitiskiet	0164	tapal	cloth	np:p	np		p	509	
+kalamang	pitiskiet	0164	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0164	kitko	on_top	np:l	np		l		
+kalamang	pitiskiet	0164	#	#	##	##				
+kalamang	pitiskiet	0164	mu	3PL	pro.h:s	pro	h	s	536	bridging
+kalamang	pitiskiet	0164	he	IAM	other	other				
+kalamang	pitiskiet	0164	melelur	sit	lv	lv				
+kalamang	pitiskiet	0164	=te	=NFIN	=lv	=lv				
+kalamang	pitiskiet	0164	na	consume	v:pred	v		pred		
+kalamang	pitiskiet	0165	#	#	##	##				
+kalamang	pitiskiet	0165	leng	village	np.h:s	np	h	s	536	
+kalamang	pitiskiet	0165	kanggup	everyone	rn	rn				
+kalamang	pitiskiet	0165	=te	=NFIN	=rn	=rn				
+kalamang	pitiskiet	0165	na-na-n	consume-RED-N	v:pred	v		pred		
+kalamang	pitiskiet	0166	#	#	##	##				
+kalamang	pitiskiet	0166	ZERO	ZERO	0.h:s	0	h	s	536	
+kalamang	pitiskiet	0166	na-n	consume-N	lv	lv				
+kalamang	pitiskiet	0166	=i	=PLNK	=lv	=lv				
+kalamang	pitiskiet	0166	koyet	finish	v:pred	v		pred		
+kalamang	pitiskiet	0167	#	#	##	##				
+kalamang	pitiskiet	0167	koyet	finish	other	other				
+kalamang	pitiskiet	0167	ma	3SG	pro.h:s_ds	pro	h	s_ds	501	
+kalamang	pitiskiet	0167	koi	then	other	other				
+kalamang	pitiskiet	0167	sirie	order	v:pred	v		pred		
+kalamang	pitiskiet	0168	#	#	##ds	##ds				
+kalamang	pitiskiet	0168	sapi	cow	np.n:a	np	n	a	512	
+kalamang	pitiskiet	0168	bera	defecate	v:pred	v		pred		
+kalamang	pitiskiet	0168	uang	money	np:p	np		p		
+kalamang	pitiskiet	0168	#	#	##	##				
+kalamang	pitiskiet	0168	o	EMPH	other	other				
+kalamang	pitiskiet	0168	sapi	cow	np.n:a	np	n	a	512	
+kalamang	pitiskiet	0168	he	IAM	other	other				
+kalamang	pitiskiet	0168	ZERO	ZERO	0:p	0		p	537	bridging
+kalamang	pitiskiet	0168	kietkier-re	defecate-NFIN	v:pred	v		pred		
+kalamang	pitiskiet	0168	#	#	#nc	#nc				
+kalamang	pitiskiet	0168	pitis	money	nc	nc			537	
+kalamang	pitiskiet	0168	se	IAM	nc	nc				
+kalamang	pitiskiet	0168	#	#	##	##				
+kalamang	pitiskiet	0168	mu	3PL	nc	nc				
+kalamang	pitiskiet	0168	he	IAM	nc	nc				
+kalamang	pitiskiet	0168	sontum	person	np.h:a	np	h	a	536	
+kalamang	pitiskiet	0168	se	IAM	other	other				
+kalamang	pitiskiet	0168	pitis	money	np:p	np		p	537	
+kalamang	pitiskiet	0168	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0168	kajie-n	pick-N	v:pred	v		pred		
+kalamang	pitiskiet	0168	koi	then	other	other				
+kalamang	pitiskiet	0168	ah	INT	other	other				
+kalamang	pitiskiet	0169	#	#	#nc	#nc				
+kalamang	pitiskiet	0169	sapi	cow	nc_np.n	nc_np	n		512	
+kalamang	pitiskiet	0169	-un	-3POSS	nc_pro.h	nc_pro	h		501	
+kalamang	pitiskiet	0169	kietkier-re	defecate-NFIN	nc	nc				
+kalamang	pitiskiet	0169	#	#	#nc	#nc				
+kalamang	pitiskiet	0169	lolok	leaf	nc_np	nc_np			537	
+kalamang	pitiskiet	0169	kangguar	unripe	nc	nc				
+kalamang	pitiskiet	0169	merengguen	heap	nc	nc				
+kalamang	pitiskiet	0169	se	IAM	nc	nc				
+kalamang	pitiskiet	0170	#	#	##ds	##ds				
+kalamang	pitiskiet	0170	tukan	man	nc	nc				
+kalamang	pitiskiet	0170	pemukul	club	np:a	np		a	519	
+kalamang	pitiskiet	0171	bikin	do	v:pred	v		pred		
+kalamang	pitiskiet	0171	conto	trick	np:p	np		p		
+kalamang	pitiskiet	0171	#	#	#nc	#nc				
+kalamang	pitiskiet	0171	o	NC	nc	nc				
+kalamang	pitiskiet	0171	itu	NC	nc	nc				
+kalamang	pitiskiet	0172	#	#	##	##				
+kalamang	pitiskiet	0172	ma	3SG	pro.h:a	pro	h	a	501	
+kalamang	pitiskiet	0172	kewe	house	np:p	np		p	534	new
+kalamang	pitiskiet	0172	wa	PROX	rn	rn				
+kalamang	pitiskiet	0172	me	TOP	other	other				
+kalamang	pitiskiet	0172	tak	tak	v:pred	v		pred		
+kalamang	pitiskiet	0172	tak	tak	rv	rv				
+kalamang	pitiskiet	0172	tak	tak	rv	rv				
+kalamang	pitiskiet	0173	#	#	##	##				
+kalamang	pitiskiet	0173	ZERO	ZERO	0.h:a	0	h	a	501	
+kalamang	pitiskiet	0173	kewe	house	np:p	np		p	534	
+kalamang	pitiskiet	0173	=at	=OBJ	=rn	=rn				
+kalamang	pitiskiet	0173	pue	hit	v:pred	v		pred		
+kalamang	pitiskiet	0173	pue	hit	rv	rv				
+kalamang	pitiskiet	0173	pue	hit	rv	rv				
+kalamang	pitiskiet	0173	pue	hit	rv	rv				
+kalamang	pitiskiet	0174	pue	hit	rv	rv				
+kalamang	pitiskiet	0174	pue	hit	rv	rv				
+kalamang	pitiskiet	0174	eh	INT.E	other	other				
+kalamang	pitiskiet	0174	jadi	so	other	other				
+kalamang	pitiskiet	0175	#	#	#nc	#nc				
+kalamang	pitiskiet	0175	dong	they	nc_pro.h	nc_pro	h		527	
+kalamang	pitiskiet	0175	su	already	nc	nc				
+kalamang	pitiskiet	0175	kaya	rich	nc	nc				
+kalamang	pitiskiet	0176	#	#	#nc	#nc				
+kalamang	pitiskiet	0176	se koyet	finished	nc	nc				
+kalamang	pitiskiet	0176	mu	3PL	nc_pro.h	nc_pro	h		527	
+kalamang	pitiskiet	0176	he	IAM	nc	nc				
+kalamang	pitiskiet	0176	kaya	rich	nc	nc				
+kalamang	pitiskiet	0177	#	#	##	##				
+kalamang	pitiskiet	0177	mu	3PL	pro.h:s	pro	h	s	527	
+kalamang	pitiskiet	0177	he	IAM	other	other				
+kalamang	pitiskiet	0177	kaya	rich	v:pred	v		pred		
+kalamang	pitiskiet	0178	se koyet	finished	other	other				
+kalamang	pitiskiet	0179	#	#	#nc	#nc				
+kalamang	pitiskiet	0179	se koyet	finished	nc	nc				
+kalamang	pitiskiet	0179	se koyet	finished	nc	nc				
+kalamang	pitiskiet	0180	#	#	##	##				
+kalamang	pitiskiet	0180	pitis	money	np:s	np		s		
+kalamang	pitiskiet	0180	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	527	
+kalamang	pitiskiet	0180	reidak	much	v:pred	v		pred		
+kalamang	pitiskiet	0181	#	#	#nc	#nc				
+kalamang	pitiskiet	0181	pitis	money	nc	nc				
+kalamang	pitiskiet	0181	-un	-3POSS	nc_pro.h	nc_pro	h		527	
+kalamang	pitiskiet	0181	reidak	much	nc	nc				
+kalamang	pitiskiet	0181	mua	food	nc	nc				
+kalamang	pitiskiet	0181	-un	-3POSS	nc_pro.h	nc_pro	h			
+kalamang	pitiskiet	0181	reidak	much	nc	nc				
+kalamang	pitiskiet	0182	#	#	##	##				
+kalamang	pitiskiet	0182	mua	food	np:s	np		s		
+kalamang	pitiskiet	0182	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	527	
+kalamang	pitiskiet	0182	reidak	much	v:pred	v		pred		
+kalamang	pitiskiet	0183	#	#	#nc	#nc				
+kalamang	pitiskiet	0183	handuk	towel	nc_np	nc_np			509	
+kalamang	pitiskiet	0183	contur	example	nc	nc				
+kalamang	pitiskiet	0183	-un	-3POSS	nc_pro	nc_pro			509	
+kalamang	pitiskiet	0183	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0183	paruo	do	nc	nc				
+kalamang	pitiskiet	0183	#	#	#nc	#nc				
+kalamang	pitiskiet	0183	pi	1PL.INCL	nc	nc				
+kalamang	pitiskiet	0183	tan-gi	arm_and_hand-INS	nc	nc				
+kalamang	pitiskiet	0183	muap	food	nc	nc				
+kalamang	pitiskiet	0183	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0183	paruo-t	make-T	nc	nc				
+kalamang	pitiskiet	0183	=nin	=NEG	nc	nc				
+kalamang	pitiskiet	0184	#	#	#nc	#nc				
+kalamang	pitiskiet	0184	se	IAM	nc	nc				
+kalamang	pitiskiet	0184	pi	1PL.INCL	nc	nc				
+kalamang	pitiskiet	0184	he	IAM	nc	nc				
+kalamang	pitiskiet	0184	panci	pan	nc	nc				
+kalamang	pitiskiet	0184	=ko	=LOC	nc	nc				
+kalamang	pitiskiet	0184	kuar	cook	nc	nc				
+kalamang	pitiskiet	0184	=nin	=NEG	nc	nc				
+kalamang	pitiskiet	0184	wele	vegetables	nc	nc				
+kalamang	pitiskiet	0184	=at	=OBJ	nc	nc				
+kalamang	pitiskiet	0184	kuar	cook	nc	nc				
+kalamang	pitiskiet	0184	=nin	=NEG	nc	nc				

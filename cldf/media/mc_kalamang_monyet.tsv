@@ -1,0 +1,2351 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	monyet	0001	#	#	##	##				
+kalamang	monyet	0001	mindi	like_that	other	other				
+kalamang	monyet	0001	=ta	=NFIN	=other	=other				
+kalamang	monyet	0001	me	TOP	other	other				
+kalamang	monyet	0001	leki	monkey	nc	nc				
+kalamang	monyet	0001	=bon	=COM	nc	nc				
+kalamang	monyet	0002	monyet	monkey	np.d:predex	np	d	predex	401	new
+kalamang	monyet	0002	=bon	=COM	=rn	=rn				
+kalamang	monyet	0002	neba	PLH	other	other				
+kalamang	monyet	0002	kusukusu	cuscus	rn_np.d	rn_np	d		402	new
+kalamang	monyet	0002	=bon	=COM	=rn	=rn				
+kalamang	monyet	0003	#	#	##	##				
+kalamang	monyet	0003	kusukusu	cuscus	np.d:a	np	d	a	402	
+kalamang	monyet	0003	nemba	INTJ	nc	nc				
+kalamang	monyet	0003	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0003	paning	ask	v:pred	v		pred		
+kalamang	monyet	0003	leki	monkey	np.d:p	np	d	p	401	
+kalamang	monyet	0003	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0004	#	#	##ds	##ds				
+kalamang	monyet	0004	eh	QUOT	other	other				
+kalamang	monyet	0004	leki	monkey	np.d:voc	np	d	voc		
+kalamang	monyet	0005	me	TOP	other	other				
+kalamang	monyet	0005	pier	1DU.INCL	pro.1:s	pro	1	s	403	bridging
+kalamang	monyet	0005	bo	go	lv	lv				
+kalamang	monyet	0005	kairep	get_firewood	v:pred	v		pred		
+kalamang	monyet	0005	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0005	ba	then	other	other				
+kalamang	monyet	0006	#	#	##ds	##ds				
+kalamang	monyet	0006	ZERO	ZERO	0.1:a	0	1	a	403	
+kalamang	monyet	0006	ZERO	ZERO	0:p	0		p	404	bridging
+kalamang	monyet	0006	merengguen-da	gather-NFIN	v:pred	v		pred		
+kalamang	monyet	0006	#	#	##ds	##ds				
+kalamang	monyet	0006	ZERO	ZERO	0.1:a	0	1	a	403	
+kalamang	monyet	0006	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0006	bo	go	lv	lv				
+kalamang	monyet	0006	parin-de	sell-NFIN	v:pred	v		pred		
+kalamang	monyet	0006	lengleng-go	village-LOC	np:l	np		l		
+kalamang	monyet	0007	#	#	##	##				
+kalamang	monyet	0007	mindi	like_that	other	other				
+kalamang	monyet	0007	=ta	=NFIN	=other	=other				
+kalamang	monyet	0007	me	TOP	other	other				
+kalamang	monyet	0008	leki	monkey	np.d:s_ds	np	d	s_ds	401	
+kalamang	monyet	0008	toni	say	v:pred	v		pred		
+kalamang	monyet	0008	yuo	yes	other	other				
+kalamang	monyet	0009	#	#	##	##				
+kalamang	monyet	0009	mier	3DU	pro.d:a	pro	d	a	403	
+kalamang	monyet	0009	se	IAM	other	other				
+kalamang	monyet	0009	bo	go	lv	lv				
+kalamang	monyet	0009	kelak	mountain	np:g	np		g	406	new
+kalamang	monyet	0009	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0009	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0009	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0009	rep	get	v:pred	v		pred		
+kalamang	monyet	0010	#	#	##	##				
+kalamang	monyet	0010	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0010	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0010	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0010	rew	get	v:pred	v		pred		
+kalamang	monyet	0010	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0010	rew	get	nc	nc				
+kalamang	monyet	0010	=i	=PLNK	nc	nc				
+kalamang	monyet	0010	rew	get	nc	nc				
+kalamang	monyet	0010	=i	=PLNK	nc	nc				
+kalamang	monyet	0010	me	TOP	other	other				
+kalamang	monyet	0011	rew	get	nc	nc				
+kalamang	monyet	0011	=i	=PLNK	nc	nc				
+kalamang	monyet	0011	rew	get	nc	nc				
+kalamang	monyet	0011	=i	=PLNK	nc	nc				
+kalamang	monyet	0011	rew	get	nc	nc				
+kalamang	monyet	0011	=i	=PLNK	nc	nc				
+kalamang	monyet	0012	#	#	##	##				
+kalamang	monyet	0012	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0012	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0012	merengguen	gather	v:pred	v		pred		
+kalamang	monyet	0012	terus	then	other	other				
+kalamang	monyet	0012	#	#	##	##				
+kalamang	monyet	0012	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0012	he	IAM	other	other				
+kalamang	monyet	0012	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0012	kanie-n	tie-N	v:pred	v		pred		
+kalamang	monyet	0013	#	#	##	##				
+kalamang	monyet	0013	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0013	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0013	kanie-n	tie-N	v:pred	v		pred		
+kalamang	monyet	0013	kanie-n	tie-N	nc	nc				
+kalamang	monyet	0013	#	#	##	##				
+kalamang	monyet	0013	o	EMPH	other	other				
+kalamang	monyet	0013	pou	bundle	np:s	np		s	405	bridging
+kalamang	monyet	0013	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0013	wa-ra-rip	PROX-RED-DGR	dem_pro:pred_other	dem_pro		pred_other		
+kalamang	monyet	0014	#	#	##	##				
+kalamang	monyet	0014	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0014	ZERO	ZERO	0:p	0		p	405	
+kalamang	monyet	0014	ukir	measure	v:pred	v		pred		
+kalamang	monyet	0014	=te	=NFIN	=rv	=rv				
+kalamang	monyet	0015	#	#	#nc	#nc				
+kalamang	monyet	0015	sen	cent	other	other				
+kalamang	monyet	0015	putkon-kon	ten-RED	other	other				
+kalamang	monyet	0016	#	#	##	##				
+kalamang	monyet	0016	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0016	he	IAM	other	other				
+kalamang	monyet	0017	ZERO	ZERO	0:p	0		p	405	
+kalamang	monyet	0017	merengguen-da	gather-NFIN	v:pred	v		pred		
+kalamang	monyet	0017	me	TOP	other	other				
+kalamang	monyet	0018	#	#	##	##				
+kalamang	monyet	0018	leki	monkey	np.d:s_ds	np	d	s_ds	401	
+kalamang	monyet	0018	toni	say	v:pred	v		pred		
+kalamang	monyet	0018	#	#	##ds	##ds				
+kalamang	monyet	0018	yo	yes	other	other				
+kalamang	monyet	0018	pi	1PL.INCL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0018	he	IAM	other	other				
+kalamang	monyet	0018	bo	go	lv	lv				
+kalamang	monyet	0018	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0018	parin-de	sell-IMP	v:pred	v		pred		
+kalamang	monyet	0019	#	#	#	#				
+kalamang	monyet	0019	kusikusi	cuscus	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0019	toni	say	v:pred	v		pred		
+kalamang	monyet	0019	yo	yes	other	other				
+kalamang	monyet	0019	#	#	##	##				
+kalamang	monyet	0019	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0019	he	IAM	other	other				
+kalamang	monyet	0019	et	canoe	np:p	np		p	407	bridging
+kalamang	monyet	0019	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0019	di=	CAUS=	=lv	=lv				
+kalamang	monyet	0019	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0020	#	#	##	##				
+kalamang	monyet	0020	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0020	et	canoe	np:p	np		p	407	
+kalamang	monyet	0020	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0020	di=	CAUS=	=lv	=lv				
+kalamang	monyet	0020	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0020	#	#	##	##				
+kalamang	monyet	0020	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0020	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0020	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0020	di=	CAUS=	=lv	=lv				
+kalamang	monyet	0020	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0021	#	#	##	##				
+kalamang	monyet	0021	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0021	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0021	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0021	yal	paddle	lv	lv				
+kalamang	monyet	0021	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0021	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0021	#	#	##	##				
+kalamang	monyet	0021	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0021	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0021	di=	CAUS=	=lv	=lv				
+kalamang	monyet	0021	sara-n	ascend-N	lv	lv				
+kalamang	monyet	0021	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0021	kuer-ra	bring-NFIN	v:pred	v		pred		
+kalamang	monyet	0021	me	TOP	other	other				
+kalamang	monyet	0022	#	#	##	##				
+kalamang	monyet	0022	leki	monkey	np.d:s_ds	np	d	s_ds	401	
+kalamang	monyet	0022	toni	say	v:pred	v		pred		
+kalamang	monyet	0022	#	#	##ds	##ds				
+kalamang	monyet	0022	pi	1PL.INCL	pro.1:s	pro	1	s	403	
+kalamang	monyet	0022	tamandi	how	other:pred	other		pred		
+kalamang	monyet	0022	=a	=FOC	=other	=other				
+kalamang	monyet	0022	#	#	##ds	##ds				
+kalamang	monyet	0022	o	INT	other	other				
+kalamang	monyet	0022	ZERO	ZERO	0.1:s	0	1	s	403	
+kalamang	monyet	0022	wandi	like.this	other	other				
+kalamang	monyet	0022	=a	=FOC	=other	=other				
+kalamang	monyet	0022	yal	paddle	lv	lv				
+kalamang	monyet	0022	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0022	bo	go	v:pred	v		pred		
+kalamang	monyet	0022	=et	=IRR	=rv	=rv				
+kalamang	monyet	0022	tai	side	other	other				
+kalamang	monyet	0022	tamisen-pis	Antalisa-side	np:g	np		g	408	new
+kalamang	monyet	0023	#	#	##	##				
+kalamang	monyet	0023	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0023	tamisen-pis	Antalisa-side	np:g	np		g	408	
+kalamang	monyet	0023	yal	paddle	lv	lv				
+kalamang	monyet	0023	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0023	bo	go	v:pred	v		pred		
+kalamang	monyet	0023	=et	=IRR	=rv	=rv				
+kalamang	monyet	0024	#	#	##	##				
+kalamang	monyet	0024	me	TOP	other	other				
+kalamang	monyet	0024	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0024	se	IAM	other	other				
+kalamang	monyet	0024	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0025	#	#	##	##				
+kalamang	monyet	0025	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0025	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0025	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0025	me	TOP	other	other				
+kalamang	monyet	0026	#	#	##	##				
+kalamang	monyet	0026	kusikusi	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0026	wandi	like_this	other:pred	other		pred		
+kalamang	monyet	0027	#	#	#nc	#nc				
+kalamang	monyet	0027	kitong	NC	nc_pro.1	nc_pro	1		403	
+kalamang	monyet	0027	menyanyi	NC	nc	nc				
+kalamang	monyet	0027	dulu	NC	nc	nc				
+kalamang	monyet	0027	#	#	#nc	#nc				
+kalamang	monyet	0027	itu	NC	nc	nc				
+kalamang	monyet	0027	monyet	NC	nc_np.d	nc_np	d		401	
+kalamang	monyet	0027	bilang	NC	nc	nc				
+kalamang	monyet	0027	#	#	#nc	#nc				
+kalamang	monyet	0027	ayo	NC	nc	nc				
+kalamang	monyet	0027	mulai	NC	nc	nc				
+kalamang	monyet	0027	sudah	NC	nc	nc				
+kalamang	monyet	0028	#	#	#nc	#nc				
+kalamang	monyet	0028	itu	NC	nc	nc				
+kalamang	monyet	0028	mulai	NC	nc	nc				
+kalamang	monyet	0029	#	#	#nc	#nc				
+kalamang	monyet	0029	kusikusi	NC	nc_np.d	nc_np	d		402	
+kalamang	monyet	0029	su	NC	nc	nc				
+kalamang	monyet	0029	bilang	NC	nc	nc				
+kalamang	monyet	0029	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0030	#	#	#nc	#nc				
+kalamang	monyet	0030	bagini	NC	nc	nc				
+kalamang	monyet	0030	su	NC	nc	nc				
+kalamang	monyet	0030	lewat	NC	nc	nc				
+kalamang	monyet	0030	tanjong	NC	nc_np	nc_np			409	bridging
+kalamang	monyet	0030	begini	NC	nc	nc				
+kalamang	monyet	0030	#	#	##	##				
+kalamang	monyet	0030	pi	1PL.INCL	pro.1:a	pro	1	a	403	
+kalamang	monyet	0031	mindi	like_that	other	other				
+kalamang	monyet	0031	kariemun	cape	np:p	np		p	409	
+kalamang	monyet	0031	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0031	kuang	pass	v:pred	v		pred		
+kalamang	monyet	0032	#	#	##	##				
+kalamang	monyet	0032	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0032	ZERO	ZERO	0:p	0		p	409	
+kalamang	monyet	0032	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0032	me	TOP	other	other				
+kalamang	monyet	0032	leng	village	np:g	np		g	410	new
+kalamang	monyet	0032	=kongga	=AN.LAT	=rn	=rn				
+kalamang	monyet	0033	#	#	##	##				
+kalamang	monyet	0033	leng	village	np:s	np		s	410	
+kalamang	monyet	0033	nain	like	other	other				
+kalamang	monyet	0033	tarus	Tarus	pn_np:pred	pn_np		pred	411	unused
+kalamang	monyet	0033	me	TOP	other	other				
+kalamang	monyet	0033	leng	village	nc	nc				
+kalamang	monyet	0033	metko	DIST.LOC	nc	nc				
+kalamang	monyet	0034	#	#	##	##				
+kalamang	monyet	0034	mindita	like.that	other	other				
+kalamang	monyet	0034	me	TOP	other	other				
+kalamang	monyet	0034	mu	3PL	pro.h:s_ds	pro	h	s_ds	412	new
+kalamang	monyet	0034	keleo	inland.LOC	np	np			413	bridging
+kalamang	monyet	0034	toni	say	v:pred	v		pred		
+kalamang	monyet	0034	#	#	##ds	##ds				
+kalamang	monyet	0034	eh	QUOT	other	other				
+kalamang	monyet	0034	yaki	yaki	np.d:s	np	d	s	401	
+kalamang	monyet	0034	dari	from	other	other				
+kalamang	monyet	0034	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0035	#	#	##	##				
+kalamang	monyet	0035	itu	that	other	other				
+kalamang	monyet	0035	mindi	like_that	other	other				
+kalamang	monyet	0035	=ta	=NFIN	=other	=other				
+kalamang	monyet	0035	me	TOP	other	other				
+kalamang	monyet	0036	neba	PLH	other	other				
+kalamang	monyet	0037	kusikusi	cuscus	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0037	toni	say	v:pred	v		pred		
+kalamang	monyet	0038	#	#	##ds	##ds				
+kalamang	monyet	0038	yaki	monkey	np.d:a	np	d	a	401	
+kalamang	monyet	0038	dari	from	rn	rn				
+kalamang	monyet	0038	banda	Banda	rn_pn_np	rn_pn_np			414	new
+kalamang	monyet	0038	jual	sell	v:pred	v		pred		
+kalamang	monyet	0038	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0039	#	#	##ds	##ds				
+kalamang	monyet	0039	satu	one	ln	ln				
+kalamang	monyet	0039	ikat	bundle	np:s	np		s	404	
+kalamang	monyet	0039	sepuluh	ten	lv	lv				
+kalamang	monyet	0039	sen	cent	np:pred	np		pred		
+kalamang	monyet	0039	#	#	##ds	##ds				
+kalamang	monyet	0039	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0039	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0039	o	EMPH	other	other				
+kalamang	monyet	0039	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0039	masara	move_towards_land	rv	rv				
+kalamang	monyet	0040	#	#	#nc	#nc				
+kalamang	monyet	0040	dorang	NC	nc_pro.h	nc_pro	h		412	
+kalamang	monyet	0040	di	NC	nc	nc				
+kalamang	monyet	0040	darat	NC	nc_np	nc_np			413	
+kalamang	monyet	0040	su	NC	nc	nc				
+kalamang	monyet	0040	bilang	NC	nc	nc				
+kalamang	monyet	0040	yaki	monkey	nc_np.d	nc_np	d		401	
+kalamang	monyet	0040	banda	Banda	nc_pn_np	nc_pn_np			414	
+kalamang	monyet	0040	bai	NC	nc	nc				
+kalamang	monyet	0040	ada	NC	nc	nc				
+kalamang	monyet	0041	#	#	##ds	##ds				
+kalamang	monyet	0041	a	FIL	other	other				
+kalamang	monyet	0041	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0041	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0041	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0041	masara	move_towards_land	rv	rv				
+kalamang	monyet	0042	#	#	##	##				
+kalamang	monyet	0042	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0042	he	IAM	other	other				
+kalamang	monyet	0042	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0042	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0042	mara	move_towards_land	rv	rv				
+kalamang	monyet	0042	me	TOP	other	other				
+kalamang	monyet	0042	#	#	##	##				
+kalamang	monyet	0042	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0042	he	IAM	other	other				
+kalamang	monyet	0042	yal	paddle	lv	lv				
+kalamang	monyet	0042	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0042	kokir	near	v:pred	v		pred		
+kalamang	monyet	0042	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0042	me	TOP	other	other				
+kalamang	monyet	0043	#	#	##	##				
+kalamang	monyet	0043	mu	3PL	pro.h:s	pro	h	s	412	
+kalamang	monyet	0043	he	IAM	other	other				
+kalamang	monyet	0043	pebis	woman	np:assoc	np		assoc	412	
+kalamang	monyet	0043	towari-wari-ren	young-RED-AT	rn	rn				
+kalamang	monyet	0043	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0044	#	#	##	##				
+kalamang	monyet	0044	ZERO	ZERO	0.h:s_ds	0	h	s_ds	412	
+kalamang	monyet	0044	toni	say	v:pred	v		pred		
+kalamang	monyet	0044	#	#	##ds	##ds				
+kalamang	monyet	0044	ZERO	ZERO	0.1:a	0	1	a	412	
+kalamang	monyet	0044	kai	firewood	np:p	np		p	403	
+kalamang	monyet	0044	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0044	jie-t	buy-T	v:pred	v		pred		
+kalamang	monyet	0044	=kin	=VOL	=rv	=rv				
+kalamang	monyet	0044	o	EMPH	other	other				
+kalamang	monyet	0045	#	#	##ds	##ds				
+kalamang	monyet	0045	canam	man	np:s	np		s	401	
+kalamang	monyet	0045	wa	PROX	rn	rn				
+kalamang	monyet	0045	me	TOP	other	other				
+kalamang	monyet	0045	canam	man	np:assoc	np		assoc	401	
+kalamang	monyet	0045	wa	PROX	rn	rn				
+kalamang	monyet	0045	or-kadok	back	rn_np	rn_np			415	bridging
+kalamang	monyet	0045	wa	PROX	rn	rn				
+kalamang	monyet	0045	me	TOP	other	other				
+kalamang	monyet	0045	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0045	=sawet	=too	=rv	=rv				
+kalamang	monyet	0046	#	#	##ds	##ds				
+kalamang	monyet	0046	sabar-kadok	bow-side	np:s	np		s	402	
+kalamang	monyet	0046	yua	PROX	rn	rn				
+kalamang	monyet	0046	ba	but	other	other				
+kalamang	monyet	0046	lebai	better	lv	lv				
+kalamang	monyet	0046	bes	good	v:pred	v		pred		
+kalamang	monyet	0046	#	#	##ds	##ds				
+kalamang	monyet	0046	pi	1PL.INCL	pro.1:a	pro	1	a	412	
+kalamang	monyet	0046	ma	3SG	pro.d:p	pro	d	p	402	
+kalamang	monyet	0046	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0046	kasu-r	intercourse-T	v:pred	v		pred		
+kalamang	monyet	0046	=et	=IRR	=rn	=rn				
+kalamang	monyet	0047	#	#	##ds	##ds				
+kalamang	monyet	0047	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0047	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0047	#	#	##ds	##ds				
+kalamang	monyet	0047	sabar-kado	bow-side	np:s	np		s	416	bridging
+kalamang	monyet	0047	=a	=FOC	=rn	=rn				
+kalamang	monyet	0047	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0048	#	#	##	##				
+kalamang	monyet	0048	mier	3DU	pro.d:a	pro	d	a	403	
+kalamang	monyet	0048	se	IAM	other	other				
+kalamang	monyet	0048	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0048	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0048	nawaruk	unload	v:pred	v		pred		
+kalamang	monyet	0048	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0048	#	#	##	##				
+kalamang	monyet	0048	mu	3PL	pro.h:a	pro	h	a	412	
+kalamang	monyet	0048	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0048	jie-n	buy-N	lv	lv				
+kalamang	monyet	0048	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0048	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0049	#	#	##	##				
+kalamang	monyet	0049	monyet	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0049	nak=	just=	=lv	=lv				
+kalamang	monyet	0049	nokidak	NC	v:pred	v		pred		
+kalamang	monyet	0049	#	#	##	##				
+kalamang	monyet	0049	habis	finished	other	other				
+kalamang	monyet	0049	mu	3PL	pro.h:s	pro	h	s	412	
+kalamang	monyet	0049	he	IAM	other	other				
+kalamang	monyet	0049	opa	ANA	rn	rn				
+kalamang	monyet	0049	toni	say	v:pred	v		pred		
+kalamang	monyet	0049	#	#	#cc:other	#cc		other		
+kalamang	monyet	0049	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0049	me	TOP	other	other				
+kalamang	monyet	0049	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0049	=tende	=so	=other	=other				
+kalamang	monyet	0050	#	#	##	##				
+kalamang	monyet	0050	a	FIL	other	other				
+kalamang	monyet	0050	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0050	he	IAM	other	other				
+kalamang	monyet	0050	kademor	angry	v:pred	v		pred		
+kalamang	monyet	0051	#	#	##	##				
+kalamang	monyet	0051	ma	3SG	pro.d:a	pro	d	a	401	
+kalamang	monyet	0051	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0051	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0051	nawaruok	unload	lv	lv				
+kalamang	monyet	0051	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0051	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0051	neba	PLH	other	other				
+kalamang	monyet	0051	=at	=OBJ	=other	=other				
+kalamang	monyet	0051	=a	=FOC	=other	=other				
+kalamang	monyet	0051	me	TOP	nc	nc				
+kalamang	monyet	0052	#	#	##	##				
+kalamang	monyet	0052	kusikusi	cuscus	pro:s_ds	pro		s_ds	402	
+kalamang	monyet	0052	toni	say	v:pred	v		pred		
+kalamang	monyet	0052	#	#	##ds	##ds				
+kalamang	monyet	0052	yo	yes	other	other				
+kalamang	monyet	0052	pi	1PL.EXCL	pro.1:s	pro	1	s	403	
+kalamang	monyet	0052	he	other	other	other				
+kalamang	monyet	0052	bo	go	v:pred	v		pred		
+kalamang	monyet	0052	=et	=IRR	=rv	=rv				
+kalamang	monyet	0052	#	#	##ds	##ds				
+kalamang	monyet	0052	mu	3PL	pro.d:a	pro	d	a	412	
+kalamang	monyet	0052	he	IAM	other	other				
+kalamang	monyet	0052	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0052	jie-n	get-N	lv	lv				
+kalamang	monyet	0052	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0052	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0052	yo	yes	other	other				
+kalamang	monyet	0053	#	#	##	##				
+kalamang	monyet	0053	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0053	he	IAM	other	other				
+kalamang	monyet	0053	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0053	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0053	me	TOP	other	other				
+kalamang	monyet	0053	mulai	start	nc	nc				
+kalamang	monyet	0054	#	#	##	##				
+kalamang	monyet	0054	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0054	he	IAM	other	other				
+kalamang	monyet	0054	ma	move_towards_land	lv	lv				
+kalamang	monyet	0054	nyanyi	song	np:p	np		p	417	bridging
+kalamang	monyet	0054	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0054	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0054	paruo	do	v:pred	v		pred		
+kalamang	monyet	0055	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0056	#	#	#nc	#nc				
+kalamang	monyet	0056	bo	go	nc	nc				
+kalamang	monyet	0056	leng	village	nc_np	nc_np			418	new
+kalamang	monyet	0056	kodaer	one_more	nc	nc				
+kalamang	monyet	0056	=a	=FOC	nc	nc				
+kalamang	monyet	0056	me	TOP	nc	nc				
+kalamang	monyet	0057	#	#	#	#				
+kalamang	monyet	0057	mu	3PL	pro.d:s_ds	pro	d	s_ds	419	bridging
+kalamang	monyet	0057	toni	say	v:pred	v		pred		
+kalamang	monyet	0057	#	#	##ds	##ds				
+kalamang	monyet	0057	hei	hey	other	other				
+kalamang	monyet	0058	yaki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0058	dari	from	other	other				
+kalamang	monyet	0058	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0059	#	#	##ds	##ds				
+kalamang	monyet	0059	o	INTJ	other	other				
+kalamang	monyet	0059	yaki	monkey	np:s	np		s	401	
+kalamang	monyet	0059	dari	from	rn	rn				
+kalamang	monyet	0059	banda	Banda	rn_pn_np	rn_pn_np			414	
+kalamang	monyet	0060	jual	sell	v:pred	v		pred		
+kalamang	monyet	0060	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0060	#	#	##ds	##ds				
+kalamang	monyet	0060	satu	one	ln	ln				
+kalamang	monyet	0060	ikat	bundle	np:s	np		s	405	
+kalamang	monyet	0060	sepuluh	ten	other	other				
+kalamang	monyet	0060	sen	cent	np:pred	np		pred		
+kalamang	monyet	0061	#	#	##ds	##ds				
+kalamang	monyet	0061	o	EMPH	other	other				
+kalamang	monyet	0061	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0061	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0061	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0061	masara	move_towards_land	rv	rv				
+kalamang	monyet	0062	#	#	##ds	##ds				
+kalamang	monyet	0062	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0062	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0062	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0062	masara	move_towards_land	rv	rv				
+kalamang	monyet	0062	#	#	##ds	##ds				
+kalamang	monyet	0062	in	1PL.EXCL	pro.1:a	pro	1	a	419	
+kalamang	monyet	0062	ZERO	ZERO	0:p	0		p		
+kalamang	monyet	0062	jie-r	buy-T	v:pred	v		pred		
+kalamang	monyet	0062	=et	=IRR	=rv	=rv				
+kalamang	monyet	0063	#	#	##	##				
+kalamang	monyet	0063	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0063	he	IAM	other	other				
+kalamang	monyet	0063	yal	paddle	lv	lv				
+kalamang	monyet	0063	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0063	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0064	#	#	##	##				
+kalamang	monyet	0064	leki	monkey	nc	nc				
+kalamang	monyet	0064	opa	ANA	nc	nc				
+kalamang	monyet	0064	he	IAM	nc	nc				
+kalamang	monyet	0065	monyet	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0065	opa	ANA	rn	rn				
+kalamang	monyet	0065	ma	3SG	pro:appos	pro		appos	401	
+kalamang	monyet	0065	he	IAM	other	other				
+kalamang	monyet	0065	koi	again	other	other				
+kalamang	monyet	0065	bo	go	lv	lv				
+kalamang	monyet	0065	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0065	=ko	=LOC	=rv	=rv				
+kalamang	monyet	0066	#	#	##	##				
+kalamang	monyet	0066	opa	earlier	other	other				
+kalamang	monyet	0066	me	TOP	other	other				
+kalamang	monyet	0066	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0066	sabar	bow	np:pred_l	np		pred_l	416	
+kalamang	monyet	0066	=ko-ren	=LOC-AT	=rv	=rv				
+kalamang	monyet	0067	#	#	#nc	#nc				
+kalamang	monyet	0067	ma	NC	nc_pro.d	nc_pro	d		401	
+kalamang	monyet	0067	boren	NC	nc	nc				
+kalamang	monyet	0067	abis	NC	nc	nc				
+kalamang	monyet	0067	baku	NC	nc	nc				
+kalamang	monyet	0067	tukar	NC	nc	nc				
+kalamang	monyet	0068	#	#	##	##				
+kalamang	monyet	0068	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0068	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0068	me	TOP	other	other				
+kalamang	monyet	0069	#	#	#nc	#nc				
+kalamang	monyet	0069	mu	3PL	nc_pro.d	nc_pro	d		403	
+kalamang	monyet	0069	he	IAM	nc	nc				
+kalamang	monyet	0069	kai	firewood	nc	nc				
+kalamang	monyet	0069	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0070	#	#	##	##				
+kalamang	monyet	0070	pebis	woman	np.h:s	np	h	s		
+kalamang	monyet	0070	towariwari	young	rn	rn				
+kalamang	monyet	0070	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0070	eh	QUOT	other	other				
+kalamang	monyet	0071	#	#	##ds	##ds				
+kalamang	monyet	0071	lebai	better	other	other				
+kalamang	monyet	0071	sabar-kadok	bow-side	np.d:s	np	d	s	402	
+kalamang	monyet	0071	yua	PROX	rn	rn				
+kalamang	monyet	0071	ba	but	other	other				
+kalamang	monyet	0071	bes	good	v:pred	v		pred		
+kalamang	monyet	0072	#	#	##ds	##ds				
+kalamang	monyet	0072	ma	3SG	pro.d:s	pro	d	s	402	
+kalamang	monyet	0072	rasa	like	v:pred	v		pred		
+kalamang	monyet	0073	#	#	##ds	##ds				
+kalamang	monyet	0073	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0073	iren-da	ripe-NFIN	v:pred	v		pred		
+kalamang	monyet	0073	metko	DIST.LOC	other	other				
+kalamang	monyet	0074	#	#	##ds	##ds				
+kalamang	monyet	0074	or-kadok	back-side	np.d:s	np	d	s	401	
+kalamang	monyet	0074	ade	INTJ.PEJ	other	other				
+kalamang	monyet	0074	he	IAM	other	other				
+kalamang	monyet	0074	bo	go	lv	lv				
+kalamang	monyet	0074	kuskapkap	black	v:pred	v		pred		
+kalamang	monyet	0074	=tun	=very	=rv	=rv				
+kalamang	monyet	0075	#	#	##	##				
+kalamang	monyet	0075	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0075	he	IAM	other	other				
+kalamang	monyet	0075	malu-re	shy-NFIN	lv	lv				
+kalamang	monyet	0075	nokidak	be_silent	v:pred	v		pred		
+kalamang	monyet	0076	#	#	##	##				
+kalamang	monyet	0076	m	AGR	other	other				
+kalamang	monyet	0076	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0076	he	IAM	other	other				
+kalamang	monyet	0076	nokidak	be_silent	v:pred	v		pred		
+kalamang	monyet	0077	#	#	##	##				
+kalamang	monyet	0077	me	TOP	other	other				
+kalamang	monyet	0077	ma	3SG	pro.h:a	pro	h	a	420	bridging
+kalamang	monyet	0077	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0077	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0077	jie-n	buy-N	lv	lv				
+kalamang	monyet	0077	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0077	koyer-ra	finish-NFIN	v:pred	v		pred		
+kalamang	monyet	0077	me	TOP	other	other				
+kalamang	monyet	0077	#	#	##	##				
+kalamang	monyet	0077	ZERO	ZERO	0.h:a	0	h	a	420	
+kalamang	monyet	0077	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0077	newer	pay	lv	lv				
+kalamang	monyet	0077	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0077	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0078	#	#	##	##				
+kalamang	monyet	0078	kusukusu	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0078	toni	say	v:pred	v		pred		
+kalamang	monyet	0078	#	#	##ds	##ds				
+kalamang	monyet	0078	pier	1DU.INCL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0078	koi	then	other	other				
+kalamang	monyet	0078	bo	go	v:pred	v		pred		
+kalamang	monyet	0078	=et	=IRR	=rv	=rv				
+kalamang	monyet	0078	leng	village	np:g	np		g	425	bridging
+kalamang	monyet	0078	kodaet	one_more	rn	rn				
+kalamang	monyet	0078	#	#	##ds	##ds				
+kalamang	monyet	0078	ZERO	ZERO	0.1:a	0	1	a	403	
+kalamang	monyet	0078	koi	then	other	other				
+kalamang	monyet	0078	bo	go	lv	lv				
+kalamang	monyet	0078	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0078	parin	sell	v:pred	v		pred		
+kalamang	monyet	0078	=et	=IRR	=rv	=rv				
+kalamang	monyet	0079	#	#	##	##				
+kalamang	monyet	0079	mindi	like_that	other	other				
+kalamang	monyet	0079	=ta	=NFIN	=other	=other				
+kalamang	monyet	0079	me	TOP	other	other				
+kalamang	monyet	0079	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0079	he	IAM	other	other				
+kalamang	monyet	0079	ma	move_towards_sea	lv	lv				
+kalamang	monyet	0079	kariemun	cape	np:p	np		p	438	bridging
+kalamang	monyet	0079	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0079	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0079	me	TOP	other	other				
+kalamang	monyet	0080	#	#	##	##				
+kalamang	monyet	0080	monyet	monkey	np.d:s_ds	np	d	s_ds	401	
+kalamang	monyet	0080	toni	say	v:pred	v		pred		
+kalamang	monyet	0080	eh	QUOT	other	other				
+kalamang	monyet	0081	#	#	##ds	##ds				
+kalamang	monyet	0081	ZERO	ZERO	0.2:s	0	2	s	402	
+kalamang	monyet	0081	mia	come	v:pred	v		pred		
+kalamang	monyet	0081	ba	then	other	other				
+kalamang	monyet	0081	#	#	##ds	##ds				
+kalamang	monyet	0081	ka	2SG	nc	nc				
+kalamang	monyet	0082	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0082	me	TOP	other	other				
+kalamang	monyet	0082	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0082	=ko-re	=LOC-IMP	=rv	=rv				
+kalamang	monyet	0083	#	#	##ds	##ds				
+kalamang	monyet	0083	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0083	=a	=FOC	=rn	=rn				
+kalamang	monyet	0083	koi	then	other	other				
+kalamang	monyet	0083	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0083	=et	=IRR	=rn	=rn				
+kalamang	monyet	0083	#	#	##ds	##ds				
+kalamang	monyet	0083	opa	earlier	other	other				
+kalamang	monyet	0083	mu	3PL	pro.h:s	pro	h	s	419	
+kalamang	monyet	0083	toni	say	v:pred	v		pred		
+kalamang	monyet	0083	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	monyet	0083	sabar-kado	bow-side	np.d:s	np	d	s	401	
+kalamang	monyet	0083	=a	=FOC	=rn	=rn				
+kalamang	monyet	0083	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0084	#	#	##ds	##ds				
+kalamang	monyet	0084	sabar-kado	bow-side	np.d:s	np	d	s	401	
+kalamang	monyet	0084	=a	=FOC	=rn	=rn				
+kalamang	monyet	0084	bes	good	v:pred	v		pred		
+kalamang	monyet	0085	#	#	##ds	##ds				
+kalamang	monyet	0085	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0085	bo	go	lv	lv				
+kalamang	monyet	0085	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0085	=ko-re	=LOC-IMP	=rv	=rv				
+kalamang	monyet	0086	#	#	##ds	##ds				
+kalamang	monyet	0086	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0086	me	TOP	other	other				
+kalamang	monyet	0086	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0086	=ko	=LOC	=rv	=rv				
+kalamang	monyet	0086	#	#	##ds	##ds				
+kalamang	monyet	0086	an-daet	1SG-again	pro.1:s	pro	1	s	401	
+kalamang	monyet	0086	bo	go	lv	lv				
+kalamang	monyet	0086	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0086	=et	=IRR	=rn	=rn				
+kalamang	monyet	0087	#	#	##	##				
+kalamang	monyet	0087	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0087	se	IAM	other	other				
+kalamang	monyet	0087	baku tukar	exchange	lv	lv				
+kalamang	monyet	0087	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0087	koyer	finish	v:pred	v		pred		
+kalamang	monyet	0087	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0087	#	#	##	##				
+kalamang	monyet	0087	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0087	mulai	start	lv	lv				
+kalamang	monyet	0087	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0088	#	#	#nc	#nc				
+kalamang	monyet	0088	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0088	#	#	#nc	#nc				
+kalamang	monyet	0088	leng	village	nc_np	nc_np			421	bridging
+kalamang	monyet	0088	kodaet	one_more	nc	nc				
+kalamang	monyet	0088	=ko	=LOC	nc	nc				
+kalamang	monyet	0089	#	#	##	##				
+kalamang	monyet	0089	mindi-ta	like_that-NFIN	other	other				
+kalamang	monyet	0089	me	TOP	other	other				
+kalamang	monyet	0089	mu	3PL	nc	nc				
+kalamang	monyet	0089	he	other	nc	nc				
+kalamang	monyet	0089	gonggung	call	nc	nc				
+kalamang	monyet	0089	mu	3PL	pro.h:s_ds	pro	h	s_ds	422	bridging
+kalamang	monyet	0089	kelek	mountain	np:l	np		l	423	bridging
+kalamang	monyet	0089	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0089	=ra	=NFIN	=rn	=rn				
+kalamang	monyet	0089	gonggung	call	v:pred	v		pred		
+kalamang	monyet	0089	#	#	##ds	##ds				
+kalamang	monyet	0089	eh	QUOT	other	other				
+kalamang	monyet	0089	yaki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0089	dari	from	other	other				
+kalamang	monyet	0089	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0090	#	#	##	##				
+kalamang	monyet	0090	mindi	like_that	other	other				
+kalamang	monyet	0090	=ta	=NFIN	=other	=other				
+kalamang	monyet	0090	me	TOP	other	other				
+kalamang	monyet	0090	mu	3PL	pro.d:s_ds	pro	d	s_ds	403	
+kalamang	monyet	0090	jawab	answer	lv	lv				
+kalamang	monyet	0090	=te	=NFIN	=lv	=lv				
+kalamang	monyet	0090	toni	say	v:pred	v		pred		
+kalamang	monyet	0090	#	#	##ds	##ds				
+kalamang	monyet	0090	oh	INTJ	other	other				
+kalamang	monyet	0090	yaki	monkey	np.d:a	np	d	a	401	
+kalamang	monyet	0090	dari	from	rn	rn				
+kalamang	monyet	0090	banda	Banda	rn_pn_np	rn_pn_np			414	
+kalamang	monyet	0091	jual	sell	v:pred	v		pred		
+kalamang	monyet	0091	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0092	#	#	##ds	##ds				
+kalamang	monyet	0092	satu	one	ln	ln				
+kalamang	monyet	0092	ikat	bundle	np:s	np		s	405	
+kalamang	monyet	0092	sepuluh	ten	other	other				
+kalamang	monyet	0092	sen	cent	np:pred	np		pred		
+kalamang	monyet	0093	#	#	##ds	##ds				
+kalamang	monyet	0093	eh	QUOT	other	other				
+kalamang	monyet	0093	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0093	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0093	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0093	masara	move_towards_land	rv	rv				
+kalamang	monyet	0093	kuru	bring	nc	nc				
+kalamang	monyet	0093	masara	move_towards_land	nc	nc				
+kalamang	monyet	0093	#	#	##ds	##ds				
+kalamang	monyet	0093	in	1PL.EXCL	pro.1:a	pro	1	a	422	
+kalamang	monyet	0093	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0093	jie-r	buy-T	v:pred	v		pred		
+kalamang	monyet	0093	=et	=IRR	=rv	=rv				
+kalamang	monyet	0094	#	#	##	##				
+kalamang	monyet	0094	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0094	he	IAM	other	other				
+kalamang	monyet	0094	yal	paddle	lv	lv				
+kalamang	monyet	0094	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0094	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0095	#	#	##	##				
+kalamang	monyet	0095	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0095	yal	paddle	lv	lv				
+kalamang	monyet	0095	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0095	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0095	me	TOP	other	other				
+kalamang	monyet	0096	#	#	##	##				
+kalamang	monyet	0096	mu	3PL	pro.d:s	pro	d	s	471	bridging
+kalamang	monyet	0096	he	IAM	other	other				
+kalamang	monyet	0096	komekome-ra	looklook-NFIN	v:pred	v		pred		
+kalamang	monyet	0096	eih	INT.E	other	other				
+kalamang	monyet	0097	#	#	##	##				
+kalamang	monyet	0097	mu	3PL	pro.d:s_ds	pro	d	s_ds	471	
+kalamang	monyet	0097	he	IAM	other	other				
+kalamang	monyet	0097	toni	say	v:pred	v		pred		
+kalamang	monyet	0097	eih	QUOT	other	other				
+kalamang	monyet	0098	#	#	##ds	##ds				
+kalamang	monyet	0098	labai	better	other	other				
+kalamang	monyet	0098	or-kadok	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0098	yua	PROX	rn	rn				
+kalamang	monyet	0098	me	TOP	other	other				
+kalamang	monyet	0098	bes	good	v:pred	v		pred		
+kalamang	monyet	0098	#	#	##ds	##ds				
+kalamang	monyet	0098	or-kadok	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0098	me	TOP	other	other				
+kalamang	monyet	0098	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0099	#	#	##	##				
+kalamang	monyet	0099	pebis	woman	np.h:s_ds	np	h	s_ds	471	
+kalamang	monyet	0099	towariwari	young	rn	rn				
+kalamang	monyet	0099	toni	say	v:pred	v		pred		
+kalamang	monyet	0099	#	#	##ds	##ds				
+kalamang	monyet	0099	or-kado	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0099	=a	=FOC	=rn	=rn				
+kalamang	monyet	0099	rasa	like	v:pred	v		pred		
+kalamang	monyet	0100	#	#	##ds	##ds				
+kalamang	monyet	0100	sabar-kadok	front-side	np:s	np		s	401	
+kalamang	monyet	0100	me	TOP	other	other				
+kalamang	monyet	0100	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0100	=sawet	=too	=rv	=rv				
+kalamang	monyet	0101	#	#	##	##				
+kalamang	monyet	0101	mindi	like_that	other	other				
+kalamang	monyet	0101	=ta	=NFIN	=other	=other				
+kalamang	monyet	0101	me	TOP	other	other				
+kalamang	monyet	0101	ah	INT	other	other				
+kalamang	monyet	0102	ma	3SG	pro.d:s_ds	pro	d	s_ds	401	
+kalamang	monyet	0102	he	IAM	other	other				
+kalamang	monyet	0102	nafikir	think	v:pred	v		pred		
+kalamang	monyet	0102	eh	QUOT	other	other				
+kalamang	monyet	0102	#	#	##ds	##ds				
+kalamang	monyet	0102	tamandi-ten	how-AT	other	other				
+kalamang	monyet	0102	=a	=FOC	=other	=other				
+kalamang	monyet	0102	ZERO	ZERO	0.1:s	0	1	s	403	
+kalamang	monyet	0102	bo	go	lv	lv				
+kalamang	monyet	0102	leng	village	np:pred_g	np		pred_g	425	
+kalamang	monyet	0102	kon	one	rn	rn				
+kalamang	monyet	0102	=ggo	=LOC	=rn	=rn				
+kalamang	monyet	0102	=et	=IRR	=rn	=rn				
+kalamang	monyet	0103	#	#	##ds	##ds				
+kalamang	monyet	0103	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0103	or	back	np:pred_l	np		pred_l	415	
+kalamang	monyet	0103	=et	=IRR	=rn	=rn				
+kalamang	monyet	0103	#	#	##ds	##ds				
+kalamang	monyet	0103	mu	3PL	pro.h:s_ds	pro	h	s_ds	424	bridging
+kalamang	monyet	0103	toni	say	v:pred	v		pred		
+kalamang	monyet	0103	#	#	##ds	##ds				
+kalamang	monyet	0103	sabar-kado	bow-side	np.d:s	np	d	s	402	
+kalamang	monyet	0103	=a	=FOC	=rn	=rn				
+kalamang	monyet	0103	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0104	#	#	##ds	##ds				
+kalamang	monyet	0104	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0104	sabar	bow	np:pred_l	np		pred_l	416	
+kalamang	monyet	0104	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0104	=et	=IRR	=rn	=rn				
+kalamang	monyet	0104	#	#	##ds	##ds				
+kalamang	monyet	0104	mu	3PL	pro.h:s_ds	pro	h	s_ds	424	
+kalamang	monyet	0104	toni	say	v:pred	v		pred		
+kalamang	monyet	0104	#	#	##ds	##ds				
+kalamang	monyet	0104	or-kado	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0104	=a	=FOC	=rn	=rn				
+kalamang	monyet	0104	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0105	#	#	##	##				
+kalamang	monyet	0105	mindi	like_that	other	other				
+kalamang	monyet	0105	=ta	=NFIN	=other	=other				
+kalamang	monyet	0105	me	TOP	other	other				
+kalamang	monyet	0105	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0105	he	IAM	other	other				
+kalamang	monyet	0105	koi	then	other	other				
+kalamang	monyet	0106	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0106	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0106	di=	CAUS=	=lv	=lv				
+kalamang	monyet	0106	mara-n-i	move_towards_land-N-QNT.OBJ	lv	lv				
+kalamang	monyet	0106	kuer-ra	bring-NFIN	v:pred	v		pred		
+kalamang	monyet	0106	me	TOP	other	other				
+kalamang	monyet	0107	#	#	##	##				
+kalamang	monyet	0107	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0107	or	back	np:pred_l	np		pred_l		
+kalamang	monyet	0107	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0107	#	#	##	##				
+kalamang	monyet	0107	opa	earlier	other	other				
+kalamang	monyet	0107	me	TOP	other	other				
+kalamang	monyet	0107	mu	3PL	pro.h:s_ds	pro	h	s_ds	422	
+kalamang	monyet	0107	toni	say	v:pred	v		pred		
+kalamang	monyet	0107	#	#	##ds	##ds				
+kalamang	monyet	0107	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0107	he	IAM	other	other				
+kalamang	monyet	0107	kuskap-ten	black-so	v:pred	v		pred		
+kalamang	monyet	0107	#	#	##	##				
+kalamang	monyet	0107	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0107	nak=	just=	=lv	=lv				
+kalamang	monyet	0107	nokidak	be_silent	v:pred	v		pred		
+kalamang	monyet	0108	#	#	##	##				
+kalamang	monyet	0108	mindi	like_that	other	other				
+kalamang	monyet	0108	=ta	=NFIN	=other	=other				
+kalamang	monyet	0108	me	TOP	other	other				
+kalamang	monyet	0109	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0109	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0109	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0109	newer	pay	lv	lv				
+kalamang	monyet	0109	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0109	koyer	finish	v:pred	v		pred		
+kalamang	monyet	0109	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0109	me	TOP	other	other				
+kalamang	monyet	0110	#	#	##	##				
+kalamang	monyet	0110	pitis	money	np:p	np		p	427	bridging
+kalamang	monyet	0110	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0110	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0110	mu	3PL	pro.h:a	pro	h	a	426	bridging
+kalamang	monyet	0110	he	IAM	other	other				
+kalamang	monyet	0110	koyer	finish	v:pred	v		pred		
+kalamang	monyet	0110	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0110	me	TOP	other	other				
+kalamang	monyet	0110	#	#	##	##				
+kalamang	monyet	0110	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0110	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0110	me	TOP	other	other				
+kalamang	monyet	0111	#	#	##	##				
+kalamang	monyet	0111	eh	QUOT	nc	nc				
+kalamang	monyet	0112	kusukusu	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0112	toni	say	v:pred	v		pred		
+kalamang	monyet	0112	#	#	##ds	##ds				
+kalamang	monyet	0112	o	EMPH	other	other				
+kalamang	monyet	0112	pi	1PL.INCL	pro.1:s	pro	1	s	403	
+kalamang	monyet	0112	koi	then	other	other				
+kalamang	monyet	0112	leng	village	np:g	np		g	428	new
+kalamang	monyet	0112	kodaet	one_more	rn	rn				
+kalamang	monyet	0112	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0113	yal	paddle	lv	lv				
+kalamang	monyet	0113	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0113	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0113	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0113	kai	firewood	np:s	np		s	404	
+kalamang	monyet	0113	tok	yet	other	other				
+kalamang	monyet	0113	koye-t	finish-T	v:pred	v		pred		
+kalamang	monyet	0113	=nin	=NEG	=rv	=rv				
+kalamang	monyet	0114	#	#	##	##				
+kalamang	monyet	0114	me	TOP	other	other				
+kalamang	monyet	0114	ma	3SG	pro.d:a	pro	d	a	402	
+kalamang	monyet	0114	kariemun	cape	np:p	np		p	409	
+kalamang	monyet	0114	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0114	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0114	me	TOP	other	other				
+kalamang	monyet	0115	#	#	##	##				
+kalamang	monyet	0115	monyet	monkey	np:s_ds	np		s_ds		
+kalamang	monyet	0115	toni	say	v:pred	v		pred		
+kalamang	monyet	0115	#	#	##ds	##ds				
+kalamang	monyet	0115	ah	INT	other	other				
+kalamang	monyet	0116	ZERO	ZERO	0.2:s	0	2	s	402	
+kalamang	monyet	0116	mia	come	v:pred	v		pred		
+kalamang	monyet	0116	#	#	##ds	##ds				
+kalamang	monyet	0116	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0116	bo	go	lv	lv				
+kalamang	monyet	0116	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0116	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0116	=et	=IRR	=rn	=rn				
+kalamang	monyet	0117	#	#	##ds	##ds				
+kalamang	monyet	0117	opa	earlier	other	other				
+kalamang	monyet	0117	me	TOP	other	other				
+kalamang	monyet	0117	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0117	or	back	np:pred_l	np		pred_l	415	
+kalamang	monyet	0117	=ko-ra	=LOC-NFIN	=rn	=rn				
+kalamang	monyet	0117	#	#	##ds	##ds				
+kalamang	monyet	0117	mu	3PL	pro.h:s_ds	pro	h	s_ds	426	
+kalamang	monyet	0117	toni	say	v:pred	v		pred		
+kalamang	monyet	0117	#	#	##ds	##ds				
+kalamang	monyet	0117	sabar-kadok	bow-side	np.d:s	np	d	s	402	
+kalamang	monyet	0117	me	TOP	other	other				
+kalamang	monyet	0117	bes	good	v:pred	v		pred		
+kalamang	monyet	0118	#	#	##ds	##ds				
+kalamang	monyet	0118	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0118	me	TOP	other	other				
+kalamang	monyet	0118	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0118	=te	=IMP	=rn	=rn				
+kalamang	monyet	0119	#	#	##ds	##ds				
+kalamang	monyet	0119	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0119	me	TOP	other	other				
+kalamang	monyet	0119	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0119	=te	=IMP	=rn	=rn				
+kalamang	monyet	0119	#	#	##ds	##ds				
+kalamang	monyet	0119	an-daet	1SG-again	pro.1:s	pro	1	s	401	
+kalamang	monyet	0119	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0119	=et	=IRR	=rn	=rn				
+kalamang	monyet	0120	#	#	##	##				
+kalamang	monyet	0120	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0120	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0120	me	TOP	other	other				
+kalamang	monyet	0121	#	#	##	##				
+kalamang	monyet	0121	mindi	like_that	other	other				
+kalamang	monyet	0121	ma	3SG	pro.d:s_ds	pro	d	s_ds	402	
+kalamang	monyet	0121	kusukusu	cuscus	np.d:appos	np	d	appos		
+kalamang	monyet	0121	toni	say	v:pred	v		pred		
+kalamang	monyet	0121	#	#	##ds	##ds				
+kalamang	monyet	0121	ZERO	ZERO	0.2:s	0	2	s	403	
+kalamang	monyet	0121	menyanyi	sing	v:pred	v		pred		
+kalamang	monyet	0121	=et	=IRR	=rv	=rv				
+kalamang	monyet	0122	#	#	#nc	#nc				
+kalamang	monyet	0122	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0123	#	#	##	##				
+kalamang	monyet	0123	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0123	bo	go	lv	lv				
+kalamang	monyet	0123	leng	village	np:pred_g	np		pred_g		
+kalamang	monyet	0123	kodaet	one_more	rn	rn				
+kalamang	monyet	0123	#	#	##	##				
+kalamang	monyet	0123	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0123	newa-ra	same-NFIN	v:pred	v		pred		
+kalamang	monyet	0123	me	TOP	other	other				
+kalamang	monyet	0124	#	#	##	##				
+kalamang	monyet	0124	mu	3PL	pro.h:s	pro	h	s	429	bridging
+kalamang	monyet	0124	he	IAM	other	other				
+kalamang	monyet	0124	kelak	mainland	np:l	np		l	430	bridging
+kalamang	monyet	0124	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0124	gonggung	call_out	v:pred	v		pred		
+kalamang	monyet	0125	#	#	##ds	##ds				
+kalamang	monyet	0125	eh	hey	other	other				
+kalamang	monyet	0125	yaki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0125	dari	from	other	other				
+kalamang	monyet	0125	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0126	#	#	##	##				
+kalamang	monyet	0126	mindi	like_that	other	other				
+kalamang	monyet	0126	=ta	=NFIN	=other	=other				
+kalamang	monyet	0126	me	TOP	other	other				
+kalamang	monyet	0127	kusukusu	cuscus	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0127	toni	say	v:pred	v		pred		
+kalamang	monyet	0127	#	#	##ds	##ds				
+kalamang	monyet	0127	o	INTJ	other	other				
+kalamang	monyet	0127	yaki	monkey	np.d:a	np	d	a	401	
+kalamang	monyet	0127	dari	from	rn	rn				
+kalamang	monyet	0127	banda	Banda	rn_pn_np	rn_pn_np			414	
+kalamang	monyet	0127	jual	sell	v:pred	v		pred		
+kalamang	monyet	0127	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0128	#	#	##ds	##ds				
+kalamang	monyet	0128	satu	one	ln	ln				
+kalamang	monyet	0128	ikat	bundle	np:s	np		s	405	
+kalamang	monyet	0128	sepuluh	ten	other	other				
+kalamang	monyet	0128	sen	cent	np:pred	np		pred		
+kalamang	monyet	0128	#	#	##ds	##ds				
+kalamang	monyet	0128	oh	INTJ	other	other				
+kalamang	monyet	0128	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0128	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0128	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0128	masara	move_landwards	rv	rv				
+kalamang	monyet	0129	#	#	##ds	##ds				
+kalamang	monyet	0129	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0129	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0129	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0129	masara	move_towards_land	rv	rv				
+kalamang	monyet	0129	#	#	##ds	##ds				
+kalamang	monyet	0129	in	1PL.EXCL	pro.1:a	pro	1	a	429	
+kalamang	monyet	0129	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0129	jie-r	buy-T	v:pred	v		pred		
+kalamang	monyet	0129	=et	=IRR	=rv	=rv				
+kalamang	monyet	0130	#	#	##	##				
+kalamang	monyet	0130	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0130	he	IAM	other	other				
+kalamang	monyet	0130	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0131	#	#	##	##				
+kalamang	monyet	0131	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0131	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0131	metko	DIST.LOC	np:g	np		g	428	
+kalamang	monyet	0131	#	#	##	##				
+kalamang	monyet	0131	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0131	koi	then	other	other				
+kalamang	monyet	0131	nawaruok	unload	v:pred	v		pred		
+kalamang	monyet	0131	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0131	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0131	=at	=FOC	=rn	=rn				
+kalamang	monyet	0132	#	#	##	##				
+kalamang	monyet	0132	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0132	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0132	me	TOP	other	other				
+kalamang	monyet	0132	#	#	##	##				
+kalamang	monyet	0132	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0132	he	IAM	other	other				
+kalamang	monyet	0132	ma	3SG	pro.h:p	pro	h	p	431	bridging
+kalamang	monyet	0132	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0132	kokir	near	v:pred	v		pred		
+kalamang	monyet	0132	#	#	##	##				
+kalamang	monyet	0132	pebis	woman	np.h:a	np	h	a	431	
+kalamang	monyet	0132	opa	ANA	rn	rn				
+kalamang	monyet	0132	he	IAM	other	other				
+kalamang	monyet	0132	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0132	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0132	kome-t	see-T	v:pred	v		pred		
+kalamang	monyet	0133	#	#	##ds	##ds				
+kalamang	monyet	0133	o	EMPH	other	other				
+kalamang	monyet	0134	sabar-kadok	bow-side	np.d:s	np	d	s	401	
+kalamang	monyet	0134	yua	PROX	rn	rn				
+kalamang	monyet	0134	me	TOP	other	other				
+kalamang	monyet	0134	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0134	=sawet	=too	=rv	=rv				
+kalamang	monyet	0135	#	#	##ds	##ds				
+kalamang	monyet	0135	or-kadok	back-side	np:s	np		s	402	
+kalamang	monyet	0135	yua	PROX	rn	rn				
+kalamang	monyet	0135	ba	but	other	other				
+kalamang	monyet	0135	rasa	like	v:pred	v		pred		
+kalamang	monyet	0135	#	#	##ds	##ds				
+kalamang	monyet	0135	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0135	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0135	#	#	##ds	##ds				
+kalamang	monyet	0135	westal	hair	np:s	np		s	432	bridging
+kalamang	monyet	0135	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	402	
+kalamang	monyet	0135	kahen	long	v:pred	v		pred		
+kalamang	monyet	0136	#	#	##ds	##ds				
+kalamang	monyet	0136	lebai	better	other	other				
+kalamang	monyet	0136	pi	1PL.INCL	pro.1:a	pro	1	a	429	
+kalamang	monyet	0136	ma	3SG	pro.d:p	pro	d	p	402	
+kalamang	monyet	0136	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0136	=a	=FOC	=rn	=rn				
+kalamang	monyet	0136	kasur	make_love	v:pred	v		pred		
+kalamang	monyet	0136	=et	=IRR	=rv	=rv				
+kalamang	monyet	0136	#	#	##ds	##ds				
+kalamang	monyet	0136	ma	3SG	pro.d:assoc	pro	d	assoc	402	
+kalamang	monyet	0136	eren	body	np:s	np		s	433	bridging
+kalamang	monyet	0136	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	402	
+kalamang	monyet	0136	temun	big	v:pred	v		pred		
+kalamang	monyet	0136	#	#	#nc	#nc				
+kalamang	monyet	0136	kon	one	nc_other.d	nc_other	d		401	
+kalamang	monyet	0136	yua	PROX	nc	nc				
+kalamang	monyet	0136	me	top	nc	nc				
+kalamang	monyet	0136	yeh	INTJ	nc	nc				
+kalamang	monyet	0136	#	#	##ds	##ds				
+kalamang	monyet	0136	kanggirar	face	np:s	np		s	434	bridging
+kalamang	monyet	0136	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	401	
+kalamang	monyet	0136	bo	go	lv	lv				
+kalamang	monyet	0136	nain	like	lv	lv				
+kalamang	monyet	0137	panci	pan	ln	ln				
+kalamang	monyet	0137	elun-ggap	bottom-SIM	np:pred	np		pred	435	bridging
+kalamang	monyet	0138	#	#	##ds	##ds				
+kalamang	monyet	0138	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0138	raw	laugh	v:pred	v		pred		
+kalamang	monyet	0138	=et	=IRR	=rv	=rv				
+kalamang	monyet	0138	eba	then	other	other				
+kalamang	monyet	0138	#	#	##ds	##ds				
+kalamang	monyet	0138	gier	teeth	np:s	np		s	436	bridging
+kalamang	monyet	0138	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	401	
+kalamang	monyet	0138	iriskap	white	v:pred	v		pred		
+kalamang	monyet	0139	#	#	##	##				
+kalamang	monyet	0139	mindi	like_that	other	other				
+kalamang	monyet	0139	=ta	=NFIN	=other	=other				
+kalamang	monyet	0139	me	TOP	other	other				
+kalamang	monyet	0139	ah	INT	other	other				
+kalamang	monyet	0140	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0140	he	IAM	other	other				
+kalamang	monyet	0140	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0140	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0140	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0140	neba	PLH	lv	lv				
+kalamang	monyet	0140	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0140	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0141	#	#	#nc	#nc				
+kalamang	monyet	0141	newer	pay	nc	nc				
+kalamang	monyet	0141	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0141	koyet	finish	nc	nc				
+kalamang	monyet	0142	#	#	##	##				
+kalamang	monyet	0142	mindi	like_that	other	other				
+kalamang	monyet	0142	=ta	=NFIN	=other	=other				
+kalamang	monyet	0142	me	TOP	other	other				
+kalamang	monyet	0143	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0143	se	IAM	other	other				
+kalamang	monyet	0143	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0144	#	#	##	##				
+kalamang	monyet	0144	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0144	koi	again	other	other				
+kalamang	monyet	0144	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0145	#	#	##	##				
+kalamang	monyet	0145	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0145	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0145	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0145	me	TOP	other	other				
+kalamang	monyet	0146	#	#	##	##				
+kalamang	monyet	0146	kariemun	cape	np:a	np		a	437	bridging
+kalamang	monyet	0146	mu	3PL	pro.d:p	pro	d	p	403	
+kalamang	monyet	0146	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0146	namot	block	v:pred	v		pred		
+kalamang	monyet	0147	#	#	##	##				
+kalamang	monyet	0147	ZERO	ZERO	0.d:a	0	d	a	403	
+kalamang	monyet	0147	kariemun	cape	np:p	np		p	437	
+kalamang	monyet	0147	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0147	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0147	me	TOP	other	other				
+kalamang	monyet	0148	#	#	##	##				
+kalamang	monyet	0148	leki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0148	toni	say	v:pred	v		pred		
+kalamang	monyet	0148	ah	INT	other	other				
+kalamang	monyet	0149	#	#	##	##				
+kalamang	monyet	0149	monyet	monkey	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0149	toni	say	v:pred	v		pred		
+kalamang	monyet	0150	#	#	##ds	##ds				
+kalamang	monyet	0150	ka	2SG	nc	nc				
+kalamang	monyet	0150	me	TOP	nc	nc				
+kalamang	monyet	0150	ah	INT	other	other				
+kalamang	monyet	0151	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0151	me	TOP	other	other				
+kalamang	monyet	0151	or	back	np:pred_l	np		pred_l	415	
+kalamang	monyet	0151	=et	=IRR	=rn	=rn				
+kalamang	monyet	0152	#	#	##ds	##ds				
+kalamang	monyet	0152	an-daet	1SG-again	pro.1:s	pro	1	s	401	
+kalamang	monyet	0152	koi	then	other	other				
+kalamang	monyet	0152	sabar	bow	np:pred_l	np		pred_l	416	
+kalamang	monyet	0152	=et	=IRR	=rn	=rn				
+kalamang	monyet	0153	#	#	##ds	##ds				
+kalamang	monyet	0153	an-daet	1SG-again	pro.1:s	pro	1	s	401	
+kalamang	monyet	0153	sabar	bow	np:pred_l	np		pred_l	416	
+kalamang	monyet	0153	=et	=IRR	=rn	=rn				
+kalamang	monyet	0154	#	#	##	##				
+kalamang	monyet	0154	mindi	like_that	other	other				
+kalamang	monyet	0154	=ta	=NFIN	=other	=other				
+kalamang	monyet	0154	me	TOP	other	other				
+kalamang	monyet	0155	#	#	##	##				
+kalamang	monyet	0155	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0155	he	IAM	other	other				
+kalamang	monyet	0155	koi	then	other	other				
+kalamang	monyet	0155	ra	move_path	lv	lv				
+kalamang	monyet	0155	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0155	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0156	#	#	##	##				
+kalamang	monyet	0156	monyet	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0156	se	IAM	other	other				
+kalamang	monyet	0156	koi	then	other	other				
+kalamang	monyet	0156	bo	go	lv	lv				
+kalamang	monyet	0156	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0156	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0157	#	#	##	##				
+kalamang	monyet	0157	rambu	NC	other	other				
+kalamang	monyet	0157	mindi	like_that	other	other				
+kalamang	monyet	0157	=ta	=NFIN	=other	=other				
+kalamang	monyet	0157	me	TOP	other	other				
+kalamang	monyet	0157	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0157	se	IAM	other	other				
+kalamang	monyet	0157	nanggan	sing	v:pred	v		pred		
+kalamang	monyet	0158	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0159	#	#	##	##				
+kalamang	monyet	0159	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0159	yalyal	paddle	v:pred	v		pred		
+kalamang	monyet	0159	ba	then	other	other				
+kalamang	monyet	0159	#	#	##	##				
+kalamang	monyet	0159	ZERO	ZERO	pro.d:a	pro	d	a	403	
+kalamang	monyet	0159	menyanyi	song	np:p	np		p	417	
+kalamang	monyet	0159	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0159	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0159	paruowaruo	do	v:pred	v		pred		
+kalamang	monyet	0160	#	#	##	##				
+kalamang	monyet	0160	ZERO	ZERO	pro.d:s	pro	d	s	403	
+kalamang	monyet	0160	leng-kodaet	village-one_more	np:g	np		g	439	bridging
+kalamang	monyet	0160	koi	then	other	other				
+kalamang	monyet	0160	ra	move_path	v:pred	v		pred		
+kalamang	monyet	0160	me	TOP	other	other				
+kalamang	monyet	0160	#	#	##	##				
+kalamang	monyet	0160	mu	3PL	pro.h:s	pro	h	s	440	bridging
+kalamang	monyet	0160	he	IAM	other	other				
+kalamang	monyet	0160	koi	then	other	other				
+kalamang	monyet	0160	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0160	eh	QUOT	other	other				
+kalamang	monyet	0161	#	#	##ds	##ds				
+kalamang	monyet	0161	eih	hey	other	other				
+kalamang	monyet	0161	yaki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0161	dari	from	other	other				
+kalamang	monyet	0161	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0162	#	#	##	##				
+kalamang	monyet	0162	mindi	like_that	other	other				
+kalamang	monyet	0162	=ta	=NFIN	=other	=other				
+kalamang	monyet	0162	me	TOP	other	other				
+kalamang	monyet	0163	kusikusi	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0163	toni	say	v:pred	v		pred		
+kalamang	monyet	0163	#	#	##ds	##ds				
+kalamang	monyet	0163	oh	INTJ	other	other				
+kalamang	monyet	0163	yaki	monkey	np.d:a	np	d	a	401	
+kalamang	monyet	0163	dari	from	rn	rn				
+kalamang	monyet	0163	banda	Banda	rn_pn_np	rn_pn_np			414	
+kalamang	monyet	0164	jual	sell	v:pred	v		pred		
+kalamang	monyet	0164	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0164	#	#	##ds	##ds				
+kalamang	monyet	0164	satu	one	ln	ln				
+kalamang	monyet	0164	ikat	bundle	np:s	np		s	405	
+kalamang	monyet	0164	sepuluh	ten	lv	lv				
+kalamang	monyet	0164	sen	cent	np:pred	np		pred		
+kalamang	monyet	0165	#	#	##ds	##ds				
+kalamang	monyet	0165	o	EMPH	other	other				
+kalamang	monyet	0165	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0165	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0165	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0165	masara	move_towards_land	rv	rv				
+kalamang	monyet	0166	#	#	##ds	##ds				
+kalamang	monyet	0166	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0166	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0166	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0166	masara	move_towards_land	rv	rv				
+kalamang	monyet	0166	ba	then	other	other				
+kalamang	monyet	0166	#	#	##ds	##ds				
+kalamang	monyet	0166	in	1PL.EXCL	pro.1:a	pro	1	a	440	
+kalamang	monyet	0166	ZERO	ZERO	np:p	np		p	404	
+kalamang	monyet	0166	jie-r	buy-T	v:pred	v		pred		
+kalamang	monyet	0166	=et	=IRR	=rv	=rv				
+kalamang	monyet	0167	#	#	##	##				
+kalamang	monyet	0167	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0167	he	IAM	other	other				
+kalamang	monyet	0167	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0168	#	#	##	##				
+kalamang	monyet	0168	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0168	yal	paddle	lv	lv				
+kalamang	monyet	0168	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0168	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0169	#	#	##	##				
+kalamang	monyet	0169	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0169	yal	paddle	lv	lv				
+kalamang	monyet	0169	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0169	mara-n	move_towards_land-N	v:pred	v		pred		
+kalamang	monyet	0169	mara-n	move_towards_land-N	nc	nc				
+kalamang	monyet	0169	bo	go	rv	rv				
+kalamang	monyet	0169	narur	run_aground	rv	rv				
+kalamang	monyet	0169	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0170	#	#	##	##				
+kalamang	monyet	0170	mera	then	other	other				
+kalamang	monyet	0170	me	TOP	other	other				
+kalamang	monyet	0170	pebis	woman	np.h:s	np	h	s	440	
+kalamang	monyet	0170	opa	ANA	other	other				
+kalamang	monyet	0170	he	IAM	other	other				
+kalamang	monyet	0170	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0171	#	#	##	##				
+kalamang	monyet	0171	pebis	woman	np.h:s	np	h	s		
+kalamang	monyet	0171	opa	ANA	rn	rn				
+kalamang	monyet	0171	ma	3SG	pro:assoc	pro		assoc		
+kalamang	monyet	0171	kai-jie-t	firewood-buy-T	v:pred	v		pred		
+kalamang	monyet	0171	=kin	=VOL	=rv	=rv				
+kalamang	monyet	0171	opa	earlier	other	other				
+kalamang	monyet	0171	#	#	##	##				
+kalamang	monyet	0171	ma	3SG	np.d:s	np	d	s		
+kalamang	monyet	0172	marua	move_towards_sea	lv	lv				
+kalamang	monyet	0172	kome-t	see-T	v:pred	v		pred		
+kalamang	monyet	0172	eh	QUOT	other	other				
+kalamang	monyet	0173	#	#	##ds	##ds				
+kalamang	monyet	0173	labai	better	other	other				
+kalamang	monyet	0174	or-kado	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0174	=a	=FOC	=rn	=rn				
+kalamang	monyet	0174	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0175	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0175	sabar-kado	bow-side	np.d:p	np	d	p	401	
+kalamang	monyet	0175	=a	=FOC	=rn	=rn				
+kalamang	monyet	0175	pi-mun	1PL.INCL-PROH	pro.1:a	pro	1	a	440	
+kalamang	monyet	0175	kasur	make_love	v:pred	v		pred		
+kalamang	monyet	0175	=in	=PROH	=rv	=rv				
+kalamang	monyet	0175	eh	INTJ	other	other				
+kalamang	monyet	0176	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0176	ma	3SG	nc	nc				
+kalamang	monyet	0176	ki-mun	2PL-PROH	pro.1:a	pro	1	a	440	
+kalamang	monyet	0176	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0176	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0176	lo	like	v:pred	v		pred		
+kalamang	monyet	0176	=in	=PROH	=rv	=rv				
+kalamang	monyet	0176	#	#	##ds	##ds				
+kalamang	monyet	0176	ZERO	ZERO	pro.d:s	pro	d	s	401	
+kalamang	monyet	0176	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0176	=sawet	=too	=rv	=rv				
+kalamang	monyet	0177	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0177	ki-mun	2PL-PROH	pro.1:a	pro	1	a	440	
+kalamang	monyet	0177	lo	like	v:pred	v		pred		
+kalamang	monyet	0177	=in	=PROH	=rv	=rv				
+kalamang	monyet	0177	sabar-kadok	bow-side	np.d:p	np	d	p	401	
+kalamang	monyet	0178	#	#	##ds	##ds				
+kalamang	monyet	0178	or-kado	back-side	np.d:s	np	d	s	402	
+kalamang	monyet	0178	=a	=FOC	=rn	=rn				
+kalamang	monyet	0178	bes	good	v:pred	v		pred		
+kalamang	monyet	0179	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0179	kaden	body	np:s	np		s	441	bridging
+kalamang	monyet	0179	me	TOP	other	other				
+kalamang	monyet	0179	pin	1PL.INCL.POSS	pro.1:obl	pro	1	obl	440	
+kalamang	monyet	0179	=bon	=COM	=rn	=rn				
+kalamang	monyet	0179	sama	same	v:pred	v		pred		
+kalamang	monyet	0179	=nin	=NEG	=rv	=rv				
+kalamang	monyet	0179	#	#	##ds	##ds				
+kalamang	monyet	0179	main	3SG.POSS	pro.d:s	pro	d	s	441	
+kalamang	monyet	0179	sabar-kadok	bow-side	rn	rn				
+kalamang	monyet	0179	talalu	too	lv	lv				
+kalamang	monyet	0179	kuska-un	black-NC	v:pred	v		pred		
+kalamang	monyet	0179	wandi	like_this	other	other				
+kalamang	monyet	0180	#	#	##	##				
+kalamang	monyet	0180	ah	INT	other	other				
+kalamang	monyet	0181	mindi	like_that	other	other				
+kalamang	monyet	0181	=ta	=NFIN	=other	=other				
+kalamang	monyet	0181	me	TOP	other	other				
+kalamang	monyet	0182	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0182	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0182	me	TOP	other	other				
+kalamang	monyet	0183	#	#	##	##				
+kalamang	monyet	0183	mier	3DU	pro.d:a	pro	d	a	403	
+kalamang	monyet	0183	se	IAM	other	other				
+kalamang	monyet	0184	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0184	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0184	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0184	neba	PLH	lv	lv				
+kalamang	monyet	0184	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0184	koyer	finish	v:pred	v		pred		
+kalamang	monyet	0184	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0184	me	TOP	other	other				
+kalamang	monyet	0185	#	#	##	##				
+kalamang	monyet	0185	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0185	he	IAM	other	other				
+kalamang	monyet	0185	koi	then	other	other				
+kalamang	monyet	0185	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0186	#	#	##	##				
+kalamang	monyet	0186	leki	monkey	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0186	toni	say	v:pred	v		pred		
+kalamang	monyet	0187	#	#	##	##				
+kalamang	monyet	0187	monyet	monkey	np.d:s_ds	np	d	s_ds		
+kalamang	monyet	0187	toni	say	v:pred	v		pred		
+kalamang	monyet	0187	ah	INT	other	other				
+kalamang	monyet	0188	#	#	##ds	##ds				
+kalamang	monyet	0188	ZERO	ZERO	0.2:s	0	2	s	402	
+kalamang	monyet	0188	mia	come	v:pred	v		pred		
+kalamang	monyet	0188	#	#	##ds	##ds				
+kalamang	monyet	0188	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0188	bo	go	lv	lv				
+kalamang	monyet	0188	sabar	bow	np:pred_g	np		pred_g		
+kalamang	monyet	0188	=et	=IRR	=rn	=rn				
+kalamang	monyet	0189	#	#	##ds	##ds				
+kalamang	monyet	0189	ka-raet	2SG-more	nc	nc				
+kalamang	monyet	0189	ka-raet	2SG-more	pro.2:s	pro	2	s	402	
+kalamang	monyet	0189	bo	go	lv	lv				
+kalamang	monyet	0189	or	back	np:pred_g	np		pred_g		
+kalamang	monyet	0189	=ko	=LOC	=rv	=rv				
+kalamang	monyet	0190	#	#	##	##				
+kalamang	monyet	0190	mindi	like_that	other	other				
+kalamang	monyet	0190	=ta	=NFIN	=other	=other				
+kalamang	monyet	0190	me	TOP	other	other				
+kalamang	monyet	0191	neba	PLH	other	other				
+kalamang	monyet	0191	kusukusu	cuscus	np.d:s	np	d	s	402	
+kalamang	monyet	0191	he	IAM	other	other				
+kalamang	monyet	0192	narasa	taste	v:pred	v		pred		
+kalamang	monyet	0192	pusing	bothered	rv	rv				
+kalamang	monyet	0193	#	#	##	##				
+kalamang	monyet	0193	ma	3SG	pro.d:s	pro	d	s	402	
+kalamang	monyet	0193	he	IAM	other	other				
+kalamang	monyet	0193	jabul	be_lazy	v:pred	v		pred		
+kalamang	monyet	0193	#	#	##	##				
+kalamang	monyet	0193	abis	NC	other	other				
+kalamang	monyet	0193	ma	3SG	pro.d:s	pro	d	s		
+kalamang	monyet	0193	bo	go	lv	lv				
+kalamang	monyet	0193	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0193	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0193	=et	=IRR	=rn	=rn				
+kalamang	monyet	0193	#	#	##	##				
+kalamang	monyet	0193	leng	village	np:l	np		l		
+kalamang	monyet	0193	kon	one	rn	rn				
+kalamang	monyet	0193	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0193	=et	=IRR	=rn	=rn				
+kalamang	monyet	0193	ma	3SG	pro.d:s	pro	d	s	402	
+kalamang	monyet	0193	bo	go	lv	lv				
+kalamang	monyet	0193	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0193	=ko	=LOC	=rv	=rv				
+kalamang	monyet	0193	=et	=IRR	=rn	=rn				
+kalamang	monyet	0194	#	#	##	##				
+kalamang	monyet	0194	leng	village	np:l	np		l		
+kalamang	monyet	0194	kon	one	rn	rn				
+kalamang	monyet	0194	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0194	=et	=IRR	=rn	=rn				
+kalamang	monyet	0194	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0194	bo	go	lv	lv				
+kalamang	monyet	0194	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0194	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0194	=et	=IRR	=rn	=rn				
+kalamang	monyet	0195	#	#	##	##				
+kalamang	monyet	0195	kusukusu	cuscus	np.d:s	np	d	s	402	
+kalamang	monyet	0195	he	IAM	other	other				
+kalamang	monyet	0195	jabul	be_lazy	v:pred	v		pred		
+kalamang	monyet	0196	#	#	##	##				
+kalamang	monyet	0196	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0196	he	IAM	other	other				
+kalamang	monyet	0196	mindi	like_that	other	other				
+kalamang	monyet	0196	yal	paddle	lv	lv				
+kalamang	monyet	0196	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0196	ra	move_path	v:pred	v		pred		
+kalamang	monyet	0196	me	TOP	other	other				
+kalamang	monyet	0197	leng	village	np:g	np		g	443	new
+kalamang	monyet	0197	kodaet	one_more	rn	rn				
+kalamang	monyet	0197	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0198	#	#	#	#				
+kalamang	monyet	0198	ma	3SG	pro.d:s_ds	pro	d	s_ds	422	
+kalamang	monyet	0198	min	throat	np:l	np		l	444	bridging
+kalamang	monyet	0198	nerunggo	inside	rn	rn				
+kalamang	monyet	0198	toni	think	v:pred	v		pred		
+kalamang	monyet	0198	#	#	#nc	#nc				
+kalamang	monyet	0198	ma	3SG	nc_pro.d	nc_pro	d		402	
+kalamang	monyet	0198	ma	3SG	nc_pro.d	nc_pro	d		401	
+kalamang	monyet	0198	=at	=OBJ	nc	nc				
+kalamang	monyet	0198	mena	later	nc	nc				
+kalamang	monyet	0199	#	#	##	##				
+kalamang	monyet	0199	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0199	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0199	me	TOP	other	other				
+kalamang	monyet	0200	#	#	##	##				
+kalamang	monyet	0200	mu	3PL	pro.d:a	pro	d	a	403	
+kalamang	monyet	0200	he	IAM	other	other				
+kalamang	monyet	0200	kariemun	cape	np:p	np		p	445	bridging
+kalamang	monyet	0200	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0200	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0200	#	#	##	##				
+kalamang	monyet	0200	ma	3SG	pro.d:a	pro	d	a	401	
+kalamang	monyet	0200	nyanyi	song	np:p	np		p	417	
+kalamang	monyet	0200	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0200	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0200	paruo	do	v:pred	v		pred		
+kalamang	monyet	0201	linglonglinglonglinglong	NC	nc	nc				
+kalamang	monyet	0202	#	#	##	##				
+kalamang	monyet	0202	mu	3PL	pro.h:s_ds	pro	h	s_ds	446	bridging
+kalamang	monyet	0202	toni	say	v:pred	v		pred		
+kalamang	monyet	0202	#	#	##ds	##ds				
+kalamang	monyet	0202	eih	hey	other	other				
+kalamang	monyet	0202	yaki	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0202	dari	from	other	other				
+kalamang	monyet	0202	mana	where	other:pred_obl	other		pred_obl		
+kalamang	monyet	0203	#	#	##ds	##ds				
+kalamang	monyet	0203	o	oh	other	other				
+kalamang	monyet	0203	yaki	monkey	np.d:a	np	d	a	401	
+kalamang	monyet	0203	dari	from	rn	rn				
+kalamang	monyet	0203	banda	Banda	rn_pn_np	rn_pn_np			414	
+kalamang	monyet	0203	jual	sell	v:pred	v		pred		
+kalamang	monyet	0203	kayu	wood	np:p	np		p	404	
+kalamang	monyet	0204	#	#	##ds	##ds				
+kalamang	monyet	0204	satu	one	ln	ln				
+kalamang	monyet	0204	ikat	bundle	np:s	np		s	405	
+kalamang	monyet	0204	sepuluh	ten	lv	lv				
+kalamang	monyet	0204	sen	cent	np:pred	np		pred		
+kalamang	monyet	0204	#	#	##ds	##ds				
+kalamang	monyet	0204	eih	INT.E	other	other				
+kalamang	monyet	0204	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0204	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0204	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0204	masara	move_towards_land	rv	rv				
+kalamang	monyet	0205	#	#	##ds	##ds				
+kalamang	monyet	0205	ZERO	ZERO	0.2:a	0	2	a	403	
+kalamang	monyet	0205	ZERO	ZERO	0:p	0		p	404	
+kalamang	monyet	0205	masara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0205	#	#	##ds	##ds				
+kalamang	monyet	0205	in	1PL.EXCL	pro.1:a	pro	1	a	446	
+kalamang	monyet	0205	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0205	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0205	jie-r	buy-T	v:pred	v		pred		
+kalamang	monyet	0205	=et	=IRR	=rv	=rv				
+kalamang	monyet	0206	#	#	##	##				
+kalamang	monyet	0206	mu	3PL	pro.d:s	pro	d	s	403	
+kalamang	monyet	0206	yal	paddle	lv	lv				
+kalamang	monyet	0206	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0206	mara	move_towards_land	lv	lv				
+kalamang	monyet	0206	narurik	run_aground	v:pred	v		pred		
+kalamang	monyet	0207	#	#	##	##				
+kalamang	monyet	0207	ZERO	ZERO	0.h:s	0	h	s	446	
+kalamang	monyet	0207	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0207	me	TOP	other	other				
+kalamang	monyet	0207	#	#	##	##				
+kalamang	monyet	0207	mu	3PL	pro.h:s_ds	pro	h	s_ds	446	
+kalamang	monyet	0207	he	IAM	other	other				
+kalamang	monyet	0207	koi	then	other	other				
+kalamang	monyet	0207	eh	QUOT	other:pred	other		pred		
+kalamang	monyet	0208	#	#	##ds	##ds				
+kalamang	monyet	0208	sabar-kadok	bow-side	np.d:s	np	d	s	401	
+kalamang	monyet	0208	me	TOP	other	other				
+kalamang	monyet	0208	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0208	=sawet	=too	=rv	=rv				
+kalamang	monyet	0209	#	#	##ds	##ds				
+kalamang	monyet	0209	or-kadok	bow-side	np.d:s	np	d	s	402	
+kalamang	monyet	0209	=a	=FOC	=rn	=rn				
+kalamang	monyet	0209	bes	good	v:pred	v		pred		
+kalamang	monyet	0209	iren	white	rv	rv				
+kalamang	monyet	0209	#	#	##	##				
+kalamang	monyet	0209	iren	ripe	np:s	np		s	447	bridging
+kalamang	monyet	0209	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	402	
+kalamang	monyet	0209	rasa	like	v:pred	v		pred		
+kalamang	monyet	0210	#	#	##	##				
+kalamang	monyet	0210	mindi	like_that	other	other				
+kalamang	monyet	0210	=ta	=NFIN	=other	=other				
+kalamang	monyet	0210	me	TOP	other	other				
+kalamang	monyet	0211	mu	3PL	pro.h:a	pro	h	a	446	
+kalamang	monyet	0211	he	IAM	other	other				
+kalamang	monyet	0211	kai	firewood	np:p	np		p	404	
+kalamang	monyet	0211	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	403	
+kalamang	monyet	0211	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0211	newer	pay	lv	lv				
+kalamang	monyet	0211	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0211	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0212	#	#	#nc	#nc				
+kalamang	monyet	0212	me	TOP	nc	nc				
+kalamang	monyet	0212	he	IAM	nc	nc				
+kalamang	monyet	0212	neba	PLH	nc	nc				
+kalamang	monyet	0212	menggata	what	nc	nc				
+kalamang	monyet	0212	me	TOP	nc	nc				
+kalamang	monyet	0212	ah	INT	nc	nc				
+kalamang	monyet	0212	#	#	##	##				
+kalamang	monyet	0212	ma	3SG	pro.d:s_ds	pro	d	s_ds	401	
+kalamang	monyet	0212	he	IAM	other	other				
+kalamang	monyet	0212	gerket	ask	v:pred	v		pred		
+kalamang	monyet	0213	#	#	##	##				
+kalamang	monyet	0213	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0213	se	IAM	other	other				
+kalamang	monyet	0213	yal	paddle	v:pred	v		pred		
+kalamang	monyet	0213	=kin-da	=VOL-NFIN	=rv	=rv				
+kalamang	monyet	0213	#	#	##	##				
+kalamang	monyet	0213	ma	3SG	pro.d:s_ds	pro	d	s_ds	401	
+kalamang	monyet	0213	he	IAM	other	other				
+kalamang	monyet	0213	gerket	ask	v:pred	v		pred		
+kalamang	monyet	0214	#	#	##ds	##ds				
+kalamang	monyet	0214	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0214	tamandi	how	lv	lv				
+kalamang	monyet	0214	=a	=FOC	=lv	=lv				
+kalamang	monyet	0214	paruo	do	v:pred	v		pred		
+kalamang	monyet	0214	#	#	##ds	##ds				
+kalamang	monyet	0214	kaden	body	np:s	np		s	433	
+kalamang	monyet	0214	-ja	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	402	
+kalamang	monyet	0214	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0214	#	#	##ds	##ds				
+kalamang	monyet	0214	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0214	me	TOP	other	other				
+kalamang	monyet	0214	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0215	#	#	##ds	##ds				
+kalamang	monyet	0215	o	EMPH	other	other				
+kalamang	monyet	0215	bes	good	other	other				
+kalamang	monyet	0215	mena	later	other	other				
+kalamang	monyet	0215	an	1SG	pro.1:a	pro	1	a	402	
+kalamang	monyet	0215	ka	2SG	pro.2:p	pro	2	p	401	
+kalamang	monyet	0215	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0215	nauna	show	v:pred	v		pred		
+kalamang	monyet	0215	=et	=IRR	=rv	=rv				
+kalamang	monyet	0216	#	#	##ds	##ds				
+kalamang	monyet	0216	ZERO	ZERO	0:s	0		s	448	bridging
+kalamang	monyet	0216	gampang	easy	v:pred	v		pred		
+kalamang	monyet	0216	#	#	##ds	##ds				
+kalamang	monyet	0216	me	DIST	dem_pro:s	dem_pro		s	448	
+kalamang	monyet	0216	me	TOP	other	other				
+kalamang	monyet	0216	kai	medicine	np:pred	np		pred	449	new
+kalamang	monyet	0216	-un	-3POSS	-rn_pro:poss	-rn_pro		poss		
+kalamang	monyet	0216	me	TOP	other	other				
+kalamang	monyet	0217	#	#	##	##				
+kalamang	monyet	0217	mindi	like_that	other	other				
+kalamang	monyet	0217	=ta	=NFIN	=other	=other				
+kalamang	monyet	0217	me	TOP	other	other				
+kalamang	monyet	0217	mier	3DU	pro.d:a	pro	d	a	403	
+kalamang	monyet	0217	se	IAM	other	other				
+kalamang	monyet	0217	yal	paddle	lv	lv				
+kalamang	monyet	0217	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0217	ra	move_path	lv	lv				
+kalamang	monyet	0217	kariemun	cape	np:p	np		p	450	new
+kalamang	monyet	0217	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0217	kuang-da	pass-NFIN	v:pred	v		pred		
+kalamang	monyet	0217	me	TOP	other	other				
+kalamang	monyet	0218	#	#	##	##				
+kalamang	monyet	0218	neba	PLH	nc	nc				
+kalamang	monyet	0218	he	IAM	nc	nc				
+kalamang	monyet	0218	kusukusu	cuscus	np.d:s	np	d	s	402	
+kalamang	monyet	0218	he	IAM	other	other				
+kalamang	monyet	0218	jabul	be_lazy	v:pred	v		pred		
+kalamang	monyet	0218	to	right	other	other				
+kalamang	monyet	0219	#	#	##	##				
+kalamang	monyet	0219	ma	3SG	pro.d:s	pro	d	s	402	
+kalamang	monyet	0219	abis	NC	other	other				
+kalamang	monyet	0219	bo	go	lv	lv				
+kalamang	monyet	0219	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0219	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0219	=et	=IRR	=rn	=rn				
+kalamang	monyet	0219	#	#	##	##				
+kalamang	monyet	0219	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0219	bo	go	lv	lv				
+kalamang	monyet	0219	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0219	=ka	=LAT	=rv	=rv				
+kalamang	monyet	0219	=et	=IRR	=rn	=rn				
+kalamang	monyet	0219	#	#	##	##				
+kalamang	monyet	0219	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0219	bo	go	lv	lv				
+kalamang	monyet	0219	or	back	np:pred_g	np		pred_g	415	
+kalamang	monyet	0219	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0219	=et	=IRR	=rn	=rn				
+kalamang	monyet	0219	#	#	##	##				
+kalamang	monyet	0219	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0219	bo	go	lv	lv				
+kalamang	monyet	0219	sabar	bow	np:pred_g	np		pred_g	416	
+kalamang	monyet	0219	#	#	##	##				
+kalamang	monyet	0219	ZERO	ZERO	0.d:a	0	d	a	401	
+kalamang	monyet	0219	mauta-ar	3SG.alone-OBJ	pro.d:p	pro	d	p	402	
+kalamang	monyet	0219	=a	=FOC	=rn	=rn				
+kalamang	monyet	0219	me	TOP	other	other				
+kalamang	monyet	0219	taruoraruo	say	v:pred	v		pred		
+kalamang	monyet	0220	#	#	#nc	#nc				
+kalamang	monyet	0220	mindi	like_that	nc	nc				
+kalamang	monyet	0220	=ta	=NFIN	nc	nc				
+kalamang	monyet	0220	me	TOP	nc	nc				
+kalamang	monyet	0220	monyet	monkey	nc_np.d	nc_np	d		401	
+kalamang	monyet	0221	#	#	##ds	##ds				
+kalamang	monyet	0221	ZERO	ZERO	0.2:s	0	2	s	402	
+kalamang	monyet	0221	tamandi	how	lv	lv				
+kalamang	monyet	0221	=a	=FOC	=lv	=lv				
+kalamang	monyet	0221	paruo	do	v:pred	v		pred		
+kalamang	monyet	0221	#	#	##ds	##ds				
+kalamang	monyet	0221	ka	2SG	pro.2:s	pro	2	s	402	
+kalamang	monyet	0221	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0221	=et	=IRR	=rv	=rv				
+kalamang	monyet	0221	o	EMPH	other	other				
+kalamang	monyet	0222	#	#	##ds	##ds				
+kalamang	monyet	0222	pier	1DU.INCL	pro.1:s	pro	1	s	403	
+kalamang	monyet	0222	ra	move_path	lv	lv				
+kalamang	monyet	0223	bo	go	lv	lv				
+kalamang	monyet	0224	nain	like	other	other				
+kalamang	monyet	0224	tarus	Tarus	pn_np:g	pn_np		g	411	
+kalamang	monyet	0224	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0224	mara-r	move_towards_land-T	v:pred	v		pred		
+kalamang	monyet	0224	=et	=IRR	=rv	=rv				
+kalamang	monyet	0225	#	#	##	##				
+kalamang	monyet	0225	warkin	tide	np:s	np		s	451	bridging
+kalamang	monyet	0225	o	EMPH	other	other				
+kalamang	monyet	0225	kararak	dry	v:pred	v		pred		
+kalamang	monyet	0226	#	#	##	##				
+kalamang	monyet	0226	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0226	tarus	Tarus	pn_np:g	pn_np		g	411	
+kalamang	monyet	0226	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0226	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0226	ba	then	other	other				
+kalamang	monyet	0227	#	#	##ds	##ds				
+kalamang	monyet	0227	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0227	era	move_up	lv	lv				
+kalamang	monyet	0227	ror	tree	np:p	np		p	452	new
+kalamang	monyet	0227	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0227	kon-i	one-QNT.OBJ	rn	rn				
+kalamang	monyet	0227	arkon-i	CLF.stem.one-QNT.OBJ	rn	rn				
+kalamang	monyet	0227	potmei	cut	v:pred	v		pred		
+kalamang	monyet	0228	ah	INT	other	other				
+kalamang	monyet	0229	karek	string	rn_np	rn_np			453	new
+kalamang	monyet	0229	=bon	=COM	=rn	=rn				
+kalamang	monyet	0230	#	#	##ds	##ds				
+kalamang	monyet	0230	eh	INT.E	other	other				
+kalamang	monyet	0230	me	DIST	other	other				
+kalamang	monyet	0230	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0230	me	TOP	other	other				
+kalamang	monyet	0230	mena	later	other	other				
+kalamang	monyet	0230	ka	2SG	pro.2:s	pro	2	s	401	
+kalamang	monyet	0230	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0230	#	#	##	##				
+kalamang	monyet	0230	ZERO	ZERO	0.1:a	0	1	a	402	
+kalamang	monyet	0230	ka	2SG	pro.2:p	pro	2	p	401	
+kalamang	monyet	0230	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0230	paruo	make	v:pred	v		pred		
+kalamang	monyet	0231	#	#	##ds	##ds				
+kalamang	monyet	0231	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0231	me	TOP	other	other				
+kalamang	monyet	0231	sama	same	lv	lv				
+kalamang	monyet	0231	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0231	nain	like	other	other				
+kalamang	monyet	0231	an	1SG	pro.1:pred	pro	1	pred	402	
+kalamang	monyet	0231	=kap	=SIM	=rv	=rv				
+kalamang	monyet	0232	#	#	##ds	##ds				
+kalamang	monyet	0232	an-nan	1SG-too	pro.1:s	pro	1	s	402	
+kalamang	monyet	0232	mindi	like_that	other:pred	other		pred		
+kalamang	monyet	0232	to	right	other	other				
+kalamang	monyet	0232	#	#	##ds	##ds				
+kalamang	monyet	0232	an	1SG	pro.1:s	pro	1	s		
+kalamang	monyet	0232	iren-den	ripe-TEN	v:pred	v		pred		
+kalamang	monyet	0232	#	#	#nc	#nc				
+kalamang	monyet	0232	yuo	yes	nc	nc				
+kalamang	monyet	0233	#	#	##	##				
+kalamang	monyet	0233	mindi	like_that	other	other				
+kalamang	monyet	0233	=ta	=NFIN	=other	=other				
+kalamang	monyet	0233	me	TOP	other	other				
+kalamang	monyet	0233	mier	3DU	pro.d:s	pro	d	s	403	
+kalamang	monyet	0233	se	IAM	other	other				
+kalamang	monyet	0233	owangga	F.DIST.LAT	dem_pro:g	dem_pro		g		
+kalamang	monyet	0233	yal	paddle	lv	lv				
+kalamang	monyet	0233	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0233	bara	descend	v:pred	v		pred		
+kalamang	monyet	0234	#	#	##	##				
+kalamang	monyet	0234	ZERO	ZERO	0.d:s	0	d	s	403	
+kalamang	monyet	0234	asun	edge	np:g	np		g	454	bridging
+kalamang	monyet	0234	me	TOP	rn	rn				
+kalamang	monyet	0234	tarus	Tarus	rn_pn_np	rn_pn_np			411	
+kalamang	monyet	0234	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0234	ra	move_path	v:pred	v		pred		
+kalamang	monyet	0234	me	TOP	other	other				
+kalamang	monyet	0235	#	#	##	##				
+kalamang	monyet	0235	ZERO	ZERO	0:s	0		s	407	
+kalamang	monyet	0235	he	IAM	other	other				
+kalamang	monyet	0235	ma	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0235	narur	run_aground	rv	rv				
+kalamang	monyet	0235	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0235	#	#	#nc	#nc				
+kalamang	monyet	0235	mindi	like_that	nc	nc				
+kalamang	monyet	0235	=ta	=NFIN	nc	nc				
+kalamang	monyet	0235	me	TOP	nc	nc				
+kalamang	monyet	0235	monyet	monkey	nc_np.d	nc_np	d		401	
+kalamang	monyet	0236	ma	3SG	pro.d:s_ds	pro	d	s_ds	402	
+kalamang	monyet	0236	se	IAM	other	other				
+kalamang	monyet	0236	eh	QUOT	other:pred	other		pred		
+kalamang	monyet	0236	#	#	##ds	##ds				
+kalamang	monyet	0236	monyet	monkey	np:s	np		s	401	
+kalamang	monyet	0236	era	move_up	v:pred	v		pred		
+kalamang	monyet	0236	#	#	##	##				
+kalamang	monyet	0236	ka	2SG	pro.2:a	pro	2	a	401	
+kalamang	monyet	0236	neba	PLH	np:p	np		p	455	bridging
+kalamang	monyet	0236	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0236	era	move_up	lv	lv				
+kalamang	monyet	0236	potmei	cut	v:pred	v		pred		
+kalamang	monyet	0236	ror	tree	np:other	np		other	452	
+kalamang	monyet	0236	arkon	CLF.stem.one	rn	rn				
+kalamang	monyet	0236	=bon	=COM	=rn	=rn				
+kalamang	monyet	0236	karek	rope	rn_np	rn_np			453	
+kalamang	monyet	0236	=bon	=COM	=rn	=rn				
+kalamang	monyet	0237	#	#	##	##				
+kalamang	monyet	0237	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0237	he	IAM	other	other				
+kalamang	monyet	0237	sedawak	machete	np:obl	np		obl	456	new
+kalamang	monyet	0237	=bon	=COM	=rn	=rn				
+kalamang	monyet	0237	era	move_up	v:pred	v		pred		
+kalamang	monyet	0237	#	#	##	##				
+kalamang	monyet	0237	ZERO	ZERO	0.d:a	0	d	a	401	
+kalamang	monyet	0237	ZERO	ZERO	0:p	0		p	455	
+kalamang	monyet	0237	potma-n	cut-N	lv	lv				
+kalamang	monyet	0237	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0237	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0237	#	#	##	##				
+kalamang	monyet	0237	ZERO	ZERO	0.d:a	0	d	a	401	
+kalamang	monyet	0237	he	IAM	other	other				
+kalamang	monyet	0237	ZERO	ZERO	0:p	0		p	452	
+kalamang	monyet	0237	sarua	scrape	v:pred	v		pred		
+kalamang	monyet	0238	#	#	##	##				
+kalamang	monyet	0238	ZERO	ZERO	0.d:a	0	d	a	401	
+kalamang	monyet	0238	ZERO	ZERO	0:p	0		p	452	
+kalamang	monyet	0238	sarua	scrape	lv	lv				
+kalamang	monyet	0238	bo	until	lv	lv				
+kalamang	monyet	0238	belbel	sharp	v:pred	v		pred		
+kalamang	monyet	0238	#	#	##	##				
+kalamang	monyet	0238	ma	3SG	pro.d:a	pro	d	a	401	
+kalamang	monyet	0238	he	IAM	other	other				
+kalamang	monyet	0238	ZERO	ZERO	0:p	0		p	455	
+kalamang	monyet	0238	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0238	marua	move_towards_sea	rv	rv				
+kalamang	monyet	0239	#	#	##	##				
+kalamang	monyet	0239	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0239	kararak	dry	v:pred	v		pred		
+kalamang	monyet	0239	=te	=NFIN	=rv	=rv				
+kalamang	monyet	0239	#	#	##	##				
+kalamang	monyet	0239	ma	3SG	pro.d:a	pro	d	a	402	
+kalamang	monyet	0239	he	IAM	other	other				
+kalamang	monyet	0239	ZERO	ZERO	0:p	0		p	452	
+kalamang	monyet	0239	kuru	bring	v:pred	v		pred		
+kalamang	monyet	0239	marua	move_towards_sea	rv	rv				
+kalamang	monyet	0239	wilak	sea	np:g	np		g		
+kalamang	monyet	0239	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0239	usar	erect	rv	rv				
+kalamang	monyet	0240	#	#	##	##				
+kalamang	monyet	0240	ZERO	ZERO	0.d:a	0	d	a	402	
+kalamang	monyet	0240	ZERO	ZERO	0:p	0		p	452	
+kalamang	monyet	0240	mu	rock	v:pred	v		pred		
+kalamang	monyet	0240	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0240	mu	rock	nc	nc				
+kalamang	monyet	0240	=i	=PLNK	nc	nc				
+kalamang	monyet	0240	mu	rock	nc	nc				
+kalamang	monyet	0240	=i	=PLNK	nc	nc				
+kalamang	monyet	0240	#	#	##	##				
+kalamang	monyet	0240	ma	3SG	pro:s	pro		s	452	
+kalamang	monyet	0240	he	IAM	other	other				
+kalamang	monyet	0240	karan	deep	v:pred	v		pred		
+kalamang	monyet	0241	#	#	##	##				
+kalamang	monyet	0241	ZERO	ZERO	0:s	0		s	452	
+kalamang	monyet	0241	karan-da	deep-NFIN	v:pred	v		pred		
+kalamang	monyet	0241	me	TOP	other	other				
+kalamang	monyet	0242	#	#	#	#				
+kalamang	monyet	0242	kusikusi	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0242	toni	say	v:pred	v		pred		
+kalamang	monyet	0242	#	#	##ds	##ds				
+kalamang	monyet	0242	hei	hey	other	other				
+kalamang	monyet	0242	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0242	maru	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0243	#	#	##ds	##ds				
+kalamang	monyet	0243	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0243	maru	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0243	#	#	##ds	##ds				
+kalamang	monyet	0243	mena	later	other	other				
+kalamang	monyet	0243	an	1SG	pro.1:s	pro	1	s	402	
+kalamang	monyet	0243	paruo	make	v:pred	v		pred		
+kalamang	monyet	0243	#	#	##ds	##ds				
+kalamang	monyet	0243	ka	2SG	pro.2:s	pro	2	s	401	
+kalamang	monyet	0243	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0244	#	#	##	##				
+kalamang	monyet	0244	monyet	monkey	np.d:s	np	d	s	401	
+kalamang	monyet	0244	se	IAM	other	other				
+kalamang	monyet	0244	marua	move_seawards	v:pred	v		pred		
+kalamang	monyet	0245	#	#	##	##				
+kalamang	monyet	0245	ZERO	ZERO	0.d:s	0	d	s	401	
+kalamang	monyet	0245	marmar	walk	lv	lv				
+kalamang	monyet	0245	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0245	marua	move_towards_sea	v:pred	v		pred		
+kalamang	monyet	0245	me	TOP	other	other				
+kalamang	monyet	0246	#	#	##ds	##ds				
+kalamang	monyet	0246	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0246	watko	PROX.LOC	np:l	np		l		
+kalamang	monyet	0246	mambarei	stand	v:pred	v		pred		
+kalamang	monyet	0247	#	#	#	#				
+kalamang	monyet	0247	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0247	he	IAM	other	other				
+kalamang	monyet	0247	usar	erect	np:l	np		l	457	bridging
+kalamang	monyet	0247	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0247	mambara-n	stand-N	v:pred	v		pred		
+kalamang	monyet	0248	#	#	##	##				
+kalamang	monyet	0248	ZERO	ZERO	0.d:s	0	d	s	402	
+kalamang	monyet	0248	usar	erect	nc	nc				
+kalamang	monyet	0248	wandi	like_this	other	other				
+kalamang	monyet	0248	usar	erect	v:pred	v		pred		
+kalamang	monyet	0249	#	#	##	##				
+kalamang	monyet	0249	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0249	he	IAM	other	other				
+kalamang	monyet	0249	metko	DIST.LOC	np:l	np		l		
+kalamang	monyet	0249	mambara	stand	v:pred	v		pred		
+kalamang	monyet	0250	#	#	##	##				
+kalamang	monyet	0250	ZERO	ZERO	0.d:s	0	d	s	401	
+kalamang	monyet	0250	mambara	stand	v:pred	v		pred		
+kalamang	monyet	0250	me	TOP	other	other				
+kalamang	monyet	0251	#	#	##	##				
+kalamang	monyet	0251	kusikusi	cuscus	np.d:a	np	d	a	402	
+kalamang	monyet	0251	he	IAM	other	other				
+kalamang	monyet	0251	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0251	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0251	kanie	tie	v:pred	v		pred		
+kalamang	monyet	0252	#	#	##	##				
+kalamang	monyet	0252	ya	yes	nc	nc				
+kalamang	monyet	0253	ma	3SG	pro.d:a	pro	d	a	402	
+kalamang	monyet	0253	he	IAM	other	other				
+kalamang	monyet	0253	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0253	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0253	kanie	tie	v:pred	v		pred		
+kalamang	monyet	0253	ror	wood	np:l	np		l	452	
+kalamang	monyet	0253	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0254	#	#	##	##				
+kalamang	monyet	0254	ZERO	ZERO	0.d:a	0	d	a	402	
+kalamang	monyet	0254	ZERO	ZERO	0.d:p	0	d	p	401	
+kalamang	monyet	0254	kanie-n	tie-N	lv	lv				
+kalamang	monyet	0254	kor	leg	np:l	np		l	458	bridging
+kalamang	monyet	0254	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	401	
+kalamang	monyet	0254	=ka	=LAT	=rn	=rn				
+kalamang	monyet	0254	mengga	DIST.LAT	nc	nc				
+kalamang	monyet	0254	sara	ascend	lv	lv				
+kalamang	monyet	0254	bo	go	lv	lv				
+kalamang	monyet	0254	metko	DIST.LOC	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	monyet	0255	#	#	##ds	##ds				
+kalamang	monyet	0255	o	EMPH	other	other				
+kalamang	monyet	0255	mena	later	other	other				
+kalamang	monyet	0255	ka	2SG	pro.2:s	pro	2	s	401	
+kalamang	monyet	0255	he	IAM	other	other				
+kalamang	monyet	0255	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0256	#	#	#nc	#nc				
+kalamang	monyet	0256	metko	DIST.LOC	other	other				
+kalamang	monyet	0257	kusukusu	cuscus	nc_np	nc_np			402	
+kalamang	monyet	0257	#	#	##ds	##ds				
+kalamang	monyet	0257	o	EMPH	other	other				
+kalamang	monyet	0257	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0257	nawanggar	wait	v:pred	v		pred		
+kalamang	monyet	0258	#	#	##	##				
+kalamang	monyet	0258	mindi	like_that	other	other				
+kalamang	monyet	0258	=ta	=NFIN	=other	=other				
+kalamang	monyet	0258	me	TOP	other	other				
+kalamang	monyet	0258	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0258	se	IAM	other	other				
+kalamang	monyet	0258	palom	spit	lv	lv				
+kalamang	monyet	0258	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0258	mahara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0258	laur	splash	rv	rv				
+kalamang	monyet	0258	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0259	#	#	##	##				
+kalamang	monyet	0259	mara	move_towards_land	nc	nc				
+kalamang	monyet	0259	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0259	se	IAM	other	other				
+kalamang	monyet	0259	mara	move_towards_land	v:pred	v		pred		
+kalamang	monyet	0259	kor	leg	np:l	np		l	458	
+kalamang	monyet	0259	-un	-3POSS	-rn_pro.d:poss	-rn_pro	d	poss	401	
+kalamang	monyet	0259	=ko	=LOC	=rn	=rn				
+kalamang	monyet	0260	#	#	#nc	#nc				
+kalamang	monyet	0260	mindi	like_that	nc	nc				
+kalamang	monyet	0260	=ta	=NFIN	nc	nc				
+kalamang	monyet	0260	ma	3SG	nc_pro.d	nc_pro	d		401	
+kalamang	monyet	0260	monyet	monkey	nc_np	nc_np			401	
+kalamang	monyet	0260	#	#	##ds	##ds				
+kalamang	monyet	0260	eeih	INTJ	other	other				
+kalamang	monyet	0261	kor	leg	np:s	np		s	458	
+kalamang	monyet	0261	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	401	
+kalamang	monyet	0261	se	IAM	other	other				
+kalamang	monyet	0261	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0261	#	#	##ds	##ds				
+kalamang	monyet	0261	kor	leg	np:s	np		s	458	
+kalamang	monyet	0261	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	401	
+kalamang	monyet	0261	se	IAM	other	other				
+kalamang	monyet	0261	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0262	#	#	##ds	##ds				
+kalamang	monyet	0262	ZERO	ZERO	0.2:a	0	2	a	402	
+kalamang	monyet	0262	an	1SG	pro.1:p	pro	1	p	401	
+kalamang	monyet	0262	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0262	kahetmei	open	v:pred	v		pred		
+kalamang	monyet	0262	#	#	##ds	##ds				
+kalamang	monyet	0262	o	EMPH	other	other				
+kalamang	monyet	0262	tok	not_yet	other	other				
+kalamang	monyet	0262	kaden	body	np:s	np		s	442	bridging
+kalamang	monyet	0262	-ja	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	401	
+kalamang	monyet	0262	tebonggan	all	rn	rn				
+kalamang	monyet	0262	tok	yet	other	other				
+kalamang	monyet	0262	iren	ripe	lv	lv				
+kalamang	monyet	0262	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0262	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0262	eba	then	other	other				
+kalamang	monyet	0263	#	#	##	##				
+kalamang	monyet	0263	o	EMPH	other	other				
+kalamang	monyet	0263	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0263	se	IAM	other	other				
+kalamang	monyet	0263	sara	ascend	lv	lv				
+kalamang	monyet	0263	bo	go	lv	lv				
+kalamang	monyet	0263	watko	PROX.LOC	dem_pro:pred_g	dem_pro		pred_g	458	
+kalamang	monyet	0264	#	#	##	##				
+kalamang	monyet	0264	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0264	watko-ra	PROX.LOC-NFIN	dem_pro:pred_g	dem_pro		pred_g		
+kalamang	monyet	0264	me	TOP	other	other				
+kalamang	monyet	0265	#	#	#	#				
+kalamang	monyet	0265	ma	3SG	nc	nc				
+kalamang	monyet	0265	he	IAM	nc	nc				
+kalamang	monyet	0265	toni	say	nc	nc				
+kalamang	monyet	0265	monyet	monkey	np.d:s_ds	np	d	s_ds	401	
+kalamang	monyet	0265	toni	say	v:pred	v		pred		
+kalamang	monyet	0265	#	#	##ds	##ds				
+kalamang	monyet	0265	eeih	INTJ	other	other				
+kalamang	monyet	0265	kor	leg	np:s	np		s	458	
+kalamang	monyet	0265	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	401	
+kalamang	monyet	0265	se	IAM	other	other				
+kalamang	monyet	0265	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0265	#	#	##ds	##ds				
+kalamang	monyet	0265	ma he me	that's_it	other	other				
+kalamang	monyet	0265	ZERO	ZERO	0.2:a	0	2	a	402	
+kalamang	monyet	0265	an	1SG	pro.1:p	pro	1	p	401	
+kalamang	monyet	0265	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0265	kahetmei	open	v:pred	v		pred		
+kalamang	monyet	0266	#	#	##ds	##ds				
+kalamang	monyet	0266	ZERO	ZERO	0.2:a	0	2	a	402	
+kalamang	monyet	0266	an	1SG	pro.1:p	pro	1	p	401	
+kalamang	monyet	0266	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0266	kahetmei	open	v:pred	v		pred		
+kalamang	monyet	0267	#	#	##	##				
+kalamang	monyet	0267	kusukusu	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0267	toni	say	v:pred	v		pred		
+kalamang	monyet	0267	#	#	##ds	##ds				
+kalamang	monyet	0267	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0267	ZERO	ZERO	0:p	0		p	460	new
+kalamang	monyet	0267	tama	add	v:pred	v		pred		
+kalamang	monyet	0268	#	#	##ds	##ds				
+kalamang	monyet	0268	ma	3SG	pro:s	pro		s	451	
+kalamang	monyet	0268	tok	still	other	other				
+kalamang	monyet	0268	koi	then	other	other				
+kalamang	monyet	0268	sara-n-daer	ascend-N-more	v:pred	v		pred		
+kalamang	monyet	0268	=et	=IRR	=rv	=rv				
+kalamang	monyet	0269	#	#	##	##				
+kalamang	monyet	0269	mindi	like_that	other	other				
+kalamang	monyet	0269	=ta	=NFIN	=other	=other				
+kalamang	monyet	0269	me	TOP	other	other				
+kalamang	monyet	0270	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0270	opa	ANA	rn	rn				
+kalamang	monyet	0270	laur	tide_rising	v:pred	v		pred		
+kalamang	monyet	0271	#	#	##	##				
+kalamang	monyet	0271	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0271	laulaur	ride_rising	lv	lv				
+kalamang	monyet	0271	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0271	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0271	#	#	##	##				
+kalamang	monyet	0271	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0271	he	IAM	other	other				
+kalamang	monyet	0271	bo	go	lv	lv				
+kalamang	monyet	0271	watko	PROX.LOC	dem_pro:pred_g	dem_pro		pred_g	459	bridging
+kalamang	monyet	0272	#	#	##ds	##ds				
+kalamang	monyet	0272	eih	INT.E	other	other				
+kalamang	monyet	0273	ma he me	that's_it	other	other				
+kalamang	monyet	0273	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0273	se	IAM	other	other				
+kalamang	monyet	0273	iren-den	ripe-TEN	v:pred	v		pred		
+kalamang	monyet	0273	#	#	##	##				
+kalamang	monyet	0273	se	IAM	nc	nc				
+kalamang	monyet	0273	kolkiem	thigh	np:s	np		s	459	
+kalamang	monyet	0273	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	401	
+kalamang	monyet	0273	wangga	PROX.LAT	dem_pro:l	dem_pro		l	459	
+kalamang	monyet	0273	bara	descend	lv	lv				
+kalamang	monyet	0273	ma	3SG	nc	nc				
+kalamang	monyet	0273	he	IAM	other	other				
+kalamang	monyet	0273	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0274	#	#	#nc	#nc				
+kalamang	monyet	0274	o	EMPH	other	other				
+kalamang	monyet	0274	tok	not_yet	other	other				
+kalamang	monyet	0274	#	#	##ds	##ds				
+kalamang	monyet	0274	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0274	ZERO	ZERO	0:p	0		p	460	
+kalamang	monyet	0274	tamba	add	v:pred	v		pred		
+kalamang	monyet	0275	#	#	##ds	##ds				
+kalamang	monyet	0275	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0275	ZERO	ZERO	0:p	0		p	460	
+kalamang	monyet	0275	tamba	add	v:pred	v		pred		
+kalamang	monyet	0276	#	#	##ds	##ds				
+kalamang	monyet	0276	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0276	ZERO	ZERO	0:p	0		p	460	
+kalamang	monyet	0276	tama	add	v:pred	v		pred		
+kalamang	monyet	0276	#	#	##ds	##ds				
+kalamang	monyet	0276	ma	3SG	pro:s	pro		s	451	
+kalamang	monyet	0276	tok	still	other	other				
+kalamang	monyet	0276	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0276	bo	until	other	other				
+kalamang	monyet	0276	eren	body	np:g	np		g	442	
+kalamang	monyet	0276	-ja	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	401	
+kalamang	monyet	0276	tebonggan	all	rn	rn				
+kalamang	monyet	0276	eba	then	other	other				
+kalamang	monyet	0276	#	#	##ds	##ds				
+kalamang	monyet	0276	ka	2SG	pro.2:s	pro	2	s	401	
+kalamang	monyet	0276	he	IAM	other	other				
+kalamang	monyet	0276	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0277	#	#	#nc	#nc				
+kalamang	monyet	0277	m	AGR	nc	nc				
+kalamang	monyet	0278	#	#	##	##				
+kalamang	monyet	0278	ma	3SG	pro:s	pro		s	451	
+kalamang	monyet	0278	he	IAM	other	other				
+kalamang	monyet	0278	metko	DIST.LOC	dem_pro:pred_l	dem_pro		pred_l	459	
+kalamang	monyet	0278	#	#	#nc	#nc				
+kalamang	monyet	0278	eih	INT.E	nc	nc				
+kalamang	monyet	0278	#	#	##	##				
+kalamang	monyet	0278	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0278	he	IAM	other	other				
+kalamang	monyet	0278	asik	keen	v:pred	v		pred		
+kalamang	monyet	0278	to	right	other	other				
+kalamang	monyet	0278	#	#	##	##				
+kalamang	monyet	0278	ma	3SG	nc	nc				
+kalamang	monyet	0278	habis	because	other	other				
+kalamang	monyet	0278	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0278	iren-den	ripe-TEN	v:pred	v		pred		
+kalamang	monyet	0278	#	#	##	##				
+kalamang	monyet	0278	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0278	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	monyet	0279	#	#	##	##				
+kalamang	monyet	0279	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0279	he	IAM	other	other				
+kalamang	monyet	0279	rap-rap	laugh-RED	v:pred	v		pred		
+kalamang	monyet	0280	#	#	##	##				
+kalamang	monyet	0280	mindi	like_that	other	other				
+kalamang	monyet	0280	=ta	=NFIN	=other	=other				
+kalamang	monyet	0280	me	TOP	other	other				
+kalamang	monyet	0280	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0280	opa	ANA	rn	rn				
+kalamang	monyet	0280	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0280	#	#	##	##				
+kalamang	monyet	0280	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0280	laur	tide_rising	lv	lv				
+kalamang	monyet	0280	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0280	sara-sara	ascend-RED	v:pred	v		pred		
+kalamang	monyet	0281	#	#	##	##				
+kalamang	monyet	0281	ZERO	ZERO	0:s	0		s		
+kalamang	monyet	0281	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0281	bo	until	other	other				
+kalamang	monyet	0281	watko-ra	PROX.LOC-NFIN	dem_pro:g	dem_pro		g	461	bridging
+kalamang	monyet	0281	me	TOP	other	other				
+kalamang	monyet	0282	#	#	##	##				
+kalamang	monyet	0282	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0282	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0282	bo	until	other	other				
+kalamang	monyet	0282	watko-ra	PROX.LOC-NFIN	dem_pro:g	dem_pro		g	461	
+kalamang	monyet	0282	me	TOP	other	other				
+kalamang	monyet	0283	#	#	##	##				
+kalamang	monyet	0283	mindi	like_that	other	other				
+kalamang	monyet	0283	=ta	=NFIN	=other	=other				
+kalamang	monyet	0283	me	TOP	other	other				
+kalamang	monyet	0283	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0283	laur	tide_rising	lv	lv				
+kalamang	monyet	0283	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0283	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0283	bo	until	other	other				
+kalamang	monyet	0283	watko-ra	PROX.LOC-NFIN	dem_pro:g	dem_pro		g	461	
+kalamang	monyet	0283	me	TOP	other	other				
+kalamang	monyet	0283	#	#	##	##				
+kalamang	monyet	0283	ma	3SG	pro.d:s_ds	pro	d	s_ds	401	
+kalamang	monyet	0283	toni	say	v:pred	v		pred		
+kalamang	monyet	0283	#	#	##ds	##ds				
+kalamang	monyet	0283	eih	INT.E	other	other				
+kalamang	monyet	0283	ma	3SG	pro:s	pro		s		
+kalamang	monyet	0283	he	IAM	other	other				
+kalamang	monyet	0283	me	DIST	dem_pro:pred	dem_pro		pred		
+kalamang	monyet	0283	#	#	##ds	##ds				
+kalamang	monyet	0283	ma he me	that's_it	other	other				
+kalamang	monyet	0283	ZERO	ZERO	0.2:a	0	2	a	402	
+kalamang	monyet	0283	an	1SG	pro.1:p	pro	1	p	401	
+kalamang	monyet	0283	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0283	kahetmei	open	v:pred	v		pred		
+kalamang	monyet	0284	#	#	##ds	##ds				
+kalamang	monyet	0284	eren	body	np:s	np		s	442	
+kalamang	monyet	0284	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss		
+kalamang	monyet	0284	se	IAM	other	other				
+kalamang	monyet	0284	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0285	#	#	##	##				
+kalamang	monyet	0285	o	EMPH	other	other				
+kalamang	monyet	0285	kusukusu	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0285	toni	say	v:pred	v		pred		
+kalamang	monyet	0285	#	#	##ds	##ds				
+kalamang	monyet	0285	tok	not_yet	other	other				
+kalamang	monyet	0285	nakal	head	np:s	np		s	463	bridging
+kalamang	monyet	0285	-ca	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	401	
+kalamang	monyet	0285	tok	still	other	other				
+kalamang	monyet	0285	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0285	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0285	ime	DIST	other	other				
+kalamang	monyet	0286	#	#	##ds	##ds				
+kalamang	monyet	0286	tok tok	not_yet	other	other				
+kalamang	monyet	0287	ZERO	ZERO	0.1:a	0	1	a	402	
+kalamang	monyet	0287	ZERO	ZERO	0.2:p	0	2	p	401	
+kalamang	monyet	0287	los	free	v:pred	v		pred		
+kalamang	monyet	0287	#	#	##	##				
+kalamang	monyet	0287	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0287	laulaur	tide_rising	lv	lv				
+kalamang	monyet	0287	=i	=PLNK	=lv	=lv				
+kalamang	monyet	0287	sara-sara	ascend-RED	v:pred	v		pred		
+kalamang	monyet	0288	#	#	##	##				
+kalamang	monyet	0288	sara-n	ascend-N	v:pred	v		pred		
+kalamang	monyet	0288	sara-n	ascend-N	nc	nc				
+kalamang	monyet	0288	sara-n	ascend-N	nc	nc				
+kalamang	monyet	0288	bo	until	other	other				
+kalamang	monyet	0288	watko	PROX.LOC	dem_pro:g	dem_pro		g	465	bridging
+kalamang	monyet	0288	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0289	#	#	##	##				
+kalamang	monyet	0289	o	EMPH	other	other				
+kalamang	monyet	0289	mindi	like_that	other	other				
+kalamang	monyet	0289	=ta	=NFIN	=other	=other				
+kalamang	monyet	0289	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0289	he	IAM	other	other				
+kalamang	monyet	0289	asik	keen	v:pred	v		pred		
+kalamang	monyet	0289	to	right	other	other				
+kalamang	monyet	0290	#	#	##ds	##ds				
+kalamang	monyet	0290	eih	INT.E	other	other				
+kalamang	monyet	0290	ma he me	that's_it	other	other				
+kalamang	monyet	0290	ZERO	ZERO	0.2:a	0	2	a	402	
+kalamang	monyet	0290	ZERO	ZERO	0.1:p	0	1	p	401	
+kalamang	monyet	0290	kahetmei	open	v:pred	v		pred		
+kalamang	monyet	0290	kahetmei	open	nc	nc				
+kalamang	monyet	0290	ma he me	that's_it	other	other				
+kalamang	monyet	0291	#	#	##ds	##ds				
+kalamang	monyet	0291	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0291	se	IAM	other	other				
+kalamang	monyet	0291	iren	ripe	lv	lv				
+kalamang	monyet	0291	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0291	koyet	finish	v:pred	v		pred		
+kalamang	monyet	0292	#	#	##	##				
+kalamang	monyet	0292	kusukusu	cuscus	np.d:s_ds	np	d	s_ds	402	
+kalamang	monyet	0292	toni	say	v:pred	v		pred		
+kalamang	monyet	0292	#	#	##ds	##ds				
+kalamang	monyet	0292	tok	not_yet	other	other				
+kalamang	monyet	0292	nakal	head	np:s	np		s	463	
+kalamang	monyet	0292	-ca	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	401	
+kalamang	monyet	0292	tok	yet	other	other				
+kalamang	monyet	0292	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0292	=ta	=NFIN	=rv	=rv				
+kalamang	monyet	0292	ime	DIST	other	other				
+kalamang	monyet	0292	#	#	##ds	##ds				
+kalamang	monyet	0292	ka	2SG	nc_pro.2	nc_pro	2		401	
+kalamang	monyet	0292	tok	still	nc	nc				
+kalamang	monyet	0292	kanggirar	face	np:s	np		s	434	
+kalamang	monyet	0292	-ca	-2SG.POSS	-rn_pro.2:poss	-rn_pro	2	poss	401	
+kalamang	monyet	0292	tok	still	other	other				
+kalamang	monyet	0292	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0293	#	#	##	##				
+kalamang	monyet	0293	mindi	like_that	other	other				
+kalamang	monyet	0293	=ta	=NFIN	=other	=other				
+kalamang	monyet	0293	me	TOP	other	other				
+kalamang	monyet	0294	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0294	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0294	bo	until	other	other				
+kalamang	monyet	0294	watko	PROX.LOC	dem_pro:g	dem_pro		g	464	bridging
+kalamang	monyet	0295	#	#	#	#				
+kalamang	monyet	0295	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0295	toni	say	v:pred	v		pred		
+kalamang	monyet	0295	#	#	#cc:other	#cc		other		
+kalamang	monyet	0295	ZERO	ZERO	0.d:a	0	d	a	402	
+kalamang	monyet	0295	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0295	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0295	kahetma-r	open-T	v:pred	v		pred		
+kalamang	monyet	0295	=et	=IRR	=rv	=rv				
+kalamang	monyet	0295	#	#	##neg	##neg				
+kalamang	monyet	0295	kusukusu	cuscus	np.d:s	np	d	s	402	
+kalamang	monyet	0295	suka	want	v:pred	v		pred		
+kalamang	monyet	0295	-un	-3POSS	-rv	-rv				
+kalamang	monyet	0295	ge	not	other	other				
+kalamang	monyet	0296	#	#	##	##				
+kalamang	monyet	0296	warkin	tide	np:s	np		s	451	
+kalamang	monyet	0296	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0296	bo	until	other	other				
+kalamang	monyet	0296	watko	PROX.LOC	dem_pro:g	dem_pro		g	466	bridging
+kalamang	monyet	0297	#	#	##	##				
+kalamang	monyet	0297	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0297	toni	say	v:pred	v		pred		
+kalamang	monyet	0297	#	#	#cc:other	#cc		other		
+kalamang	monyet	0297	ZERO	ZERO	0.d:a	0	d	a	402	
+kalamang	monyet	0297	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0297	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0297	kahetma	open	v:pred	v		pred		
+kalamang	monyet	0297	#	#	##ds	##ds				
+kalamang	monyet	0297	eih	INT.E	other	other				
+kalamang	monyet	0297	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0297	se	IAM	other	other				
+kalamang	monyet	0297	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0297	#	#	##ds	##ds				
+kalamang	monyet	0297	an	1SG	pro.1:s	pro	1	s	401	
+kalamang	monyet	0297	se	IAM	other	other				
+kalamang	monyet	0297	iren	ripe	v:pred	v		pred		
+kalamang	monyet	0297	sobat	friend	np:voc	np		voc	402	
+kalamang	monyet	0298	#	#	##ds	##ds				
+kalamang	monyet	0298	o	EMPH	other	other				
+kalamang	monyet	0298	tok	not_yet	other	other				
+kalamang	monyet	0298	wa	PROX	dem_pro:s	dem_pro		s	434	
+kalamang	monyet	0298	tok	still	other	other				
+kalamang	monyet	0298	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0298	#	#	##ds	##ds				
+kalamang	monyet	0298	wangga	PROX.LAT	dem_pro:l	dem_pro		l	434	
+kalamang	monyet	0298	sara	ascend	other	other				
+kalamang	monyet	0298	me	TOP	other	other				
+kalamang	monyet	0298	ZERO	ZERO	0.2:s	0	2	s	401	
+kalamang	monyet	0298	tok	still	other	other				
+kalamang	monyet	0298	kuskap	black	v:pred	v		pred		
+kalamang	monyet	0299	#	#	##	##				
+kalamang	monyet	0299	mindi	like_that	other	other				
+kalamang	monyet	0300	warkin	tide	np:s	np		s		
+kalamang	monyet	0300	sara-n	ascend	v:pred	v		pred		
+kalamang	monyet	0300	sara-n	ascend	nc	nc				
+kalamang	monyet	0300	bo	until	other	other				
+kalamang	monyet	0300	watko	PROX.LOC	dem_pro:g	dem_pro		g	467	bridging
+kalamang	monyet	0301	#	#	##	##				
+kalamang	monyet	0301	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0301	paning	ask	v:pred	v		pred		
+kalamang	monyet	0301	toni	say	rv	rv				
+kalamang	monyet	0301	#	#	#cc:other	#cc		other		
+kalamang	monyet	0301	ma	3SG	pro.d:a	pro	d	a	402	
+kalamang	monyet	0301	he	IAM	other	other				
+kalamang	monyet	0301	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0301	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0301	kahetma-re	open-NFIN	v:pred	v		pred		
+kalamang	monyet	0301	#	#	##ds	##ds				
+kalamang	monyet	0301	o	EMPH	other	other				
+kalamang	monyet	0301	ZERO	ZERO	0.2:a	0	2	a	401	
+kalamang	monyet	0301	ZERO	ZERO	0:p	0		p	460	
+kalamang	monyet	0301	tamba	add	v:pred	v		pred		
+kalamang	monyet	0302	#	#	##	##				
+kalamang	monyet	0302	warkin	tide	np:s	np		s		
+kalamang	monyet	0302	sara-n	ascend-N	v:pred	v		pred		
+kalamang	monyet	0302	sara-n	ascend-N	nc	nc				
+kalamang	monyet	0302	bo	until	other	other				
+kalamang	monyet	0302	bol	mouth	np:g	np		g	468	bridging
+kalamang	monyet	0303	#	#	##	##				
+kalamang	monyet	0303	terus	then	other	other				
+kalamang	monyet	0303	ZERO	ZERO	0:s	0		s		
+kalamang	monyet	0303	bo	until	other	other				
+kalamang	monyet	0303	bustang	nose	np:g	np		g	469	bridging
+kalamang	monyet	0304	#	#	##	##				
+kalamang	monyet	0304	ZERO	ZERO	0:s	0		s	451	
+kalamang	monyet	0304	ajar	continue	v:pred	v		pred		
+kalamang	monyet	0304	=i	=PLNK	=rv	=rv				
+kalamang	monyet	0304	#	#	##	##				
+kalamang	monyet	0304	ZERO	ZERO	0.d:s	0	d	s	401	
+kalamang	monyet	0304	bo	go	lv	lv				
+kalamang	monyet	0304	gosomin	disappeared	v:pred	v		pred		
+kalamang	monyet	0305	#	#	##	##				
+kalamang	monyet	0305	warkin	tide	np:a	np		a	451	
+kalamang	monyet	0305	se	IAM	other	other				
+kalamang	monyet	0306	ma	3SG	pro.d:p	pro	d	p	401	
+kalamang	monyet	0306	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0306	nemies	exceed	v:pred	v		pred		
+kalamang	monyet	0307	#	#	#nc	#nc				
+kalamang	monyet	0307	me	DIST	nc	nc				
+kalamang	monyet	0307	=at	=OBJ	nc	nc				
+kalamang	monyet	0307	koi	then	nc	nc				
+kalamang	monyet	0307	ajar	continue	nc	nc				
+kalamang	monyet	0307	=i	=PLNK	nc	nc				
+kalamang	monyet	0307	mindi	like_that	nc	nc				
+kalamang	monyet	0307	bo	go	nc	nc				
+kalamang	monyet	0308	#	#	#nc	#nc				
+kalamang	monyet	0308	tik	take_long	nc	nc				
+kalamang	monyet	0308	=ta	=NFIN	nc	nc				
+kalamang	monyet	0308	me	TOP	nc	nc				
+kalamang	monyet	0309	#	#	##	##				
+kalamang	monyet	0309	karabubu	bubble	np:s	np		s	470	new
+kalamang	monyet	0309	he	IAM	other	other				
+kalamang	monyet	0309	sara	ascend	v:pred	v		pred		
+kalamang	monyet	0310	#	#	##	##				
+kalamang	monyet	0310	karabubu	bubble	np:s	np		s	470	
+kalamang	monyet	0310	he	IAM	other	other				
+kalamang	monyet	0310	sara-n	ascend-N	v:pred	v		pred		
+kalamang	monyet	0310	sara-n	ascend-N	nc	nc				
+kalamang	monyet	0310	o	EMPH	other	other				
+kalamang	monyet	0311	#	#	##	##				
+kalamang	monyet	0311	nemba-ar	PLH-OBJ	nc	nc				
+kalamang	monyet	0311	=a	=FOC	nc	nc				
+kalamang	monyet	0311	o	EMPH	nc	nc				
+kalamang	monyet	0312	monyet	monkey	nc	nc				
+kalamang	monyet	0312	opa	ANA	nc	nc				
+kalamang	monyet	0312	se	IAM	nc	nc				
+kalamang	monyet	0313	ma	3SG	pro.d:s	pro	d	s	401	
+kalamang	monyet	0313	he	IAM	rn	rn				
+kalamang	monyet	0313	lalat	die	v:pred	v		pred		
+kalamang	monyet	0314	#	#	##	##				
+kalamang	monyet	0314	mera	then	other	other				
+kalamang	monyet	0314	ma	3SG	pro.d:s_ds	pro	d	s_ds	402	
+kalamang	monyet	0314	neba	PLH	other	other				
+kalamang	monyet	0314	toni	say	v:pred	v		pred		
+kalamang	monyet	0314	#	#	##ds	##ds				
+kalamang	monyet	0314	abis	NC	other	other				
+kalamang	monyet	0314	ka	2SG	pro.2:s	pro	2	s	401	
+kalamang	monyet	0314	paruo	do	v:pred	v		pred		
+kalamang	monyet	0314	#	#	##ds	##ds				
+kalamang	monyet	0314	an	1SG	pro.1:s	pro	1	s	402	
+kalamang	monyet	0314	sinsara	half-dead	v:pred	v		pred		
+kalamang	monyet	0314	#	#	##ds	##ds				
+kalamang	monyet	0314	jadi	so	other	other				
+kalamang	monyet	0314	ZERO	ZERO	0.1:a	0	1	a	402	
+kalamang	monyet	0314	ka	2SG	pro.2:p	pro	2	p	401	
+kalamang	monyet	0314	=at	=OBJ	=rn	=rn				
+kalamang	monyet	0314	mindi	like_that	other:pred	other		pred		
+kalamang	monyet	0315	#	#	##ds.neg	##ds.neg				
+kalamang	monyet	0315	neba	PLH	other	other				
+kalamang	monyet	0315	=et	=IRR	=other	=other				
+kalamang	monyet	0315	mindi	like_that	other	other				
+kalamang	monyet	0315	=ta	=NFIN	=other	=other				
+kalamang	monyet	0315	ba	then	other	other				
+kalamang	monyet	0315	pier-mun	1DU.INCL-PROH	pro.1:s	pro	1	s	403	
+kalamang	monyet	0315	se	IAM	other	other				
+kalamang	monyet	0315	yal-sawer	paddle-too	v:pred	v		pred		
+kalamang	monyet	0315	=in	=PROH	=rv	=rv				
+kalamang	monyet	0316	#	#	#nc	#nc				
+kalamang	monyet	0316	selesai	finished	nc	nc				
+kalamang	monyet	0317	#	#	#nc	#nc				
+kalamang	monyet	0317	ma he me	that's_it	nc	nc				
+kalamang	monyet	0317	ZERO	ZERO	nc	nc				
+kalamang	monyet	0317	se	IAM	nc	nc				
+kalamang	monyet	0317	koyet	finish	nc	nc				

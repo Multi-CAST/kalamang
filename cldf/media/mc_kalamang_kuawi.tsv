@@ -1,0 +1,1415 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+kalamang	kuawi	0001	#	#	##	##				
+kalamang	kuawi	0001	sekarang	now	other	other				
+kalamang	kuawi	0001	mu	3PL	pro.h:s	pro	h	s	301	new
+kalamang	kuawi	0001	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	kuawi	0001	#	#	#nc	#nc				
+kalamang	kuawi	0001	mu	3PL	nc_pro.h	nc_pro	h		301	
+kalamang	kuawi	0001	kuawi	north	nc	nc				
+kalamang	kuawi	0001	ur kierun	cloud	nc_np	nc_np			302	new
+kalamang	kuawi	0001	opa	ANA	nc	nc				
+kalamang	kuawi	0001	me	TOP	nc	nc				
+kalamang	kuawi	0001	#	#	##	##				
+kalamang	kuawi	0001	kuawi	north	np:s	np		s	302	
+kalamang	kuawi	0001	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kuawi	0002	#	#	#nc	#nc				
+kalamang	kuawi	0002	jadi	so	other	other				
+kalamang	kuawi	0002	kuawi	north	nc_np	nc_np			302	
+kalamang	kuawi	0002	kierun	cloud	nc	nc				
+kalamang	kuawi	0002	go git	it_is_cloudy	nc	nc				
+kalamang	kuawi	0002	se	IAM	nc	nc				
+kalamang	kuawi	0002	bo-re	go-NFIN	nc	nc				
+kalamang	kuawi	0002	#	#	##	##				
+kalamang	kuawi	0002	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0002	he	IAM	other	other				
+kalamang	kuawi	0002	elak-ar	bottom-OBJ	np:g	np		g	303	new
+kalamang	kuawi	0002	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0002	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0002	jadi	so	other	other				
+kalamang	kuawi	0003	#	#	#nc	#nc				
+kalamang	kuawi	0003	gogin	NC	nc	nc				
+kalamang	kuawi	0003	temgerun	mountaintop	nc_np	nc_np			304	new
+kalamang	kuawi	0004	#	#	#nc	#nc				
+kalamang	kuawi	0004	ma	3SG	nc	nc				
+kalamang	kuawi	0004	gogin	NC	nc	nc				
+kalamang	kuawi	0004	temgerun	mountaintop	nc_np	nc_np			304	
+kalamang	kuawi	0004	#	#	##	##				
+kalamang	kuawi	0004	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0004	bo	go	lv	lv				
+kalamang	kuawi	0004	ZERO	ZERO	0:l	0		l	304	
+kalamang	kuawi	0004	kies	block	v:pred	v		pred		
+kalamang	kuawi	0004	=te	=NFIN	=rv	=rv				
+kalamang	kuawi	0005	#	#	##	##				
+kalamang	kuawi	0005	biasa	normal	other	other				
+kalamang	kuawi	0005	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0005	mindi	like_that	other:pred	other		pred		
+kalamang	kuawi	0005	#	#	##	##				
+kalamang	kuawi	0005	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0005	Pinggor	Pinggor	ln_pn_np	ln_pn_np				
+kalamang	kuawi	0005	siun	edge	np:pred_l	np		pred_l	305	unused
+kalamang	kuawi	0006	#	#	##	##				
+kalamang	kuawi	0006	ma	3SG	pro:a	pro		a	302	
+kalamang	kuawi	0006	mengga-ra	DIST.LAT-NFIN	lv	lv				
+kalamang	kuawi	0006	isetenga	half	other	other				
+kalamang	kuawi	0007	ah	INT	other	other				
+kalamang	kuawi	0007	isetenga	half	nc	nc				
+kalamang	kuawi	0007	turin	hill	np:p	np		p	304	
+kalamang	kuawi	0007	me	TOP	other	other				
+kalamang	kuawi	0007	ma	3SG	nc	nc				
+kalamang	kuawi	0007	potma	cut	v:pred	v		pred		
+kalamang	kuawi	0007	se	IAM	other	other				
+kalamang	kuawi	0008	#	#	##	##				
+kalamang	kuawi	0008	jadi	so	other	other				
+kalamang	kuawi	0008	mu	3PL	pro.h:s	pro	h	s	301	
+kalamang	kuawi	0008	bo	go	lv	lv				
+kalamang	kuawi	0008	ror	wood	np:g	np		g	306	new
+kalamang	kuawi	0008	kitko	top.LOC	rn	rn				
+kalamang	kuawi	0008	ra	move_path	v:pred	v		pred		
+kalamang	kuawi	0008	#	#	##	##				
+kalamang	kuawi	0008	ur kirun	cloud	np:s	np		s	301	
+kalamang	kuawi	0008	se	IAM	other	other				
+kalamang	kuawi	0008	elak	bottom	np:pred	np		pred		
+kalamang	kuawi	0008	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0009	#	#	##	##				
+kalamang	kuawi	0009	kome	look	nc	nc				
+kalamang	kuawi	0009	mu	3PL	pro.h:s	pro	h	s	301	
+kalamang	kuawi	0009	he	IAM	other	other				
+kalamang	kuawi	0009	kome	look	v:pred	v		pred		
+kalamang	kuawi	0009	kome	look	nc	nc				
+kalamang	kuawi	0009	kome	look	nc	nc				
+kalamang	kuawi	0009	kome	look	nc	nc				
+kalamang	kuawi	0009	#	#	##neg	##neg				
+kalamang	kuawi	0009	ZERO	ZERO	0:s	0		s		
+kalamang	kuawi	0009	akal	sense	np:l	np		l		
+kalamang	kuawi	0009	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	301	
+kalamang	kuawi	0009	=ggo	=LOC	=rn	=rn				
+kalamang	kuawi	0009	masuk	enter	v:pred	v		pred		
+kalamang	kuawi	0009	=nin	=NEG	=rv	=rv				
+kalamang	kuawi	0009	eh	INT.E	other	other				
+kalamang	kuawi	0010	#	#	#nc	#nc				
+kalamang	kuawi	0010	labai	better	nc	nc				
+kalamang	kuawi	0010	kalo	if	nc	nc				
+kalamang	kuawi	0010	bisa	can	nc	nc				
+kalamang	kuawi	0010	=et	=IRR	nc	nc				
+kalamang	kuawi	0010	me	DIST	nc	nc				
+kalamang	kuawi	0010	=at	=OBJ	nc	nc				
+kalamang	kuawi	0010	pi	1PL.INCL	nc_pro.1	nc_pro	1		301	
+kalamang	kuawi	0011	#	#	##ds	##ds				
+kalamang	kuawi	0011	enem	older_or_respected_woman	np.h:voc	np	h	voc	307	new
+kalamang	kuawi	0011	kalo	if	other	other				
+kalamang	kuawi	0011	ZERO	ZERO	0.1:s	0	1	s		
+kalamang	kuawi	0011	bisa	can	v:pred	v		pred		
+kalamang	kuawi	0011	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0011	me	DIST	other	other				
+kalamang	kuawi	0011	#	#	##ds	##ds				
+kalamang	kuawi	0011	pi	1PL.INCL	pro.h:s	pro	h	s	301	
+kalamang	kuawi	0011	et	canoe	np:obl	np		obl	308	new
+kalamang	kuawi	0011	yua	PROX	rn	rn				
+kalamang	kuawi	0011	=bon	=COM	=rn	=rn				
+kalamang	kuawi	0011	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0011	bo	go	v:pred	v		pred		
+kalamang	kuawi	0011	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0012	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0012	habis	after_all	other	other				
+kalamang	kuawi	0012	ge	no	other	other				
+kalamang	kuawi	0012	pi	1PL.INCL	pro.1:s	pro	1	s	301	
+kalamang	kuawi	0012	lenggoa	village.LOC	np:l	np		l	309	unused
+kalamang	kuawi	0012	me	TOP	other	other				
+kalamang	kuawi	0012	pi	1PL.INCL	nc_pro.1	nc_pro	1		301	
+kalamang	kuawi	0012	bo-t-bo-t	go-T-go-T	v:pred	v		pred		
+kalamang	kuawi	0012	=nin	=NEG	=rv	=rv				
+kalamang	kuawi	0012	jadi	so	other	other				
+kalamang	kuawi	0013	#	#	##	##				
+kalamang	kuawi	0013	enem	older_or_respected_woman	np.h:s_ds	np	h	s_ds	307	
+kalamang	kuawi	0013	toni	say	v:pred	v		pred		
+kalamang	kuawi	0013	#	#	#nc	#nc				
+kalamang	kuawi	0013	mindi	like_that	nc	nc				
+kalamang	kuawi	0013	me	TOP	nc	nc				
+kalamang	kuawi	0013	an-nan	1SG-too	nc_pro.1	nc_pro	1		307	
+kalamang	kuawi	0014	#	#	##ds	##ds				
+kalamang	kuawi	0014	yuol	day	np:other	np		other	310	bridging
+kalamang	kuawi	0014	me	DIST	rn	rn				
+kalamang	kuawi	0014	me	TOP	other	other				
+kalamang	kuawi	0014	ZERO	ZERO	0.h:a	0	h	a	311	bridging
+kalamang	kuawi	0014	ZERO	ZERO	0:p	0		p	312	bridging
+kalamang	kuawi	0014	nauwanona-re	tidy-IMP	v:pred	v		pred		
+kalamang	kuawi	0015	#	#	##	##				
+kalamang	kuawi	0015	mena	later	other	other				
+kalamang	kuawi	0015	ZERO	ZERO	0.h:a	0	h	a	311	
+kalamang	kuawi	0015	ZERO	ZERO	0:p	0		p	312	
+kalamang	kuawi	0015	nauwanona-re	tidy-IMP	v:pred	v		pred		
+kalamang	kuawi	0015	ba	but	other	other				
+kalamang	kuawi	0015	supaya	so_that	other	other				
+kalamang	kuawi	0016	#	#	#nc	#nc				
+kalamang	kuawi	0016	sansan	packed_food	nc_np	nc_np			313	new
+kalamang	kuawi	0016	-be	-1PL.INCL.POSS	nc_pro.1	nc_pro	1			
+kalamang	kuawi	0017	#	#	#nc	#nc				
+kalamang	kuawi	0017	habiskan	finished_you_know	nc	nc				
+kalamang	kuawi	0017	tumtum	child	nc_np.h	nc_np	h		314	bridging
+kalamang	kuawi	0017	=bon	=COM	=rn	=rn				
+kalamang	kuawi	0017	jadi	so	nc	nc				
+kalamang	kuawi	0018	wandi	like_this	nc	nc				
+kalamang	kuawi	0019	#	#	##	##				
+kalamang	kuawi	0019	ah	INT	other	other				
+kalamang	kuawi	0019	mera	then	other	other				
+kalamang	kuawi	0019	me	TOP	other	other				
+kalamang	kuawi	0019	mu	3PL	pro.h:a	pro	h	a	315	bridging
+kalamang	kuawi	0019	he	IAM	other	other				
+kalamang	kuawi	0019	dodon	things	np:p	np		p	312	
+kalamang	kuawi	0019	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0019	nauwanona	tidy	lv	lv				
+kalamang	kuawi	0019	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0019	koyet	finish	v:pred	v		pred		
+kalamang	kuawi	0019	#	#	##	##				
+kalamang	kuawi	0019	mu	3PL	pro.h:s	pro	h	s	315	
+kalamang	kuawi	0019	he	IAM	other	other				
+kalamang	kuawi	0019	era	move_up	v:pred	v		pred		
+kalamang	kuawi	0020	#	#	##ds	##ds				
+kalamang	kuawi	0020	eh	QUOT	other	other				
+kalamang	kuawi	0020	mindi	like_that	other	other				
+kalamang	kuawi	0020	enem	older_or_respected_woman	np.h:voc	np	h	voc	307	
+kalamang	kuawi	0020	ka	2SG	pro.2:s	pro	2	s	307	
+kalamang	kuawi	0020	tok	yet	other	other				
+kalamang	kuawi	0020	ewun	tree_base	np:pred_l	np		pred_l	316	new
+kalamang	kuawi	0020	=ggo	=LOC	=rv	=rv				
+kalamang	kuawi	0020	=re	=IMP	=rv	=rv				
+kalamang	kuawi	0020	ba	but	other	other				
+kalamang	kuawi	0020	#	#	##ds	##ds				
+kalamang	kuawi	0020	an	1SG	nc	nc				
+kalamang	kuawi	0020	an	1SG	pro.1:s	pro	1	s	311	
+kalamang	kuawi	0020	sara-r	ascend-T	v:pred	v		pred		
+kalamang	kuawi	0020	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0021	#	#	##ds	##ds				
+kalamang	kuawi	0021	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0021	=bon	=COM	=rn	=rn				
+kalamang	kuawi	0021	tumtum	child	np.h:obl	np	h	obl	314	
+kalamang	kuawi	0021	=bon	=COM	=rn	=rn				
+kalamang	kuawi	0021	tok	yet	other	other				
+kalamang	kuawi	0021	ewun	tree_base	np:pred_l	np		pred_l	316	
+kalamang	kuawi	0021	=ggo	=LOC	=rv	=rv				
+kalamang	kuawi	0021	=re	=IMP	=rv	=rv				
+kalamang	kuawi	0022	#	#	##	##				
+kalamang	kuawi	0022	a	FIL	other	other				
+kalamang	kuawi	0022	mindi	like_that	other	other				
+kalamang	kuawi	0022	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0022	se	IAM	other	other				
+kalamang	kuawi	0022	sara	ascend	v:pred	v		pred		
+kalamang	kuawi	0023	#	#	##	##				
+kalamang	kuawi	0023	esnem	man	np.h:s	np	h	s		
+kalamang	kuawi	0023	sara	ascend	lv	lv				
+kalamang	kuawi	0023	bo	go	lv	lv				
+kalamang	kuawi	0024	ror	tree	ln_np	ln_np				
+kalamang	kuawi	0024	keitko	top	np:pred_g	np		pred_g	306	
+kalamang	kuawi	0025	#	#	##	##				
+kalamang	kuawi	0025	oh	INT	other	other				
+kalamang	kuawi	0025	ur kierun	cloud	np:s	np		s	302	
+kalamang	kuawi	0025	se	IAM	other	other				
+kalamang	kuawi	0025	elak	bottom	lv_np	lv_np			303	
+kalamang	kuawi	0025	=ka	=LAT	=lv	=lv				
+kalamang	kuawi	0025	=ta	=NFIN	=lv	=lv				
+kalamang	kuawi	0025	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0025	#	#	##	##				
+kalamang	kuawi	0025	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0025	kome	look	v:pred	v		pred		
+kalamang	kuawi	0025	bara-bara	descend-RED	rv	rv				
+kalamang	kuawi	0026	#	#	##ds	##ds				
+kalamang	kuawi	0026	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0026	he	IAM	other	other				
+kalamang	kuawi	0026	elau	under	np:pred_l	np		pred_l		
+kalamang	kuawi	0026	#	#	##ds	##ds				
+kalamang	kuawi	0026	o	EMPH	other	other				
+kalamang	kuawi	0026	an	1SG	pro.1:s	pro	1	s	311	
+kalamang	kuawi	0026	bisa	can	v:pred	v		pred		
+kalamang	kuawi	0027	#	#	##ds	##ds				
+kalamang	kuawi	0027	ZERO	ZERO	0:a	0		a	311	
+kalamang	kuawi	0027	tok	first	other	other				
+kalamang	kuawi	0027	dodon	things	np:p	np		p	312	
+kalamang	kuawi	0027	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0027	borara-r	front-T	v:pred	v		pred		
+kalamang	kuawi	0027	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0028	#	#	##	##				
+kalamang	kuawi	0028	dodon	things	np:s	np		s	312	
+kalamang	kuawi	0028	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0028	borara	front	v:pred	v		pred		
+kalamang	kuawi	0028	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0028	#	#	##	##				
+kalamang	kuawi	0028	jadi	so	other	other				
+kalamang	kuawi	0028	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0028	bo	go	lv	lv				
+kalamang	kuawi	0028	kit	top	np:g	np		g		
+kalamang	kuawi	0028	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0028	#	#	##	##				
+kalamang	kuawi	0028	ur kirun	cloud	np:s	np		s	302	
+kalamang	kuawi	0028	se	IAM	other	other				
+kalamang	kuawi	0028	elak	bottom	np:g	np		g		
+kalamang	kuawi	0028	=ka	=LAT	=rn	=rn				
+kalamang	kuawi	0029	#	#	#nc	#nc				
+kalamang	kuawi	0029	ah	INT	nc	nc				
+kalamang	kuawi	0029	mer	DIST.OBJ	nc	nc				
+kalamang	kuawi	0029	=a	=FOC	nc	nc				
+kalamang	kuawi	0029	me	TOP	nc	nc				
+kalamang	kuawi	0029	ma	3SG	nc_pro.h	nc_pro	h		311	
+kalamang	kuawi	0029	he	IAM	nc	nc				
+kalamang	kuawi	0030	#	#	##	##				
+kalamang	kuawi	0030	ah	INT	other	other				
+kalamang	kuawi	0030	mera	then	other	other				
+kalamang	kuawi	0030	me	TOP	other	other				
+kalamang	kuawi	0030	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0030	he	IAM	other	other				
+kalamang	kuawi	0030	sara	ascend	v:pred	v		pred		
+kalamang	kuawi	0031	#	#	##	##				
+kalamang	kuawi	0031	ZERO	ZERO	0.h:s	0	h	s	311	
+kalamang	kuawi	0031	sara	ascend	v:pred	v		pred		
+kalamang	kuawi	0032	#	#	#nc	#nc				
+kalamang	kuawi	0032	terus	then	nc	nc				
+kalamang	kuawi	0032	kalanggulung	pillow	nc_np	nc_np			317	bridging
+kalamang	kuawi	0032	pou	bundle	nc_np	nc_np				
+kalamang	kuawi	0032	-un	-3POSS	nc_pro.h	nc_pro	h		311	
+kalamang	kuawi	0032	opa	ANA	nc	nc				
+kalamang	kuawi	0032	me	TOP	nc	nc				
+kalamang	kuawi	0033	#	#	#nc	#nc				
+kalamang	kuawi	0033	[INAUDIBLE]	NC	nc	nc				
+kalamang	kuawi	0034	#	#	##	##				
+kalamang	kuawi	0034	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0034	bo	go	lv	lv				
+kalamang	kuawi	0034	kitko	top.LOC	np:l	np		l		
+kalamang	kuawi	0034	#	#	#nc	#nc				
+kalamang	kuawi	0034	ma	NC	nc	nc				
+kalamang	kuawi	0034	bo	NC	nc	nc				
+kalamang	kuawi	0034	ur kirun	NC	nc_np	nc_np			302	
+kalamang	kuawi	0034	opa	NC	nc	nc				
+kalamang	kuawi	0034	taukodaet	NC	nc	nc				
+kalamang	kuawi	0034	koi	NC	nc	nc				
+kalamang	kuawi	0034	miara	NC	nc	nc				
+kalamang	kuawi	0034	#	#	##	##				
+kalamang	kuawi	0034	ma	3SG	pro.h:a	pro	h	a	311	
+kalamang	kuawi	0034	ZERO	ZERO	0:p	0		p	317	
+kalamang	kuawi	0034	lapas	drop	v:pred	v		pred		
+kalamang	kuawi	0034	#	#	##	##				
+kalamang	kuawi	0034	taukodaet	some_more	np:s	np		s	318	bridging
+kalamang	kuawi	0034	koi	then	other	other				
+kalamang	kuawi	0034	mia-ra	come-NFIN	v:pred	v		pred		
+kalamang	kuawi	0034	#	#	##	##				
+kalamang	kuawi	0034	ma	3SG	pro.h:a	pro	h	a	311	
+kalamang	kuawi	0034	ZERO	ZERO	0:p	0		p	318	
+kalamang	kuawi	0034	lapas	drop	v:pred	v		pred		
+kalamang	kuawi	0035	#	#	##	##				
+kalamang	kuawi	0035	ZERO	ZERO	0.h:a	0	h	a	311	
+kalamang	kuawi	0035	ZERO	ZERO	0:p	0		p	318	
+kalamang	kuawi	0035	lapas	drop	v:pred	v		pred		
+kalamang	kuawi	0035	=ta	=NFIN	=rv	=rv				
+kalamang	kuawi	0035	#	#	##	##				
+kalamang	kuawi	0035	enem	older_or_respected_woman	np.h:s	np	h	s	307	
+kalamang	kuawi	0035	kome	look	v:pred	v		pred		
+kalamang	kuawi	0035	bara	descend	rv	rv				
+kalamang	kuawi	0035	ah	INT	other	other				
+kalamang	kuawi	0036	#	#	##	##				
+kalamang	kuawi	0036	ZERO	ZERO	0:s	0		s	312	
+kalamang	kuawi	0036	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0036	pukmang	fall_sound	rv	rv				
+kalamang	kuawi	0037	#	#	##	##				
+kalamang	kuawi	0037	ma	3SG	0:s	0		s	312	
+kalamang	kuawi	0037	pukmang	fall_sound	v:pred	v		pred		
+kalamang	kuawi	0037	#	#	##	##				
+kalamang	kuawi	0037	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0037	kome	look	v:pred	v		pred		
+kalamang	kuawi	0037	bara	descend	rv	rv				
+kalamang	kuawi	0038	#	#	##ds	##ds				
+kalamang	kuawi	0038	dodon	things	np:p	np		p	312	
+kalamang	kuawi	0038	inggon	1PL.EXCL.POSS	rn_pro.1:poss	rn_pro	1	poss	301	
+kalamang	kuawi	0038	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0038	yuwane	PROX	rn	rn				
+kalamang	kuawi	0038	opa	ANA	rn	rn				
+kalamang	kuawi	0039	ZERO	ZERO	0.h:a	0	h	a	311	
+kalamang	kuawi	0039	se	IAM	other	other				
+kalamang	kuawi	0039	koi	then	other	other				
+kalamang	kuawi	0039	bon	bring	v:pred	v		pred		
+kalamang	kuawi	0039	sara	ascend	rv	rv				
+kalamang	kuawi	0039	opa	ANA	other	other				
+kalamang	kuawi	0039	me	TOP	other	other				
+kalamang	kuawi	0039	#	#	##ds	##ds				
+kalamang	kuawi	0039	ma	3SG	pro.h:a	pro	h	a	311	
+kalamang	kuawi	0039	ZERO	ZERO	0:p	0		p	312	
+kalamang	kuawi	0039	paruak	drop	v:pred	v		pred		
+kalamang	kuawi	0039	#	#	##ds	##ds				
+kalamang	kuawi	0039	ma	3SG	pro:s	pro		s	312	
+kalamang	kuawi	0039	koi	then	other	other				
+kalamang	kuawi	0039	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0039	reba	PROG	other	other				
+kalamang	kuawi	0040	#	#	##	##				
+kalamang	kuawi	0040	mindi	like_that	other	other				
+kalamang	kuawi	0040	ma	3SG	pro.h:a	pro	h	a	311	
+kalamang	kuawi	0040	he	IAM	other	other				
+kalamang	kuawi	0040	koi	then	other	other				
+kalamang	kuawi	0041	ah	INT	other	other				
+kalamang	kuawi	0041	toman	bag	np:p	np		p		
+kalamang	kuawi	0041	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	311	
+kalamang	kuawi	0041	dodon	things	rn_np	rn_np			312	
+kalamang	kuawi	0041	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	311	
+kalamang	kuawi	0041	neko-ren	inside-AT	rn	rn				
+kalamang	kuawi	0041	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0041	paruak	throw_away	v:pred	v		pred		
+kalamang	kuawi	0042	#	#	##ds	##ds				
+kalamang	kuawi	0042	eh	QUOT	other	other				
+kalamang	kuawi	0042	dodon	things	np:s	np		s	312	
+kalamang	kuawi	0042	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	311	
+kalamang	kuawi	0042	me	TOP	other	other				
+kalamang	kuawi	0042	yua	PROX	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0043	#	#	##ds	##ds				
+kalamang	kuawi	0043	dodon	stuff	np:s	np		s	312	
+kalamang	kuawi	0043	kies	wrap	rn	rn				
+kalamang	kuawi	0043	opa	ANA	rn	rn				
+kalamang	kuawi	0043	ba	but	other	other				
+kalamang	kuawi	0043	ma	3SG	pro:appos	pro		appos		
+kalamang	kuawi	0043	yumene	DIST	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0044	#	#	##	##				
+kalamang	kuawi	0044	ma	3SG	pro:s	pro		s	312	
+kalamang	kuawi	0044	yumene	DIST	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0045	#	#	##	##				
+kalamang	kuawi	0045	ah	INT	other	other				
+kalamang	kuawi	0045	mindi	like_that	other	other				
+kalamang	kuawi	0045	ma	3SG	nc	nc				
+kalamang	kuawi	0045	he	IAM	other	other				
+kalamang	kuawi	0046	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0046	koi	then	other	other				
+kalamang	kuawi	0046	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	kuawi	0046	#	#	##	##				
+kalamang	kuawi	0046	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0046	keit	top	np:l	np		l	319	bridging
+kalamang	kuawi	0046	osa	up	rn	rn				
+kalamang	kuawi	0046	=ngga	=LAT	=rn	=rn				
+kalamang	kuawi	0046	koi	again	other	other				
+kalamang	kuawi	0046	puru-ren-gap	fall-AT-SIM	lv	lv				
+kalamang	kuawi	0046	=te	=NFIN	=lv	=lv				
+kalamang	kuawi	0046	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0046	#	#	##	##				
+kalamang	kuawi	0046	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0046	marain	3SG.alone	pro.h:appos	pro	h	appos	311	
+kalamang	kuawi	0046	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0046	dalang	jump	v:pred	v		pred		
+kalamang	kuawi	0047	#	#	##	##				
+kalamang	kuawi	0047	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0047	marain	3SG.alone	pro.h:appos	pro	h	appos	311	
+kalamang	kuawi	0047	dalang-de	jump-NFIN	v:pred	v		pred		
+kalamang	kuawi	0048	#	#	##	##				
+kalamang	kuawi	0048	ma	3SG	pro.h:s	pro	h	s	311	
+kalamang	kuawi	0048	bara-n	descend-N	v:pred	v		pred		
+kalamang	kuawi	0048	#	#	##	##				
+kalamang	kuawi	0048	ZERO	ZERO	0.h:s	0	h	s		
+kalamang	kuawi	0048	bara-re	descend-NFIN	lv	lv				
+kalamang	kuawi	0048	bo	go	lv	lv				
+kalamang	kuawi	0048	ewun	tree_base	np:g	np		g		
+kalamang	kuawi	0048	=ggo	=LOC	=rn	=rn				
+kalamang	kuawi	0048	pukmang	fall_sound	v:pred	v		pred		
+kalamang	kuawi	0048	#	#	##	##				
+kalamang	kuawi	0048	mindi	like_that	other	other				
+kalamang	kuawi	0048	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0048	koi	then	other	other				
+kalamang	kuawi	0048	tarakmang-de	startled-NFIN	v:pred	v		pred		
+kalamang	kuawi	0048	#	#	##ds	##ds				
+kalamang	kuawi	0048	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0048	se	IAM	other	other				
+kalamang	kuawi	0048	bara	descend	lv	lv				
+kalamang	kuawi	0048	ewun	tree_base	np:g	np		g		
+kalamang	kuawi	0048	=ggo	=LOC	=rn	=rn				
+kalamang	kuawi	0049	#	#	##ds	##ds				
+kalamang	kuawi	0049	o	INTJ	other	other				
+kalamang	kuawi	0049	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0049	se	IAM	other	other				
+kalamang	kuawi	0049	lalat	die	v:pred	v		pred		
+kalamang	kuawi	0050	#	#	##	##				
+kalamang	kuawi	0050	mera	then	other	other				
+kalamang	kuawi	0050	me	TOP	other	other				
+kalamang	kuawi	0050	#	#	##	##				
+kalamang	kuawi	0050	ma	3SG	pro.h:s_ds	pro	h	s_ds	307	
+kalamang	kuawi	0050	toni	say	v:pred	v		pred		
+kalamang	kuawi	0050	o	EMPH	other	other				
+kalamang	kuawi	0051	#	#	##ds	##ds				
+kalamang	kuawi	0051	an	1SG	pro.1:s	pro	1	s	307	
+kalamang	kuawi	0051	toni	think	v:pred	v		pred		
+kalamang	kuawi	0051	ba	but	other	other				
+kalamang	kuawi	0051	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	kuawi	0051	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0051	he	IAM	other	other				
+kalamang	kuawi	0051	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0051	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	kuawi	0051	padahal	however	other	other				
+kalamang	kuawi	0051	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0051	koi	then	other	other				
+kalamang	kuawi	0051	tur	fall	v:pred	v		pred		
+kalamang	kuawi	0052	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0052	ZERO	ZERO	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0052	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0052	=nin	=NEG	=rv	=rv				
+kalamang	kuawi	0052	ba	but	other	other				
+kalamang	kuawi	0053	#	#	##ds	##ds				
+kalamang	kuawi	0053	ZERO	ZERO	0:a	0		a	307	
+kalamang	kuawi	0053	ka	2SG	pro.2:p	pro	2	p	311	
+kalamang	kuawi	0053	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0053	paruo	make	v:pred	v		pred		
+kalamang	kuawi	0053	#	#	##ds	##ds				
+kalamang	kuawi	0053	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0053	dalang	jump	lv	lv				
+kalamang	kuawi	0053	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0053	sara	ascend	v:pred	v		pred		
+kalamang	kuawi	0053	opa	ANA	other	other				
+kalamang	kuawi	0053	me	TOP	other	other				
+kalamang	kuawi	0053	#	#	##ds	##ds				
+kalamang	kuawi	0053	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0053	he	IAM	other	other				
+kalamang	kuawi	0053	koi	then	other	other				
+kalamang	kuawi	0053	tur	fall	lv	lv				
+kalamang	kuawi	0053	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0053	bara	descend	lv	lv				
+kalamang	kuawi	0053	ewun	tree_base	np:g	np		g		
+kalamang	kuawi	0053	=ggo	=LOC	=rn	=rn				
+kalamang	kuawi	0054	#	#	##ds	##ds				
+kalamang	kuawi	0054	wa	PROX	dem_pro:s	dem_pro		s		
+kalamang	kuawi	0054	me	TOP	other	other				
+kalamang	kuawi	0054	tamandi	how	other:pred	other		pred		
+kalamang	kuawi	0054	#	#	##ds	##ds				
+kalamang	kuawi	0054	ka	2SG	pro.2:s	pro	2	s	311	
+kalamang	kuawi	0054	he	IAM	other	other				
+kalamang	kuawi	0054	neba	PLH	other	other				
+kalamang	kuawi	0054	ror	tree	np:l	np		l	319	
+kalamang	kuawi	0054	timun	edge	rn	rn				
+kalamang	kuawi	0054	osangga	up.LAT	rn	rn				
+kalamang	kuawi	0054	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0054	=re	=NFIN	=rv	=rv				
+kalamang	kuawi	0054	#	#	##ds	##ds				
+kalamang	kuawi	0054	ZERO	ZERO	0.h:s	0	h	s	311	
+kalamang	kuawi	0054	ror	tree	np:g	np		g	316	
+kalamang	kuawi	0054	ewunggoren	bottom.LOC	rn	rn				
+kalamang	kuawi	0054	kawawarte	fall?	v:pred	v		pred		
+kalamang	kuawi	0054	#	#	##	##				
+kalamang	kuawi	0054	ZERO	ZERO	0:s	0		s		
+kalamang	kuawi	0054	he	IAM	other	other				
+kalamang	kuawi	0054	ten-da	bad-NFIN	v:pred	v		pred		
+kalamang	kuawi	0054	me	TOP	other	other				
+kalamang	kuawi	0054	se	IAM	other	other				
+kalamang	kuawi	0055	#	#	##	##				
+kalamang	kuawi	0055	jadi	so	other	other				
+kalamang	kuawi	0055	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0055	he	IAM	other	other				
+kalamang	kuawi	0055	melelu	sit	v:pred	v		pred		
+kalamang	kuawi	0055	nafikir	think	rn	rn				
+kalamang	kuawi	0055	#	#	##ds	##ds				
+kalamang	kuawi	0055	o	EMPH	other	other				
+kalamang	kuawi	0055	wa	PROX	dem_pro:s	dem_pro		s		
+kalamang	kuawi	0055	me	TOP	other	other				
+kalamang	kuawi	0055	tamandi	how	other:pred	other		pred		
+kalamang	kuawi	0055	=et	=IRR	=other	=other				
+kalamang	kuawi	0055	#	#	##	##				
+kalamang	kuawi	0055	memang	true	other	other				
+kalamang	kuawi	0055	karena	because	other	other				
+kalamang	kuawi	0055	esnem	man	np.h:s	np	h	s	311	
+kalamang	kuawi	0055	se	IAM	other	other				
+kalamang	kuawi	0055	lalat	die	v:pred	v		pred		
+kalamang	kuawi	0056	#	#	#nc	#nc				
+kalamang	kuawi	0056	untuk	for	nc	nc				
+kalamang	kuawi	0056	cara	way	nc	nc				
+kalamang	kuawi	0056	borun	road	nc	nc				
+kalamang	kuawi	0056	me	TOP	nc	nc				
+kalamang	kuawi	0056	he	IAM	nc	nc				
+kalamang	kuawi	0056	memang	true	nc	nc				
+kalamang	kuawi	0056	se	IAM	nc	nc				
+kalamang	kuawi	0056	eranun	cannot	nc	nc				
+kalamang	kuawi	0057	#	#	##	##				
+kalamang	kuawi	0057	jadi	so	other	other				
+kalamang	kuawi	0057	kalo	if	other	other				
+kalamang	kuawi	0057	ZERO	ZERO	0:s	0		s	307	
+kalamang	kuawi	0057	bisa	can	v:pred	v		pred		
+kalamang	kuawi	0057	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0057	#	#	##	##				
+kalamang	kuawi	0057	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0057	me	TOP	other	other				
+kalamang	kuawi	0057	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0057	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0057	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kuawi	0057	reba-re	PROG-NFIN	other	other				
+kalamang	kuawi	0058	#	#	##	##				
+kalamang	kuawi	0058	ZERO	ZERO	0.h:s	0	h	s	307	
+kalamang	kuawi	0058	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0058	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0058	ruom	foothill	np:pred_g	np		pred_g		
+kalamang	kuawi	0058	=go	=LOC	=rn	=rn				
+kalamang	kuawi	0058	reba	PROG	other	other				
+kalamang	kuawi	0058	=et	=IRR	=other	=other				
+kalamang	kuawi	0059	#	#	##ds	##ds				
+kalamang	kuawi	0059	eh	QUOT	other	other				
+kalamang	kuawi	0060	tumtum	child	np.h:voc	np	h	voc	314	
+kalamang	kuawi	0061	pi	1PL.INCL	pro.1:s	pro	1	s	320	bridging
+kalamang	kuawi	0061	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0061	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0061	ruom	foothill	np:pred_g	np		pred_g	321	bridging
+kalamang	kuawi	0061	=go	=LOC	=rn	=rn				
+kalamang	kuawi	0061	=et	=IRR	=other	=other				
+kalamang	kuawi	0062	#	#	##ds	##ds				
+kalamang	kuawi	0062	ZERO	ZERO	0:s	0		s	320	
+kalamang	kuawi	0062	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0062	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0062	ruom	foothill	np:pred_g	np		pred_g		
+kalamang	kuawi	0062	=go	=LOC	=rn	=rn				
+kalamang	kuawi	0062	=et	=IRR	=other	=other				
+kalamang	kuawi	0062	ba	but	other	other				
+kalamang	kuawi	0062	karena	because	other	other				
+kalamang	kuawi	0062	#	#	##ds	##ds				
+kalamang	kuawi	0062	esa	adult_man	np.h:s	np	h	s	311	
+kalamang	kuawi	0062	-an	-1SG.POSS	-rn_pro:poss	-rn_pro		poss	307	
+kalamang	kuawi	0062	se	IAM	other	other				
+kalamang	kuawi	0062	wandi	like_this	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0062	#	#	##ds	##ds				
+kalamang	kuawi	0062	tamandi	how	other:s	other		s		
+kalamang	kuawi	0062	he	IAM	other	other				
+kalamang	kuawi	0062	paruo-t	do-T	v:pred	v		pred		
+kalamang	kuawi	0062	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0063	#	#	##ds	##ds				
+kalamang	kuawi	0063	esa	adult_man	np.h:s	np	h	s	311	
+kalamang	kuawi	0063	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	307	
+kalamang	kuawi	0063	se	IAM	other	other				
+kalamang	kuawi	0063	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0063	kawawar	break	rv	rv				
+kalamang	kuawi	0063	=ta	=NFIN	=rv	=rv				
+kalamang	kuawi	0063	yua	PROX	other	other				
+kalamang	kuawi	0064	#	#	##ds	##ds				
+kalamang	kuawi	0064	ZERO	ZERO	0.h:s	0	h	s	311	
+kalamang	kuawi	0064	toni	think	v:pred	v		pred		
+kalamang	kuawi	0064	ba	but	other	other				
+kalamang	kuawi	0064	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	kuawi	0064	esa	adult_man	np:s	np		s	311	
+kalamang	kuawi	0064	-an	-1SG.POSS	-rn_pro.1:poss	-rn_pro	1	poss	307	
+kalamang	kuawi	0064	se	IAM	other	other				
+kalamang	kuawi	0064	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0064	et	canoe	np:obl	np		obl	308	
+kalamang	kuawi	0064	opa	ANA	rn	rn				
+kalamang	kuawi	0064	me	TOP	rn	rn				
+kalamang	kuawi	0064	bon	COM	rn	rn				
+kalamang	kuawi	0065	#	#	#nc	#nc				
+kalamang	kuawi	0065	padahal	however	nc	nc				
+kalamang	kuawi	0065	ma	3SG	nc_pro.h	nc_pro	h		311	
+kalamang	kuawi	0065	koi	then	nc	nc				
+kalamang	kuawi	0066	ah	INT	nc	nc				
+kalamang	kuawi	0067	#	#	##	##				
+kalamang	kuawi	0067	mindi	like_that	other	other				
+kalamang	kuawi	0067	=ta	=NFIN	=other	=other				
+kalamang	kuawi	0067	me	TOP	other	other				
+kalamang	kuawi	0067	mu	3PL	pro.h:s	pro	h	s	320	
+kalamang	kuawi	0067	he	IAM	other	other				
+kalamang	kuawi	0067	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0068	#	#	##	##				
+kalamang	kuawi	0068	ZERO	ZERO	0:s	0		s	320	
+kalamang	kuawi	0068	bara	descend	v:pred	v		pred		
+kalamang	kuawi	0068	kome-t	see-T	rv	rv				
+kalamang	kuawi	0068	ba	but	other	other				
+kalamang	kuawi	0068	#	#	##	##				
+kalamang	kuawi	0068	oh	EMPH	other	other				
+kalamang	kuawi	0068	oh	EMPH	other	other				
+kalamang	kuawi	0068	ZERO	ZERO	0.h:s	0	h	s	320	
+kalamang	kuawi	0068	kome	look	v:pred	v		pred		
+kalamang	kuawi	0068	he	IAM	nc	nc				
+kalamang	kuawi	0068	bara	descend	nc	nc				
+kalamang	kuawi	0068	#	#	##	##				
+kalamang	kuawi	0068	warkin	tide	nc	nc				
+kalamang	kuawi	0069	warkin	tide	np:s	np		s	322	bridging
+kalamang	kuawi	0069	bo	go	lv	lv				
+kalamang	kuawi	0069	garos	low	v:pred	v		pred		
+kalamang	kuawi	0069	#	#	##	##				
+kalamang	kuawi	0069	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0069	temun-dende	big-so	v:pred	v		pred		
+kalamang	kuawi	0070	#	#	##	##				
+kalamang	kuawi	0070	ah	INT	other	other				
+kalamang	kuawi	0070	karena	because	other	other				
+kalamang	kuawi	0070	kuawi	north	np:s	np		s	302	
+kalamang	kuawi	0070	biasa	normal	other	other				
+kalamang	kuawi	0070	ma	3SG	pro:assoc	pro		assoc	302	
+kalamang	kuawi	0070	warkin	tide	rn	rn				
+kalamang	kuawi	0070	temun	big	v:pred	v		pred		
+kalamang	kuawi	0070	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0070	#	#	##	##				
+kalamang	kuawi	0070	eba	then	other	other				
+kalamang	kuawi	0070	ma	3SG	pro:s	pro		s	302	
+kalamang	kuawi	0070	kouw	blow	v:pred	v		pred		
+kalamang	kuawi	0070	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0071	#	#	##	##				
+kalamang	kuawi	0071	nauparpar	morning	other	other				
+kalamang	kuawi	0071	wandi	like_this	other	other				
+kalamang	kuawi	0071	=et	=IRR	=lv	=lv				
+kalamang	kuawi	0071	go git	it_is_cloudy	v:pred	v		pred		
+kalamang	kuawi	0071	#	#	#	#				
+kalamang	kuawi	0071	mu	3PL	pro.h:s	pro	h	s		
+kalamang	kuawi	0071	toni	think	v:pred	v		pred		
+kalamang	kuawi	0071	#	#	#cc:other	#cc		other		
+kalamang	kuawi	0071	kalis	rain	v:pred	v		pred		
+kalamang	kuawi	0071	=kin	=VOL	=rv	=rv				
+kalamang	kuawi	0071	#	#	##	##				
+kalamang	kuawi	0071	padahal	however	other	other				
+kalamang	kuawi	0071	mu	3PL	nc	nc				
+kalamang	kuawi	0071	kuawi	north	np:predex	np		predex	302	
+kalamang	kuawi	0071	kir	cloud	rn	rn				
+kalamang	kuawi	0071	-un	-3POSS	-rn_pro:poss	-rn_pro		poss		
+kalamang	kuawi	0072	#	#	#nc	#nc				
+kalamang	kuawi	0072	kuawi	north	nc_np	nc_np			302	
+kalamang	kuawi	0072	kir	cloud	nc	nc				
+kalamang	kuawi	0072	-un	-3POSS	nc	nc				
+kalamang	kuawi	0072	yuwane	PROX	nc	nc				
+kalamang	kuawi	0073	#	#	##	##				
+kalamang	kuawi	0073	ya	yes	other	other				
+kalamang	kuawi	0073	jadi	so	other	other				
+kalamang	kuawi	0073	mu	3PL	pro.h:a	pro	h	a	315	
+kalamang	kuawi	0073	mer	DIST.OBJ	nc	nc				
+kalamang	kuawi	0073	=a	=FOC	nc	nc				
+kalamang	kuawi	0073	toni	say	v:pred	v		pred		
+kalamang	kuawi	0073	er	canoe	np:p	np		p	308	
+kalamang	kuawi	0073	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0073	paruo-t	make-NC	v:pred	v		pred		
+kalamang	kuawi	0073	=kin-da	=VOL-NFIN	=rv	=rv				
+kalamang	kuawi	0073	me	TOP	other	other				
+kalamang	kuawi	0074	#	#	#nc	#nc				
+kalamang	kuawi	0074	yo	yes	nc	nc				
+kalamang	kuawi	0075	#	#	#nc	#nc				
+kalamang	kuawi	0075	jadi	so	nc	nc				
+kalamang	kuawi	0075	kalo	if	nc	nc				
+kalamang	kuawi	0075	ma	3SG	nc_pro	nc_pro			302	
+kalamang	kuawi	0075	Pinggor	Pinggor	nc_np	nc_np			305	
+kalamang	kuawi	0075	siun	edge	nc	nc				
+kalamang	kuawi	0075	ba	but	nc	nc				
+kalamang	kuawi	0075	metko	DIST.LOC	nc	nc				
+kalamang	kuawi	0075	jadi	so	nc	nc				
+kalamang	kuawi	0076	#	#	#nc	#nc				
+kalamang	kuawi	0076	ah	INT	nc	nc				
+kalamang	kuawi	0076	mu	3PL	nc	nc				
+kalamang	kuawi	0076	Pinggor-ar	Pinggor-OBJ	nc_np	nc_np			305	
+kalamang	kuawi	0076	=a	=FOC	nc	nc				
+kalamang	kuawi	0076	kerjang	work	nc	nc				
+kalamang	kuawi	0076	-un	-3POSS	nc	nc				
+kalamang	kuawi	0076	mindi	like_that	nc	nc				
+kalamang	kuawi	0077	#	#	##	##				
+kalamang	kuawi	0077	terus	then	nc	nc				
+kalamang	kuawi	0078	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0078	he	IAM	other	other				
+kalamang	kuawi	0078	koi	then	other	other				
+kalamang	kuawi	0078	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0078	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0078	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kuawi	0079	#	#	##	##				
+kalamang	kuawi	0079	ZERO	ZERO	0.h:s	0	h	s	307	
+kalamang	kuawi	0079	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0079	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0079	marua	move_towards_sea	lv	lv				
+kalamang	kuawi	0079	ruom	foothill	np:pred_g	np		pred_g	321	
+kalamang	kuawi	0079	=go	=LOC	=rn	=rn				
+kalamang	kuawi	0079	#	#	##	##				
+kalamang	kuawi	0079	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0079	kome	look	v:pred	v		pred		
+kalamang	kuawi	0079	marua	move_towards_sea	rv	rv				
+kalamang	kuawi	0079	#	#	##ds	##ds				
+kalamang	kuawi	0079	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0079	bo	go	lv	lv				
+kalamang	kuawi	0079	garos	low	lv	lv				
+kalamang	kuawi	0079	gosomin	disappeared	v:pred	v		pred		
+kalamang	kuawi	0080	#	#	##	##				
+kalamang	kuawi	0080	warkin	tide	np:s	np		s		
+kalamang	kuawi	0080	se	IAM	other	other				
+kalamang	kuawi	0080	bo-re	go-NFIN	v:pred	v		pred		
+kalamang	kuawi	0080	#	#	##	##				
+kalamang	kuawi	0080	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0080	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	kuawi	0081	#	#	##ds	##ds				
+kalamang	kuawi	0081	aduh	INTJ	other	other				
+kalamang	kuawi	0082	hema	INTJ	other	other				
+kalamang	kuawi	0083	ZERO	ZERO	0:a	0		a		
+kalamang	kuawi	0083	go	condition	np:p	np		p	323	bridging
+kalamang	kuawi	0083	yua	PROX	rn	rn				
+kalamang	kuawi	0083	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0083	wa	PROX	nc	nc				
+kalamang	kuawi	0083	=at	=OBJ	nc	nc				
+kalamang	kuawi	0083	masir	weed	lv	lv				
+kalamang	kuawi	0083	=te	=NFIN	=lv	=lv				
+kalamang	kuawi	0083	se	IAM	other	other				
+kalamang	kuawi	0083	bo-re	go-NFIN	v:pred	v		pred		
+kalamang	kuawi	0084	#	#	##	##				
+kalamang	kuawi	0084	ma	3SG	pro.h:a	pro	h	a	307	
+kalamang	kuawi	0084	amdir	garden	np:p	np		p		
+kalamang	kuawi	0084	wandi	like_this	rn	rn				
+kalamang	kuawi	0084	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0084	paruo	make	v:pred	v		pred		
+kalamang	kuawi	0084	#	#	##neg	##neg				
+kalamang	kuawi	0084	sontum	person	np.h:s	np	h	s		
+kalamang	kuawi	0084	muap-koya-t	food-plant-T	v:pred	v		pred		
+kalamang	kuawi	0084	=nin	=NEG	=rv	=rv				
+kalamang	kuawi	0085	#	#	#nc	#nc				
+kalamang	kuawi	0085	a	FIL	nc	nc				
+kalamang	kuawi	0085	kalo	if	nc	nc				
+kalamang	kuawi	0085	pikiran	thoughts	nc_np	nc_np			324	new
+kalamang	kuawi	0086	se	NC	nc	nc				
+kalamang	kuawi	0086	maongga	NC	nc_pro	nc_pro			307	
+kalamang	kuawi	0086	ma	NC	nc_pro	nc_pro			307	
+kalamang	kuawi	0086	he	NC	nc	nc				
+kalamang	kuawi	0086	go	NC	nc_np	nc_np			323	
+kalamang	kuawi	0086	pikiran	thoughts	nc_np	nc_np			324	
+kalamang	kuawi	0086	-un	-3POSS	nc	nc				
+kalamang	kuawi	0086	ma	3SG	nc_pro	nc_pro			307	
+kalamang	kuawi	0086	he	IAM	nc	nc				
+kalamang	kuawi	0086	sampe	until	nc	nc				
+kalamang	kuawi	0086	miasin	DIST.DGR	nc	nc				
+kalamang	kuawi	0087	#	#	##	##				
+kalamang	kuawi	0087	ah	INT	other	other				
+kalamang	kuawi	0087	lalu	then	other	other				
+kalamang	kuawi	0087	ma	3SG	pro.h:s	pro	h	s	307	
+kalamang	kuawi	0087	he	IAM	other:pred	other		pred		
+kalamang	kuawi	0088	#	#	##ds	##ds				
+kalamang	kuawi	0088	e	FIL	other	other				
+kalamang	kuawi	0088	lebai	better	other	other				
+kalamang	kuawi	0089	pi	1PL.INCL	pro.1:a	pro	1	a	320	
+kalamang	kuawi	0089	dowi	seed	np:p	np		p	325	new
+kalamang	kuawi	0089	-ye	-1PL.INCL.POSS	-rn_pro.1:poss	-rn_pro	1	poss	320	
+kalamang	kuawi	0089	neba	PLH	rn	rn				
+kalamang	kuawi	0089	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0089	=a	=FOC	=rn	=rn				
+kalamang	kuawi	0089	wa	PROX	nc	nc				
+kalamang	kuawi	0089	ma	3SG	nc	nc				
+kalamang	kuawi	0089	wilak	sea	np:l	np		l	323	
+kalamang	kuawi	0089	metko	DIST.LOC	rn	rn				
+kalamang	kuawi	0090	metko	DIST.LOC	rn	rn				
+kalamang	kuawi	0090	koya-r	plant-T	v:pred	v		pred		
+kalamang	kuawi	0090	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0091	#	#	##ds	##ds				
+kalamang	kuawi	0091	ZERO	ZERO	0.h:a	0	h	a	320	
+kalamang	kuawi	0091	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0091	koya-r	plant-T	v:pred	v		pred		
+kalamang	kuawi	0091	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0091	go	condition	np:l	np		l	323	
+kalamang	kuawi	0091	kalar-ten	clear-AT	rn	rn				
+kalamang	kuawi	0091	wilak	sea	rn	rn				
+kalamang	kuawi	0091	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0091	me	TOP	other	other				
+kalamang	kuawi	0092	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0092	me	TOP	other	other				
+kalamang	kuawi	0092	me	TOP	other	other				
+kalamang	kuawi	0092	se	IAM	other	other				
+kalamang	kuawi	0092	wilak	sea	np:l	np		l	323	
+kalamang	kuawi	0092	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0092	me	TOP	other	other				
+kalamang	kuawi	0092	ror	tree	np:s	np		s		
+kalamang	kuawi	0092	saerak	NEG.EXT	v:predex	v		predex		
+kalamang	kuawi	0092	se	IAM	other	other				
+kalamang	kuawi	0093	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0093	pi	1PL.INCL	pro.1:a	pro	1	a	320	
+kalamang	kuawi	0093	he	IAM	other	other				
+kalamang	kuawi	0093	ZERO	ZERO	0:p	0		p	323	
+kalamang	kuawi	0093	komaruk	burn	v:pred	v		pred		
+kalamang	kuawi	0093	=nin	=NEG	=rv	=rv				
+kalamang	kuawi	0093	#	#	##ds	##ds				
+kalamang	kuawi	0093	cuma	NC	other	other				
+kalamang	kuawi	0093	tinggal	stay	other	other				
+kalamang	kuawi	0093	ZERO	ZERO	0:s	0		s	320	
+kalamang	kuawi	0093	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kuawi	0093	#	#	##ds	##ds				
+kalamang	kuawi	0093	pi	1PL.INCL	pro.1:a	pro	1	a	320	
+kalamang	kuawi	0093	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0093	koya	plant	v:pred	v		pred		
+kalamang	kuawi	0093	reba-re	PROG-IMP	rv	rv				
+kalamang	kuawi	0094	#	#	#nc	#nc				
+kalamang	kuawi	0094	ah	INT	nc	nc				
+kalamang	kuawi	0095	#	#	#nc	#nc				
+kalamang	kuawi	0095	ajak	invite	nc	nc				
+kalamang	kuawi	0096	ajak	invite	nc	nc				
+kalamang	kuawi	0096	taman-taman	friend-RED	nc_np.h	nc_np	h		326	new
+kalamang	kuawi	0096	opa	ANA	nc	nc				
+kalamang	kuawi	0096	me	TOP	nc	nc				
+kalamang	kuawi	0096	#	#	#nc	#nc				
+kalamang	kuawi	0096	yo	yes	nc	nc				
+kalamang	kuawi	0096	haidak	true	nc	nc				
+kalamang	kuawi	0096	some	ENC	nc	nc				
+kalamang	kuawi	0096	warkin	tide	nc_np	nc_np			322	
+kalamang	kuawi	0096	bo	go	nc	nc				
+kalamang	kuawi	0097	#	#	##ds	##ds				
+kalamang	kuawi	0097	go	condition	np:s	np		s	323	
+kalamang	kuawi	0097	bo	go	lv	lv				
+kalamang	kuawi	0097	karara-un	dry-NMLZ	np:assoc	np		assoc		
+kalamang	kuawi	0097	bo	go	lv	lv				
+kalamang	kuawi	0097	wilak	sea	np:pred_l	np		pred_l		
+kalamang	kuawi	0097	=ko	=LOC	=rv	=rv				
+kalamang	kuawi	0097	mindi	like_that	other	other				
+kalamang	kuawi	0097	ba	but	other	other				
+kalamang	kuawi	0097	#	#	##ds	##ds				
+kalamang	kuawi	0097	eih	INT.E	other	other				
+kalamang	kuawi	0098	ZERO	ZERO	0.2:s	0	2	s	326	
+kalamang	kuawi	0098	marua-t	move_towards_sea-T	v:pred	v		pred		
+kalamang	kuawi	0098	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0098	#	#	##	##				
+kalamang	kuawi	0098	mu	3PL	pro.h:s	pro	h	s	326	
+kalamang	kuawi	0098	he	IAM	other	other				
+kalamang	kuawi	0098	ke	NC	nc	nc				
+kalamang	kuawi	0098	se	IAM	nc	nc				
+kalamang	kuawi	0098	kiem	run	v:pred	v		pred		
+kalamang	kuawi	0098	kiem	run	nc	nc				
+kalamang	kuawi	0098	kiem	run	nc	nc				
+kalamang	kuawi	0098	kiem	run	nc	nc				
+kalamang	kuawi	0098	marua	move_towards_sea	rv	rv				
+kalamang	kuawi	0099	#	#	##	##				
+kalamang	kuawi	0099	ah	INT	other	other				
+kalamang	kuawi	0099	ZERO	ZERO	pro.h:a	pro	h	a	326	
+kalamang	kuawi	0099	dowi	seed	np:p	np		p	325	
+kalamang	kuawi	0099	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0099	kuru	bring	lv	lv				
+kalamang	kuawi	0099	marua	move_towards_sea	lv	lv				
+kalamang	kuawi	0099	merengguen-da	gather-NFIN	lv	lv				
+kalamang	kuawi	0099	metko	DIST.LOC	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0100	#	#	##	##				
+kalamang	kuawi	0100	masing masing	each	other.h:s	other	h	s	326	
+kalamang	kuawi	0100	kera	border	np:l	np		l		
+kalamang	kuawi	0100	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	326	
+kalamang	kuawi	0100	=ggo	=LOC	=rn	=rn				
+kalamang	kuawi	0100	koya	plant	v:pred	v		pred		
+kalamang	kuawi	0101	#	#	##	##				
+kalamang	kuawi	0101	kon	one	other.h:a	other	h	a	327	bridging
+kalamang	kuawi	0101	main	3PL.POSS	pro:p	pro		p		
+kalamang	kuawi	0101	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0101	koya-n	plant-N	lv	lv				
+kalamang	kuawi	0101	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0101	koyet	finish	v:pred	v		pred		
+kalamang	kuawi	0101	#	#	##	##				
+kalamang	kuawi	0101	koi	then	other	other				
+kalamang	kuawi	0101	kodaet-nan	one_more_too	other.h:a	other	h	a	327	
+kalamang	kuawi	0101	main	3SG.POSS	pro:p	pro		p		
+kalamang	kuawi	0101	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0101	koya-n	plant-N	lv	lv				
+kalamang	kuawi	0101	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0101	koyet	finish	v:pred	v		pred		
+kalamang	kuawi	0101	#	#	##	##				
+kalamang	kuawi	0101	koi	then	other	other				
+kalamang	kuawi	0101	kodaet-nan	one_more	other:a	other		a	327	
+kalamang	kuawi	0101	main	3SG.POSS	pro:p	pro		p		
+kalamang	kuawi	0101	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0101	koya-n	plant-N	lv	lv				
+kalamang	kuawi	0101	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0101	koyet	finish	v:pred	v		pred		
+kalamang	kuawi	0101	#	#	##	##				
+kalamang	kuawi	0101	ZERO	ZERO	0:s	0		s		
+kalamang	kuawi	0101	se koyet	finished	v:pred	v		pred		
+kalamang	kuawi	0102	#	#	#nc	#nc				
+kalamang	kuawi	0102	ah	INT	nc	nc				
+kalamang	kuawi	0102	se koyet	finished	nc	nc				
+kalamang	kuawi	0102	se koyet	finished	nc	nc				
+kalamang	kuawi	0102	#	#	##ds	##ds				
+kalamang	kuawi	0102	pi	1PL.INCL	pro.1:s	pro	1	s	326	
+kalamang	kuawi	0102	he	IAM	other	other				
+kalamang	kuawi	0102	bo	go	v:pred	v		pred		
+kalamang	kuawi	0102	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0103	#	#	##	##				
+kalamang	kuawi	0103	ah	INT	other	other				
+kalamang	kuawi	0103	kebetulan	by_chance	other	other				
+kalamang	kuawi	0103	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0103	laur-laur	rising_tide-RED	lv	lv				
+kalamang	kuawi	0103	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0103	sara-sara	climb-RED	v:pred	v		pred		
+kalamang	kuawi	0103	#	#	##	##				
+kalamang	kuawi	0103	dowi	seed	np:s	np		s	325	
+kalamang	kuawi	0103	opa	ANA	rn	rn				
+kalamang	kuawi	0103	me-nan	TOP-too	rn	rn				
+kalamang	kuawi	0103	se	IAM	other	other				
+kalamang	kuawi	0103	pouk	float	v:pred	v		pred		
+kalamang	kuawi	0103	=te	=NFIN	=rv	=rv				
+kalamang	kuawi	0104	#	#	##	##				
+kalamang	kuawi	0104	mindi	like_that	other	other				
+kalamang	kuawi	0104	mu	3PL	pro.h:a	pro	h	a	328	bridging
+kalamang	kuawi	0104	he	IAM	other	other				
+kalamang	kuawi	0104	osew	beach	np:p	np		p	329	new
+kalamang	kuawi	0104	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0104	marmar	walk	lv	lv				
+kalamang	kuawi	0104	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0104	pareiwareir	follow	v:pred	v		pred		
+kalamang	kuawi	0105	#	#	##	##				
+kalamang	kuawi	0105	mu	3PL	pro.h:a	pro	h	a	328	
+kalamang	kuawi	0105	osew	beach	np:p	np		p	329	
+kalamang	kuawi	0105	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0105	marmar	walk	lv	lv				
+kalamang	kuawi	0105	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0105	pareiwareir	follow	v:pred	v		pred		
+kalamang	kuawi	0105	#	#	##	##				
+kalamang	kuawi	0105	ZERO	ZERO	0.h:s	0	h	s	328	
+kalamang	kuawi	0105	kome-ra	look-NFIN	v:pred	v		pred		
+kalamang	kuawi	0105	#	#	##ds	##ds				
+kalamang	kuawi	0105	ah	INT	other	other				
+kalamang	kuawi	0106	an	1SG	pro.1:s	pro	1	s	327	
+kalamang	kuawi	0106	kona	think	v:pred	v		pred		
+kalamang	kuawi	0106	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	kuawi	0106	don	thing	np:p	np		p	325	
+kalamang	kuawi	0106	opa	ANA	rn	rn				
+kalamang	kuawi	0106	pi	1PL.INCL	pro.1:a	pro	1	a	328	
+kalamang	kuawi	0106	kuru	bring	v:pred	v		pred		
+kalamang	kuawi	0106	marua	move_towards_sea	rv	rv				
+kalamang	kuawi	0106	wilak	sea	np:l	np		l	323	
+kalamang	kuawi	0106	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0106	opa	ANA	other	other				
+kalamang	kuawi	0106	me	TOP	other	other				
+kalamang	kuawi	0106	#	#	#ds_cc:other	#ds_cc		other		
+kalamang	kuawi	0106	ma	3SG	pro:s	pro		s	325	
+kalamang	kuawi	0106	yuwane	PROX	dem_pro:pred_l	dem_pro		pred_l		
+kalamang	kuawi	0107	#	#	#nc	#nc				
+kalamang	kuawi	0107	ma	3SG	nc_pro	nc_pro			325	
+kalamang	kuawi	0107	newas	stranded	nc	nc				
+kalamang	kuawi	0107	=ta	=NFIN	nc	nc				
+kalamang	kuawi	0107	yua	PROX	nc	nc				
+kalamang	kuawi	0108	#	#	##ds	##ds				
+kalamang	kuawi	0108	ma	3SG	pro:s	pro		s	325	
+kalamang	kuawi	0108	yua	PROX	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0109	#	#	##	##				
+kalamang	kuawi	0109	mindi	like_that	other	other				
+kalamang	kuawi	0109	mu	3PL	pro.h:s	pro	h	s		
+kalamang	kuawi	0109	kome	look	v:pred	v		pred		
+kalamang	kuawi	0109	marua	move_towards_sea	rv	rv				
+kalamang	kuawi	0109	#	#	##	##				
+kalamang	kuawi	0109	ureren	wave	np:s	np		s	330	bridging
+kalamang	kuawi	0109	terarkitko	coral_stones	np:l	np		l	331	bridging
+kalamang	kuawi	0109	suosuo	break	v:pred	v		pred		
+kalamang	kuawi	0110	#	#	##ds	##ds				
+kalamang	kuawi	0110	o	EMPH	other	other				
+kalamang	kuawi	0110	som	person	np.d:a	np	d	a	332	new
+kalamang	kuawi	0110	yawe	down	rn	rn				
+kalamang	kuawi	0110	=ba	=FOC	=rn	=rn				
+kalamang	kuawi	0110	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0110	daruar	pull_out	v:pred	v		pred		
+kalamang	kuawi	0111	#	#	##	##				
+kalamang	kuawi	0111	mu	3PL	pro.h:s	pro	h	s	328	
+kalamang	kuawi	0111	kome	look	v:pred	v		pred		
+kalamang	kuawi	0111	#	#	#nc	#nc				
+kalamang	kuawi	0111	ma	3SG	nc	nc				
+kalamang	kuawi	0111	ureren	wave	nc_np	nc_np			330	
+kalamang	kuawi	0111	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0111	#	#	##ds	##ds				
+kalamang	kuawi	0111	o	EMPH	other	other				
+kalamang	kuawi	0111	som	person	np.d:s	np	d	s	332	
+kalamang	kuawi	0111	yawe	down	rn	rn				
+kalamang	kuawi	0111	=ba	=FOC	=rn	=rn				
+kalamang	kuawi	0111	dorma	pull_out	v:pred	v		pred		
+kalamang	kuawi	0112	ah	INT	nc	nc				
+kalamang	kuawi	0113	#	#	##	##				
+kalamang	kuawi	0113	mu	3PL	pro.h:a	pro	h	a	328	
+kalamang	kuawi	0113	mara	move_towards_land	v:pred	v		pred		
+kalamang	kuawi	0113	me	DIST	dem_pro:p	dem_pro		p	333	bridging
+kalamang	kuawi	0113	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0113	parenta	command	v:pred	v		pred		
+kalamang	kuawi	0113	teya	man	nc_np	nc_np			333	
+kalamang	kuawi	0113	-un	-3POSS	nc_pro.h	nc_pro	h		328	
+kalamang	kuawi	0113	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0114	#	#	##ds	##ds				
+kalamang	kuawi	0114	ZERO	ZERO	0.2:s	0	2	s	333	
+kalamang	kuawi	0114	mara	move_towards_land	v:pred	v		pred		
+kalamang	kuawi	0114	ba	but	other	other				
+kalamang	kuawi	0114	#	#	##ds	##ds				
+kalamang	kuawi	0114	ZERO	ZERO	0.2:a	0	2	a	333	
+kalamang	kuawi	0114	som	person	np.d:p	np	d	p	332	
+kalamang	kuawi	0114	yawe-ne	down-DEM.SUF	rn	rn				
+kalamang	kuawi	0114	rua-n	kill-N	v:pred	v		pred		
+kalamang	kuawi	0115	#	#	##ds	##ds				
+kalamang	kuawi	0115	dowi	seed	np:p	np		p	325	
+kalamang	kuawi	0115	opa	ANA	rn	rn				
+kalamang	kuawi	0115	in	1PL.EXCL	pro.1:a	pro	1	a	328	
+kalamang	kuawi	0115	kuru	bring	v:pred	v		pred		
+kalamang	kuawi	0115	koya-n-denden	plant-N-so	rv	rv				
+kalamang	kuawi	0115	#	#	##ds	##ds				
+kalamang	kuawi	0115	ma	3SG	pro.d:a	pro	d	a	332	
+kalamang	kuawi	0115	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0115	darua-n	pull_out-N	lv	lv				
+kalamang	kuawi	0115	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0115	koyet	finish	v:pred	v		pred		
+kalamang	kuawi	0115	#	#	##ds	##ds				
+kalamang	kuawi	0115	ZERO	ZERO	0.2:s	0	2	s	333	
+kalamang	kuawi	0115	kona	look	v:pred	v		pred		
+kalamang	kuawi	0115	#	#	##ds	##ds				
+kalamang	kuawi	0115	ma	3SG	pro.d:s	pro	d	s	332	
+kalamang	kuawi	0115	he	IAM	other	other				
+kalamang	kuawi	0115	yua	PROX	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0115	m	AGR	other	other				
+kalamang	kuawi	0116	#	#	##ds	##ds				
+kalamang	kuawi	0116	mu	3PL	pro.h:a	pro	h	a	328	
+kalamang	kuawi	0116	he	IAM	other	other				
+kalamang	kuawi	0116	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0116	kajie-n	pick-N	v:pred	v		pred		
+kalamang	kuawi	0116	kajie-n	pick-N	rv	rv				
+kalamang	kuawi	0116	#	#	##ds	##ds				
+kalamang	kuawi	0116	im	banana	np:p	np		p	334	new
+kalamang	kuawi	0117	pasiem	yellow_taro	rn_np	rn_np			335	new
+kalamang	kuawi	0117	panggala	cassava	rn_np	rn_np			336	new
+kalamang	kuawi	0117	neba	PLH	rn_np	rn_np				
+kalamang	kuawi	0117	mu	3PL	pro.h:a	pro	h	a	328	
+kalamang	kuawi	0117	kajie-n-den	pick-N-TEN	v:pred	v		pred		
+kalamang	kuawi	0118	#	#	##ds	##ds				
+kalamang	kuawi	0118	som	person	np.d:a	np	d	a	332	
+kalamang	kuawi	0118	yua	PROX	rn	rn				
+kalamang	kuawi	0118	=ba	=FOC	=rn	=rn				
+kalamang	kuawi	0118	don	thing	np:p	np		p	325	
+kalamang	kuawi	0118	darua	pull_out	v:pred	v		pred		
+kalamang	kuawi	0119	#	#	#nc	#nc				
+kalamang	kuawi	0119	ma	3SG	nc_pro.d	nc_pro	d		332	
+kalamang	kuawi	0119	dormama	pull_out	nc	nc				
+kalamang	kuawi	0120	#	#	##	##				
+kalamang	kuawi	0120	ma	3SG	pro.d:a	pro	d	a	332	
+kalamang	kuawi	0120	ZERO	ZERO	0:p	0		p	325	
+kalamang	kuawi	0120	dormamam	pull_out	v:pred	v		pred		
+kalamang	kuawi	0120	#	#	##	##				
+kalamang	kuawi	0120	ma	3SG	pro.d:s	pro	d	s	332	
+kalamang	kuawi	0120	wilak	sea	np:pred_l	np		pred_l	337	bridging
+kalamang	kuawi	0120	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0120	#	#	##ds	##ds				
+kalamang	kuawi	0120	ya	yes	other	other				
+kalamang	kuawi	0120	ma	3SG	pro.d:s	pro	d	s	332	
+kalamang	kuawi	0120	me	DIST	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0120	#	#	##ds	##ds				
+kalamang	kuawi	0120	ZERO	ZERO	0.2:s	0	2	s	333	
+kalamang	kuawi	0120	pareir	follow	lv	lv				
+kalamang	kuawi	0120	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0120	marua-t	move_towards_sea-T	v:pred	v		pred		
+kalamang	kuawi	0120	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0121	ah	INT	nc	nc				
+kalamang	kuawi	0122	#	#	##	##				
+kalamang	kuawi	0122	esmumur	man.PL	np.h:a	np	h	a	333	
+kalamang	kuawi	0122	opa	ANA	rn	rn				
+kalamang	kuawi	0122	me	TOP	other	other				
+kalamang	kuawi	0122	sedawak	machete	np:p	np		p	338	new
+kalamang	kuawi	0122	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0122	jie-n	get-N	v:pred	v		pred		
+kalamang	kuawi	0123	#	#	##	##				
+kalamang	kuawi	0123	ZERO	ZERO	0.h:a	0	h	a		
+kalamang	kuawi	0123	gala	spear	np:p	np		p	339	new
+kalamang	kuawi	0123	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0123	jie-n	get-N	lv	lv				
+kalamang	kuawi	0123	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0123	pareir	follow	lv	lv				
+kalamang	kuawi	0123	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0123	marua	move_towards_sea	v:pred	v		pred		
+kalamang	kuawi	0123	#	#	#nc	#nc				
+kalamang	kuawi	0123	ka	2SG	nc	nc				
+kalamang	kuawi	0123	nawi	NC	nc	nc				
+kalamang	kuawi	0123	=at	=OBJ	nc	nc				
+kalamang	kuawi	0123	paruo	do	nc	nc				
+kalamang	kuawi	0123	#	#	#nc	#nc				
+kalamang	kuawi	0123	ureren	wave	nc_np	nc_np			330	
+kalamang	kuawi	0123	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0123	mulai	start	nc	nc				
+kalamang	kuawi	0124	#	#	##	##				
+kalamang	kuawi	0124	mm	NC	nc	nc				
+kalamang	kuawi	0125	ZERO	ZERO	0.h:a	0	h	a	333	
+kalamang	kuawi	0125	ureren	wave	np:p	np		p	330	
+kalamang	kuawi	0125	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0125	koya	hit_with_tool	v:pred	v		pred		
+kalamang	kuawi	0125	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0125	terus	then	other	other				
+kalamang	kuawi	0126	#	#	##	##				
+kalamang	kuawi	0126	ZERO	ZERO	0.h:a	0	h	a	333	
+kalamang	kuawi	0126	ZERO	ZERO	0:p	0		p	330	
+kalamang	kuawi	0126	komain	stab	v:pred	v		pred		
+kalamang	kuawi	0126	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0126	koya	hit_with_tool	rv	rv				
+kalamang	kuawi	0126	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0126	komain	stab	rv	rv				
+kalamang	kuawi	0126	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0126	#	#	##ds	##ds				
+kalamang	kuawi	0126	ma	3SG	nc	nc				
+kalamang	kuawi	0126	ma	3SG	pro.d:s	pro	d	s	332	
+kalamang	kuawi	0126	tama	where	other:pred_l	other		pred_l		
+kalamang	kuawi	0127	#	#	##	##				
+kalamang	kuawi	0127	pasier	sea	np:s	np		s	337	
+kalamang	kuawi	0127	saerak	empty	v:predex	v		predex		
+kalamang	kuawi	0127	#	#	##	##				
+kalamang	kuawi	0127	ka	2SG	pro.2:s	pro	2	s		
+kalamang	kuawi	0127	nak=	just=	=lv	=lv				
+kalamang	kuawi	0127	komainkin	stab	v:pred	v		pred		
+kalamang	kuawi	0128	#	#	##	##				
+kalamang	kuawi	0128	ah	INT	other	other				
+kalamang	kuawi	0128	kebetulan	by_chance	other	other				
+kalamang	kuawi	0129	mu	3PL	pro.h:s	pro	h	s		
+kalamang	kuawi	0129	kowayak	cut	v:pred	v		pred		
+kalamang	kuawi	0129	#	#	##	##				
+kalamang	kuawi	0129	kon	one	other.h:dt_poss	other	h	dt_poss	340	bridging
+kalamang	kuawi	0129	opa	ANA	rn	rn				
+kalamang	kuawi	0129	me	TOP	other	other				
+kalamang	kuawi	0129	sedawa	machete	np:s	np		s	341	new
+kalamang	kuawi	0129	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	340	
+kalamang	kuawi	0129	seur	bounce_off	v:pred	v		pred		
+kalamang	kuawi	0130	#	#	##	##				
+kalamang	kuawi	0130	sedawak	machete	np:s	np		s	341	
+kalamang	kuawi	0130	seur	bounce_off	lv	lv				
+kalamang	kuawi	0130	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0130	mia	come	v:pred	v		pred		
+kalamang	kuawi	0130	#	#	##	##				
+kalamang	kuawi	0130	ZERO	ZERO	0:a	0		a	341	
+kalamang	kuawi	0130	kor	leg	np:p	np		p	342	bridging
+kalamang	kuawi	0130	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss	340	
+kalamang	kuawi	0130	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0130	kosara	hit	v:pred	v		pred		
+kalamang	kuawi	0130	aduh	INTJ	other	other				
+kalamang	kuawi	0131	#	#	##ds	##ds				
+kalamang	kuawi	0131	ah	INT	other	other				
+kalamang	kuawi	0132	mu	3PL	pro.d:a	pro	d	a	332	
+kalamang	kuawi	0132	he	IAM	other	other				
+kalamang	kuawi	0132	an	1SG	pro.1:p	pro	1	p	340	
+kalamang	kuawi	0132	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0132	koyak	hit_with_tool	v:pred	v		pred		
+kalamang	kuawi	0132	=ta	=NFIN	=rv	=rv				
+kalamang	kuawi	0132	yua	PROX	other	other				
+kalamang	kuawi	0133	ade	INT.PEJ	nc	nc				
+kalamang	kuawi	0134	#	#	##	##				
+kalamang	kuawi	0134	baru	then	nc	nc				
+kalamang	kuawi	0135	#	#	#nc	#nc				
+kalamang	kuawi	0135	ema	mother	nc_np.h	nc_np	h		343	bridging
+kalamang	kuawi	0135	yo	yes	nc	nc				
+kalamang	kuawi	0135	kor	leg	nc_np	nc_np			342	
+kalamang	kuawi	0135	-an	-1SG.POSS	nc_pro.1	nc_pro	1		340	
+kalamang	kuawi	0135	se	IAM	nc	nc				
+kalamang	kuawi	0135	kariak	blood	nc	nc				
+kalamang	kuawi	0135	se	IAM	nc	nc				
+kalamang	kuawi	0136	#	#	#	#				
+kalamang	kuawi	0136	ah	INT	other	other				
+kalamang	kuawi	0136	mindi	like_that	other	other				
+kalamang	kuawi	0136	ma	3SG	pro.h:s_ds	pro	h	s_ds	343	
+kalamang	kuawi	0136	#	#	##ds	##ds				
+kalamang	kuawi	0136	ka	2SG	pro.2:s	pro	2	s	340	
+kalamang	kuawi	0136	ecie-n	return-N	lv	lv				
+kalamang	kuawi	0136	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0136	mara	move_towards_land	v:pred	v		pred		
+kalamang	kuawi	0136	#	#	#nc	#nc				
+kalamang	kuawi	0136	mu	3PL	nc_pro.h	nc_pro	h		326	
+kalamang	kuawi	0136	kai-nggi	medicine-BEN	nc	nc				
+kalamang	kuawi	0136	=et	=IRR	nc	nc				
+kalamang	kuawi	0137	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0137	ah	INT	other	other				
+kalamang	kuawi	0137	in	1PL.EXCL	pro.1:s	pro	1	s	344	bridging
+kalamang	kuawi	0137	ikon	some	rn	rn				
+kalamang	kuawi	0137	tok	still	other	other				
+kalamang	kuawi	0137	patin	wounded	v:pred	v		pred		
+kalamang	kuawi	0137	=nin-den	=NEG-AT	=rv	=rv				
+kalamang	kuawi	0137	#	#	##ds	##ds				
+kalamang	kuawi	0137	in	1PL.EXCL	pro.1:s	pro	1	s	344	
+kalamang	kuawi	0137	tahan	hold_in_place	v:pred	v		pred		
+kalamang	kuawi	0137	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0137	ah	INT	other	other				
+kalamang	kuawi	0138	#	#	##	##				
+kalamang	kuawi	0138	koi	then	other	other				
+kalamang	kuawi	0138	kodaet-nan	one_more-too	other.h:s_ds	other	h	s_ds	345	bridging
+kalamang	kuawi	0138	me	TOP	other	other				
+kalamang	kuawi	0138	#	#	##ds	##ds				
+kalamang	kuawi	0138	aduh	INTJ	other	other				
+kalamang	kuawi	0138	an-nan	1SG-too	pro.1:a	pro	1	a	345	
+kalamang	kuawi	0138	se	IAM	other	other				
+kalamang	kuawi	0138	anggon	1SG.POSS	pro.1:p	pro	1	p	346	bridging
+kalamang	kuawi	0138	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0138	se	IAM	other	other				
+kalamang	kuawi	0138	koluk	find	v:pred	v		pred		
+kalamang	kuawi	0139	#	#	#nc	#nc				
+kalamang	kuawi	0139	korus	shin	nc_np	nc_np			347	bridging
+kalamang	kuawi	0139	-un	-3POSS	nc_pro.h	nc_pro	h		345	
+kalamang	kuawi	0139	=ko	=LOC	=rn	=rn				
+kalamang	kuawi	0139	sadawak	axe	nc_np	nc_np			355	bridging
+kalamang	kuawi	0139	-un	-3POSS	nc_pro.h	nc_pro	h		345	
+kalamang	kuawi	0139	marain-kin	3SG.alone-POSS	nc_pro	nc_pro			345	
+kalamang	kuawi	0140	#	#	##	##				
+kalamang	kuawi	0140	an	1SG	nc_pro.1	nc_pro	1		345	
+kalamang	kuawi	0140	=barak	=too	nc	nc				
+kalamang	kuawi	0140	se	IAM	nc	nc				
+kalamang	kuawi	0140	mu	3PL	pro.d:a	pro	d	a	332	
+kalamang	kuawi	0140	he	IAM	other	other				
+kalamang	kuawi	0140	an	1SG	pro.1:p	pro	1	p	345	
+kalamang	kuawi	0140	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0140	koyak	hit_with_tool	v:pred	v		pred		
+kalamang	kuawi	0140	weinun	too	other	other				
+kalamang	kuawi	0140	se	IAM	other	other				
+kalamang	kuawi	0141	#	#	##ds	##ds				
+kalamang	kuawi	0141	ah	INTJ	other	other				
+kalamang	kuawi	0141	mindi	like.that	other	other				
+kalamang	kuawi	0141	ki	2PL	pro.2:s	pro	2	s	348	bridging
+kalamang	kuawi	0141	patin-den	hurt-at	rn	rn				
+kalamang	kuawi	0141	yecie-r	return-PL.IMP	v:pred	v		pred		
+kalamang	kuawi	0141	#	#	#nc	#nc				
+kalamang	kuawi	0141	in	1PL.EXCL	nc_pro.1	nc_pro	1		349	bridging
+kalamang	kuawi	0141	patin-nin-den	hurt-NEG-at	nc	nc				
+kalamang	kuawi	0142	#	#	#nc	#nc				
+kalamang	kuawi	0142	[INAUDIBLE]	NC	nc	nc				
+kalamang	kuawi	0143	#	#	##	##				
+kalamang	kuawi	0143	ZERO	ZERO	0:s	0		s		
+kalamang	kuawi	0143	minda	like_that	lv	lv				
+kalamang	kuawi	0143	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0143	minda	like_that	lv	lv				
+kalamang	kuawi	0143	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0143	minda	like_that	lv	lv				
+kalamang	kuawi	0143	=i	=PLNK	=lv	=lv				
+kalamang	kuawi	0143	mindi	like_that	lv	lv				
+kalamang	kuawi	0143	bo-re	go-NFIN	v:pred	v		pred		
+kalamang	kuawi	0143	bo	go	other	other				
+kalamang	kuawi	0143	#	#	#nc	#nc				
+kalamang	kuawi	0143	kodaer-re	one_more-NFIN	nc_other.h	nc_other	h		350	bridging
+kalamang	kuawi	0143	koi	go	nc	nc				
+kalamang	kuawi	0143	kor	foot	nc_np	nc_np			351	bridging
+kalamang	kuawi	0143	-un	-3POSS	nc_pro.h	nc_pro	h		350	
+kalamang	kuawi	0143	=ko	=LOC	nc	nc				
+kalamang	kuawi	0143	#	#	##	##				
+kalamang	kuawi	0143	ma	3SG	pro.h:s_ds	pro	h	s_ds	350	
+kalamang	kuawi	0143	toni	think	v:pred	v		pred		
+kalamang	kuawi	0143	#	#	##ds	##ds				
+kalamang	kuawi	0143	o	EMPH	other	other				
+kalamang	kuawi	0143	berarti	that_means	other	other				
+kalamang	kuawi	0144	salai	wrong	lv	lv				
+kalamang	kuawi	0144	=a	=FOC	=lv	=lv				
+kalamang	kuawi	0144	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0145	#	#	##	##				
+kalamang	kuawi	0145	mungkin	maybe	other	other				
+kalamang	kuawi	0145	akal	sense	np:s	np		s	352	new
+kalamang	kuawi	0145	masuk	enter	v:pred	v		pred		
+kalamang	kuawi	0145	pikiran	thoughts	nc	nc				
+kalamang	kuawi	0145	#	#	##ds	##ds				
+kalamang	kuawi	0145	o	EMPH	other	other				
+kalamang	kuawi	0145	in	1PL.EXCL	pro.1:s	pro	1	s	333	
+kalamang	kuawi	0145	salai	wrong	lv	lv				
+kalamang	kuawi	0145	=a	=FOC	=lv	=lv				
+kalamang	kuawi	0145	bo-t	go-T	v:pred	v		pred		
+kalamang	kuawi	0146	#	#	##ds	##ds				
+kalamang	kuawi	0146	sedangkan	while	other	other				
+kalamang	kuawi	0146	patin	wounded	np:dt_p	np		dt_p	353	bridging
+kalamang	kuawi	0146	wa	PROX	rn	rn				
+kalamang	kuawi	0146	me	TOP	other	other				
+kalamang	kuawi	0146	indain	1PL.EXCL.alone	pro.1:a	pro	1	a	333	
+kalamang	kuawi	0146	alar	tool	rn_np	rn_np				
+kalamang	kuawi	0146	-un	-3POSS	-rn_pro.h:poss	-rn_pro	h	poss		
+kalamang	kuawi	0146	yua	PROX	rn	rn				
+kalamang	kuawi	0146	=ba	=FOC	=rn	=rn				
+kalamang	kuawi	0146	in	1PL.EXCL	pro.1:p	pro	1	p	333	
+kalamang	kuawi	0146	=at	=OBJ	=rn	=rn				
+kalamang	kuawi	0146	na	consume	v:pred	v		pred		
+kalamang	kuawi	0147	#	#	#nc	#nc				
+kalamang	kuawi	0147	sedawa	machete	nc_np	nc_np			341	
+kalamang	kuawi	0147	-un	-3POSS	nc_pro.h	nc_pro	h		333	
+kalamang	kuawi	0147	=at	=OBJ	nc	nc				
+kalamang	kuawi	0147	atau	or	nc	nc				
+kalamang	kuawi	0147	ah	INT	nc	nc				
+kalamang	kuawi	0148	#	#	##ds	##ds				
+kalamang	kuawi	0148	sedangkan	while	other	other				
+kalamang	kuawi	0148	don	thing	np:p	np		p		
+kalamang	kuawi	0148	wa	PROX	rn	rn				
+kalamang	kuawi	0148	me	top	other	other				
+kalamang	kuawi	0148	pi	1PL.INCL	pro.1:a	pro	1	a	333	
+kalamang	kuawi	0148	nak=	just=	=lv	=lv				
+kalamang	kuawi	0148	komain	stab	v:pred	v		pred		
+kalamang	kuawi	0148	=kin	=VOL	=rv	=rv				
+kalamang	kuawi	0148	#	#	#nc	#nc				
+kalamang	kuawi	0148	hari kiamat	NC	nc	nc				
+kalamang	kuawi	0148	ma he me	NC	nc	nc				
+kalamang	kuawi	0148	hari kiamat	NC	nc	nc				
+kalamang	kuawi	0148	ma he me	that's_it	nc	nc				
+kalamang	kuawi	0149	#	#	##ds	##ds				
+kalamang	kuawi	0149	pasier	sea	np:predex	np		predex	337	
+kalamang	kuawi	0150	#	#	##ds.neg	##ds.neg				
+kalamang	kuawi	0150	ah	INT	other	other				
+kalamang	kuawi	0150	tapi	but	other	other				
+kalamang	kuawi	0150	karena	because	other	other				
+kalamang	kuawi	0151	mungkin	maybe	other	other				
+kalamang	kuawi	0151	in	1PL.EXCL	pro.1:s	pro	1	s	333	
+kalamang	kuawi	0151	pikiran	thoughts	rn_np	rn_np			354	bridging
+kalamang	kuawi	0151	-un	-3POSS	-rn_pro:poss	-rn_pro		poss		
+kalamang	kuawi	0151	sampi	until	other	other				
+kalamang	kuawi	0151	metko	DIST.LOC	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0151	=nin	=NEG	=rn	=rn				
+kalamang	kuawi	0151	dan	NC	nc	nc				
+kalamang	kuawi	0151	#	#	##neg	##neg				
+kalamang	kuawi	0151	akal	sense	np:s	np		s	354	
+kalamang	kuawi	0151	-un	-3POSS	-rn_pro:poss	-rn_pro		poss		
+kalamang	kuawi	0151	sampi	until	other	other				
+kalamang	kuawi	0151	metko	DIST.LOC	dem_pro:pred	dem_pro		pred		
+kalamang	kuawi	0151	=nin	=NEG	=rn	=rn				
+kalamang	kuawi	0151	sehingga	until	other	other				
+kalamang	kuawi	0152	#	#	##ds	##ds				
+kalamang	kuawi	0152	in	1PL.EXCL	pro.1:s	pro	1	s	333	
+kalamang	kuawi	0152	se	IAM	other	other				
+kalamang	kuawi	0152	wandi	like_this	other	other				
+kalamang	kuawi	0152	paruo	do	v:pred	v		pred		
+kalamang	kuawi	0152	me	DIST	other	other				
+kalamang	kuawi	0152	=ba	=FOC	=other	=other				
+kalamang	kuawi	0152	#	#	##ds	##ds				
+kalamang	kuawi	0152	in	1PL.EXCL	pro.1:s_ds	pro	1	s_ds	333	
+kalamang	kuawi	0152	toni	think	v:pred	v		pred		
+kalamang	kuawi	0153	#	#	##ds	##ds				
+kalamang	kuawi	0153	don	thing	nc	nc				
+kalamang	kuawi	0153	wa	PROX	nc	nc				
+kalamang	kuawi	0153	me	TOP	nc	nc				
+kalamang	kuawi	0153	karena	because	other	other				
+kalamang	kuawi	0153	ma	3SG	pro:s	pro		s		
+kalamang	kuawi	0153	naruba	change	v:pred	v		pred		
+kalamang	kuawi	0153	#	#	##ds	##ds				
+kalamang	kuawi	0153	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0153	laur	rising_tide	v:pred	v		pred		
+kalamang	kuawi	0153	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0153	#	#	##ds	##ds				
+kalamang	kuawi	0153	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0153	karara	dry	v:pred	v		pred		
+kalamang	kuawi	0153	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0154	#	#	#nc	#nc				
+kalamang	kuawi	0154	ah	INTJ	nc	nc				
+kalamang	kuawi	0154	itu	NC	nc	nc				
+kalamang	kuawi	0155	#	#	##ds	##ds				
+kalamang	kuawi	0155	a	FIL	other	other				
+kalamang	kuawi	0155	me-rauna	DIST-so	other	other				
+kalamang	kuawi	0155	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0156	ma	3SG	pro:appos	pro		appos	322	
+kalamang	kuawi	0156	karara	dry	v:pred	v		pred		
+kalamang	kuawi	0156	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0156	#	#	##ds	##ds				
+kalamang	kuawi	0156	ma	3SG	np:s	np		s	322	
+kalamang	kuawi	0156	laur	rising_tide	v:pred	v		pred		
+kalamang	kuawi	0156	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0156	#	#	##ds	##ds				
+kalamang	kuawi	0156	warkin	tide	np:s	np		s	322	
+kalamang	kuawi	0156	ma	3SG	pro:appos	pro		appos	322	
+kalamang	kuawi	0156	temun	big	v:pred	v		pred		
+kalamang	kuawi	0156	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0156	#	#	##ds	##ds				
+kalamang	kuawi	0156	ma	3SG	pro:s	pro		s	322	
+kalamang	kuawi	0156	balaon	a_little	v:pred	v		pred		
+kalamang	kuawi	0156	=et	=IRR	=rv	=rv				
+kalamang	kuawi	0157	#	#	#nc	#nc				
+kalamang	kuawi	0157	balaon	a_little	nc	nc				
+kalamang	kuawi	0157	=et	=IRR	nc	nc				
+kalamang	kuawi	0158	#	#	#nc	#nc				
+kalamang	kuawi	0158	karena	because	nc	nc				
+kalamang	kuawi	0158	kejajian	incident?	nc	nc				
+kalamang	kuawi	0158	ma	3SG	nc	nc				
+kalamang	kuawi	0158	mer	DIST.OBJ	nc	nc				
+kalamang	kuawi	0158	=a	=FOC	nc	nc				
+kalamang	kuawi	0158	paruo-n	do-N	nc	nc				
+kalamang	kuawi	0158	=i	=PLNK	nc	nc				
+kalamang	kuawi	0158	pareir	follow	nc	nc				
+kalamang	kuawi	0158	jadi	so	nc	nc				
+kalamang	kuawi	0158	mungkin	maybe	nc	nc				
+kalamang	kuawi	0159	eh	QUOT	nc	nc				
+kalamang	kuawi	0160	#	#	#nc	#nc				
+kalamang	kuawi	0160	Ibu	NC	nc	nc				
+kalamang	kuawi	0160	sama	NC	nc	nc				
+kalamang	kuawi	0160	bapak	NC	nc	nc				
+kalamang	kuawi	0160	cerita	NC	nc	nc				
+kalamang	kuawi	0160	pendek	NC	nc	nc				
+kalamang	kuawi	0160	dari	NC	nc	nc				
+kalamang	kuawi	0160	saya	NC	nc	nc				
+kalamang	kuawi	0160	untuk	NC	nc	nc				
+kalamang	kuawi	0160	menyampaikan	NC	nc	nc				
+kalamang	kuawi	0160	satu	NC	nc	nc				
+kalamang	kuawi	0160	ceritra	NC	nc	nc				
+kalamang	kuawi	0160	awal	NC	nc	nc				
+kalamang	kuawi	0160	daripada	NC	nc	nc				
+kalamang	kuawi	0160	kisa-kisa	NC	nc	nc				
+kalamang	kuawi	0160	dari	NC	nc	nc				
+kalamang	kuawi	0160	moyang	NC	nc	nc				
+kalamang	kuawi	0160	atau	NC	nc	nc				
+kalamang	kuawi	0160	tete	NC	nc	nc				
+kalamang	kuawi	0160	kita	NC	nc	nc				
+kalamang	kuawi	0160	yang	NC	nc	nc				
+kalamang	kuawi	0160	berbuat	NC	nc	nc				
+kalamang	kuawi	0160	seperti	NC	nc	nc				
+kalamang	kuawi	0160	itu	NC	nc	nc				
+kalamang	kuawi	0161	#	#	#nc	#nc				
+kalamang	kuawi	0161	mera	NC	nc	nc				
+kalamang	kuawi	0161	an	NC	nc	nc				
+kalamang	kuawi	0161	ewai	NC	nc	nc				
+kalamang	kuawi	0161	sampi	NC	nc	nc				
+kalamang	kuawi	0161	miasendak	NC	nc	nc				
+kalamang	kuawi	0161	terima	NC	nc	nc				
+kalamang	kuawi	0161	kasi	NC	nc	nc				
