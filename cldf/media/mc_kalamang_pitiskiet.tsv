@@ -1698,7 +1698,7 @@ kalamang	pitiskiet	0168	he	IAM	other	other
 kalamang	pitiskiet	0168	ZERO	ZERO	0:p	0		p	537	bridging
 kalamang	pitiskiet	0168	kietkier-re	defecate-NFIN	v:pred	v		pred		
 kalamang	pitiskiet	0168	#	#	#nc	#nc				
-kalamang	pitiskiet	0168	pitis	money	nc	nc			537	
+kalamang	pitiskiet	0168	pitis	money	nc_np	nc_np			537	
 kalamang	pitiskiet	0168	se	IAM	nc	nc				
 kalamang	pitiskiet	0168	#	#	##	##				
 kalamang	pitiskiet	0168	mu	3PL	nc	nc				

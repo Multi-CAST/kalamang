@@ -6,7 +6,7 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.0
--e git+https://github.com/Multi-CAST/mckalamang@942c6d0c646fea9766b86944e46159825850fe1d#egg=cldfbench_mckalamang
+-e git+https://github.com/Multi-CAST/mckalamang@a6ff9da62ed21ceb164e22a3e8861da843660f8a#egg=cldfbench_mckalamang
 cldfcatalog==1.5.1
 cldfzenodo==2.1.2
 clldutils==3.24.0
