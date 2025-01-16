@@ -7,7 +7,7 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.0
--e git+https://github.com/Multi-CAST/mckalamang@22e3c2c95e7932dd1b077fdfcba332b6450e18e5#egg=cldfbench_mckalamang
+-e git+https://github.com/Multi-CAST/mckalamang@606cb5a8c8bed71ba527f56cc454c786cf0a941a#egg=cldfbench_mckalamang
 cldfcatalog==1.5.1
 -e git+https://github.com/cldf/cldfviz@624f57ba022675ddd2343a08ed02adc9785f02f8#egg=cldfviz
 cldfzenodo==2.1.2
