@@ -68,6 +68,76 @@ Available online at https://multicast.aspra.uni-bamberg.de/#kalamang
 ```
 
 
+
+## Corpus counts
+
+Only a small number of basic GRAID symbols are counted:
+
+*Function symbols*
+- ⟨0⟩ zero
+- ⟨pro⟩ definite pronoun
+- ⟨np⟩ full noun phrase
+- ⟨other⟩ form not further specified
+
+*Person/Animacy symbols*
+- ⟨.1⟩ first person
+- ⟨.2⟩ second person
+- ⟨.h⟩ third person, human
+- ⟨.d⟩ third person, anthropomorphic
+- ø third person, non-human
+
+*Function symbols*
+- ⟨:s⟩ subject of an intransitive clause
+- ⟨:a⟩ subject of a transitive clause
+- ⟨:ncs⟩ non-canonical subject
+- ⟨:p⟩ direct object
+- ⟨:obl⟩ oblique argument
+- ⟨:g⟩ goal argument
+- ⟨:l⟩ locational argument
+- ⟨:pred⟩ predicate
+- ⟨:poss⟩ possessive
+- ⟨:other⟩ function not further specified
+
+Only basic categories are listed; categories represented by complex symbols with additional
+specifiers (e.g. ⟨dem_pro⟩ ‘demonstrative pronoun’) have been subsumed under the more basic
+category (e.g. ⟨pro⟩ ‘definite pronoun’). Please refer to the annotation notes for this corpus for
+information on all annotated categories, including those not listed here.
+
+| GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
+|:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
+| **⟨0.1⟩** | 3 | 8 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 12 |
+| **⟨0.2⟩** | 24 | 33 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 58 |
+| **⟨0.h⟩** | 47 | 45 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 99 |
+| **⟨0.d⟩** | 29 | 22 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 59 |
+| **⟨0⟩** | 35 | 11 | 0 | 106 | 0 | 0 | 1 | 17 | 0 | 0 | 170 |
+| **⟨pro.1⟩** | 58 | 45 | 0 | 18 | 1 | 1 | 1 | 1 | 21 | 0 | 146 |
+| **⟨pro.2⟩** | 31 | 26 | 0 | 9 | 0 | 3 | 2 | 0 | 15 | 0 | 86 |
+| **⟨pro.h⟩** | 124 | 67 | 0 | 22 | 3 | 8 | 3 | 0 | 62 | 0 | 289 |
+| **⟨pro.d⟩** | 71 | 30 | 0 | 12 | 0 | 5 | 0 | 0 | 18 | 0 | 136 |
+| **⟨pro⟩** | 41 | 10 | 0 | 10 | 4 | 10 | 2 | 25 | 31 | 0 | 133 |
+| **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨np.h⟩** | 38 | 25 | 0 | 14 | 9 | 3 | 3 | 4 | 0 | 0 | 96 |
+| **⟨np.d⟩** | 57 | 9 | 0 | 11 | 0 | 0 | 0 | 0 | 0 | 0 | 77 |
+| **⟨np⟩** | 124 | 16 | 0 | 130 | 6 | 44 | 43 | 81 | 0 | 5 | 449 |
+| **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.h⟩** | 6 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 9 |
+| **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other⟩** | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 32 | 0 | 0 | 35 |
+| | 689 | 350 | 0 | 350 | 23 | 74 | 56 | 160 | 147 | 5 | 1854 |
+
+
+**Clause boundaries**
+
+| GRAID | count |
+|:-----------|--------:|
+| **⟨##⟩** | 1019 |
+| **⟨#⟩** | 32 |
+| **totals** | 1051 |
+
+
+
 ## Corpus metadata
 
 - [Annotation notes](cldf/media/annotation-notes.pdf)

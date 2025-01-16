@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2311">
+<multicast version="2108">
  <corpus c_name="kalamang">
   <text t_name="yardakdak" annotators="Eline Visser" speaker="KL01">
-   <file f_name="mc_kalamang_yardakdak" audio="mc_kalamang_yardakdak.wav" updated="2022-07-25">
+   <file f_name="mc_kalamang_yardakdak" audio="mc_kalamang_yardakdak.wav" updated="2021-08-30">
     <unit uid="0001" start_time="2569" end_time="9000">
      <utterance_id>kalamang_yardakdak_0001</utterance_id>
      <utterance>mier bore kelaka mier kelaka marmar bara oskeitko warat sarani koyet</utterance>
@@ -302,7 +302,6 @@
        <gloss>cape-RED</gloss>
        <graid>np:other</graid>
        <refind>606</refind>
-       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>

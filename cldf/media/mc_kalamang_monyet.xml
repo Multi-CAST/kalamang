@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2311">
+<multicast version="2108">
  <corpus c_name="kalamang">
   <text t_name="monyet" annotators="Eline Visser" speaker="KL03">
-   <file f_name="mc_kalamang_monyet" audio="mc_kalamang_monyet.wav" updated="2022-07-25">
+   <file f_name="mc_kalamang_monyet" audio="mc_kalamang_monyet.wav" updated="2021-08-30">
     <unit uid="0001" start_time="39604" end_time="43412">
      <utterance_id>kalamang_monyet_0001</utterance_id>
      <utterance>mindita me lekibon</utterance>
